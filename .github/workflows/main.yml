@@ -40,8 +40,9 @@ jobs:
           
           for member in "${members[@]}"; do
             echo "Fetching commit history for $member..."
-            member_commits=$(curl -sSL -H "Authorization: Bearer ${{ secrets.GDSC_GH_TOKEN }}" "https://api.github.com/users/${member}/events")
-      
+            # member_commits=$(curl -sSL -H "Authorization: Bearer ${{ secrets.GDSC_GH_TOKEN }}" "https://api.github.com/users/${member}/events")
+            commits_data=$(echo "$member_commits" | jq -r 'map(select(.type == "PushEvent")) | .[] | {commitId: .payload.commits[0].sha, userName: .payload.commits[0].author.name, commitTime: .created_at, commitMessage: .payload.commits[0].message, commitLink: .payload.commits[0].url }')
+
             if [[ $(echo "$member_commits" | jq length) -gt 0 ]]; then
               # Extracting commit-related data (commit ID, name, time, message, link)
               commits_data=$(echo "$member_commits" | jq -r 'map(select(.type == "PushEvent")) | .[].payload.commits[] | {commitId: .sha, userName: .author.name, commitTime: .created_at, commitMessage: .message, commitLink: .url }')
