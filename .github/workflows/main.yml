@@ -13,19 +13,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
+        
       - name: Get members of "gdsc" organization
         id: get-members
         run: |
           members=$(curl -sSL -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.GDSC_GH_TOKEN }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/orgs/Google-DSC-Kookmin/members | jq -r '.[].login')
+            https://api.github.com/orgs/Google-DSC-Kookmin/members | jq -r '.[] | .login' | sed 's/ /_/g')
           
           # Set members as an environment variable
           echo "GDSC_MEMBERS=$members" >> $GITHUB_ENV
         shell: bash
-          
+
       - name: Fetch commit history for each member
         id: fetch-commit-history
         run: |
