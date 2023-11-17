@@ -1,4 +1,400 @@
-{ donggook-me: {
+{ Byeooon: {
+  "commitId": "3cf9076223ec975be489a47731910263ad78dfdc",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : colab google drive",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/3cf9076223ec975be489a47731910263ad78dfdc"
+}
+{
+  "commitId": "a802a16ad2de68f1371f83dc7f65c95537e31f34",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : linux mv command",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/a802a16ad2de68f1371f83dc7f65c95537e31f34"
+}
+{
+  "commitId": "0e8a1c1e7a7fcf08db35cafc6b5e465cffada7c5",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : rpi network priority on mac",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/0e8a1c1e7a7fcf08db35cafc6b5e465cffada7c5"
+}
+{
+  "commitId": "8c0e28527c31122308eeecea0d00facb44ee8670",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : rpi shutdown command",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/8c0e28527c31122308eeecea0d00facb44ee8670"
+}
+{
+  "commitId": "ef625356f7be8cd4375a681c25acd00651ed6300",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "docs : demo videos link",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/ef625356f7be8cd4375a681c25acd00651ed6300"
+}
+{
+  "commitId": "2f5ae80e0b3fd2e91f4b1d569e9805eec958a5ac",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : using typedef",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/2f5ae80e0b3fd2e91f4b1d569e9805eec958a5ac"
+}
+{
+  "commitId": "66c19633415ed4b46ff129a40bbd8c2970057e39",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : arduino serial monitor",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/66c19633415ed4b46ff129a40bbd8c2970057e39"
+}
+{
+  "commitId": "6f04b3c5d45d1406136d3a367a7f9e678b2db062",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "docs : ch readme",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/6f04b3c5d45d1406136d3a367a7f9e678b2db062"
+}
+{
+  "commitId": "bbd094bc569805e8dd40daa07c649457818751d5",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : final car",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/bbd094bc569805e8dd40daa07c649457818751d5"
+}
+{
+  "commitId": "22172333872eab622ed5eebce615cdf282f137fc",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : change motor and ir value",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/22172333872eab622ed5eebce615cdf282f137fc"
+}
+{
+  "commitId": "fe50fc91e4b723bedf360747656da987e4f04710",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : change motor value",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/fe50fc91e4b723bedf360747656da987e4f04710"
+}
+{
+  "commitId": "c9b6a9d7db5e24de996a4fc34edb3d236740d999",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : ir sensor with motor",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/c9b6a9d7db5e24de996a4fc34edb3d236740d999"
+}
+{
+  "commitId": "dc0f6126374d8f7b72480cc32d598f341e67816d",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : hcsr04 with motor",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/dc0f6126374d8f7b72480cc32d598f341e67816d"
+}
+{
+  "commitId": "03c88d9665d306e48893bc8ecdc4bae38daf5cdd",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : motor",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/03c88d9665d306e48893bc8ecdc4bae38daf5cdd"
+}
+{
+  "commitId": "5afbffed8156d0ee1752c539b9697194fcb040f6",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "blog : backtracking",
+  "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/5afbffed8156d0ee1752c539b9697194fcb040f6"
+}
+{
+  "commitId": "13e0d4aaaf22baae4e94e1f5182258c09c9d82c6",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "docs : readme",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/13e0d4aaaf22baae4e94e1f5182258c09c9d82c6"
+}
+{
+  "commitId": "f47889198ee1bff210c59f70e7fef03545b59cfe",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : ws2812 with hcsr04",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/f47889198ee1bff210c59f70e7fef03545b59cfe"
+}
+{
+  "commitId": "0e45aedcd22dab5af4f915a0c637ee834172432b",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : hcsr04 sensor",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/0e45aedcd22dab5af4f915a0c637ee834172432b"
+}
+{
+  "commitId": "b06a52f1a23a93aae2f8a9920a10c8334ff375b0",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : ws2812 with ir",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/b06a52f1a23a93aae2f8a9920a10c8334ff375b0"
+}
+{
+  "commitId": "a614560bcdc1554bafe8f574722f9066c0ab345c",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : ir sensor",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/a614560bcdc1554bafe8f574722f9066c0ab345c"
+}
+{
+  "commitId": "e763051e8371ba2c16711f7a2f7c81fa2f617e04",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "git : gitignore .DS_Store",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/e763051e8371ba2c16711f7a2f7c81fa2f617e04"
+}
+{
+  "commitId": "72f2641c658602f09f80d3aa56ff8a8acd3f96f8",
+  "userName": "Byeooon",
+  "commitTime": null,
+  "commitMessage": "src : LED Control",
+  "commitLink": "https://api.github.com/repos/Byeooon/ESP32_AutoDrive/commits/72f2641c658602f09f80d3aa56ff8a8acd3f96f8"
+} ChangHoon-Sung: {
+  "commitId": "90f5c9df9d987acc795ba5338af50a7f0764034e",
+  "userName": "Dadoum",
+  "commitTime": null,
+  "commitMessage": "Update libplist",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/Provision/commits/90f5c9df9d987acc795ba5338af50a7f0764034e"
+}
+{
+  "commitId": "46f605c64c1d06731b1ae230465db936e59c2542",
+  "userName": "Dadoum",
+  "commitTime": null,
+  "commitMessage": "Fix a silly bug in the shift to support Apple Silicon",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/Provision/commits/46f605c64c1d06731b1ae230465db936e59c2542"
+}
+{
+  "commitId": "533dca306b86f9c7801354b78f5187addb58b740",
+  "userName": "Dadoum",
+  "commitTime": null,
+  "commitMessage": "Update libplist",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/Provision/commits/533dca306b86f9c7801354b78f5187addb58b740"
+}
+{
+  "commitId": "870bfa914559966cbbbe4ff631dfb943e87e1ed7",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Make it not return to black",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/870bfa914559966cbbbe4ff631dfb943e87e1ed7"
+}
+{
+  "commitId": "5dfb535e092c8d1d32d8bb66ade8f05e402898ff",
+  "userName": "parkjongheum",
+  "commitTime": null,
+  "commitMessage": "f2fszonetracer: add comments",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/5dfb535e092c8d1d32d8bb66ade8f05e402898ff"
+}
+{
+  "commitId": "87d8a67fe72a561ce355094c62a034cfd1ff30cd",
+  "userName": "ChangHoon Sung",
+  "commitTime": null,
+  "commitMessage": "Add comments on scripts",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/87d8a67fe72a561ce355094c62a034cfd1ff30cd"
+}
+{
+  "commitId": "cc70bc1ce65e7fbc25339da7287cfa1731274af8",
+  "userName": "ChangHoon Sung",
+  "commitTime": null,
+  "commitMessage": "Remove unnecessary comment",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/cc70bc1ce65e7fbc25339da7287cfa1731274af8"
+}
+{
+  "commitId": "7f65283ed47d4c568655da13de62cc087a5d11ba",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "add viewer excutable",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/7f65283ed47d4c568655da13de62cc087a5d11ba"
+}
+{
+  "commitId": "f9cdfc1b7d4156b15a0852d0720eaba12e987132",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "update viewer binary",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/f9cdfc1b7d4156b15a0852d0720eaba12e987132"
+}
+{
+  "commitId": "b9edfee5448e9378328964b93a0c05ffdf912f3a",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "move fio jobs files to one single folder",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/b9edfee5448e9378328964b93a0c05ffdf912f3a"
+}
+{
+  "commitId": "03b2e243e7cc3490ac05c9a2c3abd278672cd30e",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "update VM image link in README",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/03b2e243e7cc3490ac05c9a2c3abd278672cd30e"
+}
+{
+  "commitId": "fdb68ab2b87be435276413fac133ef16eff477fd",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "update README",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/fdb68ab2b87be435276413fac133ef16eff477fd"
+}
+{
+  "commitId": "14700792e3d56b9a8c3910aedad2c8f1c2e106f6",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "update README",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/14700792e3d56b9a8c3910aedad2c8f1c2e106f6"
+}
+{
+  "commitId": "7ccd6e9e50d253a0a4b9e7b62941e567d8d3ec03",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "add gurb-display scritpt",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/7ccd6e9e50d253a0a4b9e7b62941e567d8d3ec03"
+}
+{
+  "commitId": "c100c51be3c660211989cd6e1d2a811f2dcea009",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Add comments",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/c100c51be3c660211989cd6e1d2a811f2dcea009"
+}
+{
+  "commitId": "605705cd6b609c421ee8b86e2cd6398e73abeac4",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Load previous segment type first",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/605705cd6b609c421ee8b86e2cd6398e73abeac4"
+}
+{
+  "commitId": "3a2547cf0d624511d548ac9eb9175bc6fdcbd81a",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "update viewer",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/3a2547cf0d624511d548ac9eb9175bc6fdcbd81a"
+}
+{
+  "commitId": "40a3b67df7c18a485b7cf35632d94b179600aef7",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Add WatchProcSegmentBits",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/40a3b67df7c18a485b7cf35632d94b179600aef7"
+}
+{
+  "commitId": "238c65197bf98110137cb4ef8e34957b63225661",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Use time.Equal instead of `==`",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/238c65197bf98110137cb4ef8e34957b63225661"
+}
+{
+  "commitId": "3cc1cfd1a72edc28514a3690ae6cce7a0900ceac",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "debug",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/3cc1cfd1a72edc28514a3690ae6cce7a0900ceac"
+}
+{
+  "commitId": "26b4eae353819e2c5e05d3fad3b16527efb501cb",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Remove print",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/26b4eae353819e2c5e05d3fad3b16527efb501cb"
+}
+{
+  "commitId": "8bf99b7e53805dc92d174de2c0facc0a378e662a",
+  "userName": "2minchul",
+  "commitTime": null,
+  "commitMessage": "Add zone dirty count",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/8bf99b7e53805dc92d174de2c0facc0a378e662a"
+}
+{
+  "commitId": "cfb92a0a101b8ba574b1f17d1247b71fb0e3bda5",
+  "userName": "Colin (MinChul Lee)",
+  "commitTime": null,
+  "commitMessage": "Fix for demo version (#1)\n\n* print\r\n\r\n* Run trace after read proc\r\n\r\n* Fix empty type\r\n\r\n* Add zone.FrequentSegmentType\r\n\r\n* Init map\r\n\r\n* except empty segment type for SegmentTypeCount\r\n\r\n* fix\r\n\r\n* Remove print\r\n\r\n* disable watch\r\n\r\n* WIP\r\n\r\n* WIP\r\n\r\n* WIP\r\n\r\n* Close proc file\r\n\r\n* wip\r\n\r\n* Revert \"wip\"\r\n\r\nThis reverts commit 4a6f5b9971c4a44bba5ec320dd7231cf7d05733e.\r\n\r\n* Add sighup\r\n\r\n* binary update",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/cfb92a0a101b8ba574b1f17d1247b71fb0e3bda5"
+}
+{
+  "commitId": "23bedab66075696fedc3bb3c888137ff91837742",
+  "userName": "ChangHoon Sung",
+  "commitTime": null,
+  "commitMessage": "Update minor",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/webchat/commits/23bedab66075696fedc3bb3c888137ff91837742"
+}
+{
+  "commitId": "49affd0077a50669cc9740db507f099ba8c709b4",
+  "userName": "Changhoon Sung",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/ChangHoon-Sung/commits/49affd0077a50669cc9740db507f099ba8c709b4"
+}
+{
+  "commitId": "cc70bc1ce65e7fbc25339da7287cfa1731274af8",
+  "userName": "ChangHoon Sung",
+  "commitTime": null,
+  "commitMessage": "Remove unnecessary comment",
+  "commitLink": "https://api.github.com/repos/pingxiang-chen/bpf-f2fs-zonetrace/commits/cc70bc1ce65e7fbc25339da7287cfa1731274af8"
+}
+{
+  "commitId": "87d8a67fe72a561ce355094c62a034cfd1ff30cd",
+  "userName": "ChangHoon Sung",
+  "commitTime": null,
+  "commitMessage": "Add comments on scripts",
+  "commitLink": "https://api.github.com/repos/pingxiang-chen/bpf-f2fs-zonetrace/commits/87d8a67fe72a561ce355094c62a034cfd1ff30cd"
+}
+{
+  "commitId": "51f0c47b59b00eac9492812e198f3397eb2fdd40",
+  "userName": "Ping-Xiang Chen",
+  "commitTime": null,
+  "commitMessage": "Add create namespace script for ZNS SSD",
+  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/51f0c47b59b00eac9492812e198f3397eb2fdd40"
+} ChanHHOO: {
+  "commitId": "e5553ce9e035b58751fec591d103ab234157e764",
+  "userName": "ChanHHOO",
+  "commitTime": null,
+  "commitMessage": "doc : Add images",
+  "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/e5553ce9e035b58751fec591d103ab234157e764"
+}
+{
+  "commitId": "77418c367c932416dec700e9c1143fd3877d5f66",
+  "userName": "ChanHHOO",
+  "commitTime": null,
+  "commitMessage": "doc : modify readme",
+  "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/77418c367c932416dec700e9c1143fd3877d5f66"
+}
+{
+  "commitId": "061c07eb043b0371f4ad429420cb45e13be9a0b3",
+  "userName": "ChanHHOO",
+  "commitTime": null,
+  "commitMessage": "feat : submmit exam",
+  "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
+} donggook-me: {
+  "commitId": "5fbfdd8be632e5c12309b002a41ab33e6a611214",
+  "userName": "Juliandocode",
+  "commitTime": null,
+  "commitMessage": "Update main.yml",
+  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/5fbfdd8be632e5c12309b002a41ab33e6a611214"
+}
+{
+  "commitId": "0a14f44bf958c4476ff142338e9e8c26c4c2ee20",
+  "userName": "Juliandocode",
+  "commitTime": null,
+  "commitMessage": "Update main.yml",
+  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/0a14f44bf958c4476ff142338e9e8c26c4c2ee20"
+}
+{
+  "commitId": "63bcce4af152a83ee7dfc1c3b9fcc63ece0cd75e",
+  "userName": "Juliandocode",
+  "commitTime": null,
+  "commitMessage": "Update main.yml",
+  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/63bcce4af152a83ee7dfc1c3b9fcc63ece0cd75e"
+}
+{
+  "commitId": "271153ebfbd95c8218fa7c31be6ce9e655e3d7d3",
+  "userName": "Juliandocode",
+  "commitTime": null,
+  "commitMessage": "Update main.yml",
+  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/271153ebfbd95c8218fa7c31be6ce9e655e3d7d3"
+}
+{
   "commitId": "9ba99634dcd8c421070173ecd35e6cf057a3059e",
   "userName": "Juliandocode",
   "commitTime": null,
@@ -123,6 +519,382 @@
   "commitTime": null,
   "commitMessage": "Rename readme to README",
   "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/gdsckookmin.github.io/commits/cd29b2b38c706983c069d05ed2e1c67ac5e43611"
+} EastWon0103: {
+  "commitId": "14d30c3bf8ed41291827f4b28507df6d763db2d3",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "fix: README.md",
+  "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/14d30c3bf8ed41291827f4b28507df6d763db2d3"
+}
+{
+  "commitId": "418dee2f7fbb0777ecfbe3a5d89cb57840f53ad2",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "fix: README.md",
+  "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/418dee2f7fbb0777ecfbe3a5d89cb57840f53ad2"
+}
+{
+  "commitId": "8edb3ac22418abb5b6bac0b1ccc555645220ac77",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "add: gitignore",
+  "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/8edb3ac22418abb5b6bac0b1ccc555645220ac77"
+}
+{
+  "commitId": "02132104707170d772859b7cf0176abfdf57bfcb",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "feat: Infra Structure",
+  "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/02132104707170d772859b7cf0176abfdf57bfcb"
+}
+{
+  "commitId": "9da57176f33014c0d69f42476ef9487a1c0551fd",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "add: gitignore",
+  "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/9da57176f33014c0d69f42476ef9487a1c0551fd"
+}
+{
+  "commitId": "fb32ed34003b52bbbe0dcaae055990153d437be4",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "feat: 닉네임 사용 가능 여부",
+  "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-API/commits/fb32ed34003b52bbbe0dcaae055990153d437be4"
+}
+{
+  "commitId": "792a4b41934c52a71e280d6baa471fd261e150bc",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "feat: email 인증",
+  "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-API/commits/792a4b41934c52a71e280d6baa471fd261e150bc"
+}
+{
+  "commitId": "42b119c82324507003ea4cd865292dabae7b8381",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "solve: 5",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/42b119c82324507003ea4cd865292dabae7b8381"
+}
+{
+  "commitId": "5a44722fe354ba6c2ff4ac5955c7da6e7e0adddd",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "notSolve: ACLanguage",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/5a44722fe354ba6c2ff4ac5955c7da6e7e0adddd"
+}
+{
+  "commitId": "3be5095522dd03bf83e78a6cf7ea7d9258c3d44a",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "sovlve: 10/19",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/3be5095522dd03bf83e78a6cf7ea7d9258c3d44a"
+}
+{
+  "commitId": "c677d473e0909b15400967ee0c59e763b1536323",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "sovlve: 주석",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/c677d473e0909b15400967ee0c59e763b1536323"
+}
+{
+  "commitId": "8e0679b387b61e8b0e6ee5e6bb48fac9e143d627",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "push",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/8e0679b387b61e8b0e6ee5e6bb48fac9e143d627"
+}
+{
+  "commitId": "faa042c2f05ee04b031154e793451f896ab58bfc",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "push",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/faa042c2f05ee04b031154e793451f896ab58bfc"
+}
+{
+  "commitId": "27c2d170a66dd749f5a0da95997e56af00ff0200",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "push",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/27c2d170a66dd749f5a0da95997e56af00ff0200"
+}
+{
+  "commitId": "46616d14ba54de1e83cdcc9e014b7d10877f93dc",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "sovlve: 2 problem",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/46616d14ba54de1e83cdcc9e014b7d10877f93dc"
+}
+{
+  "commitId": "85408c2d978405de4df03479734801ecfa55332d",
+  "userName": "Dongwon KIm",
+  "commitTime": null,
+  "commitMessage": "Delete .idea directory",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/85408c2d978405de4df03479734801ecfa55332d"
+}
+{
+  "commitId": "e45f5245bd7f6399f2274e979a996fb8ff15bc7e",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "solve: CoinZero",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/e45f5245bd7f6399f2274e979a996fb8ff15bc7e"
+}
+{
+  "commitId": "df56d0af7f886e8053f8f97827f93c373614b4a1",
+  "userName": "EastWon0103",
+  "commitTime": null,
+  "commitMessage": "push",
+  "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/df56d0af7f886e8053f8f97827f93c373614b4a1"
+} ehyeok9: {
+  "commitId": "8713c44940473346ec047fdda9bf97bfaf84195a",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "docs : 수정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/8713c44940473346ec047fdda9bf97bfaf84195a"
+}
+{
+  "commitId": "02650482d94304ea9fcf385b360522388e58c15c",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "fix : 제출 전 최종 수정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/02650482d94304ea9fcf385b360522388e58c15c"
+}
+{
+  "commitId": "38ba49627a08fc0074ba09bae0af1a0230376933",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 당첨 로또 번호를 저장하는 클래스 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/38ba49627a08fc0074ba09bae0af1a0230376933"
+}
+{
+  "commitId": "b5c5036317b410eb9c5ff619df4dafdce0e068b9",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "fix : 사용자의 로또를 출력하는 부분 분리 / 당첨 결과 출력부분 형식에 맞게 수정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/b5c5036317b410eb9c5ff619df4dafdce0e068b9"
+}
+{
+  "commitId": "86653a6dca80c9d5eba3162db9606731265d1450",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 객체 생성 없이 바로 쓸 수 있게 static으로 변경",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/86653a6dca80c9d5eba3162db9606731265d1450"
+}
+{
+  "commitId": "dfa50d23025d532489540058122e53eb5ac1ec47",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "fix : 객체 생성 없이 바로 쓸 수 있게 static으로 수정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/dfa50d23025d532489540058122e53eb5ac1ec47"
+}
+{
+  "commitId": "5dd8748dadc8550150369038093a9f7c82113769",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 당첨 번호를 저장하는 클래스  구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/5dd8748dadc8550150369038093a9f7c82113769"
+}
+{
+  "commitId": "218e281e1354d7587e2ded222caefced27079b9c",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "fix : matchingCount를 초기화해주는 부분 수정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/218e281e1354d7587e2ded222caefced27079b9c"
+}
+{
+  "commitId": "7ee0c721bab04903d32fc4cf84d8d0524fbd1ca3",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "fix : Result_Message 출력 형식에 맞게 수정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/7ee0c721bab04903d32fc4cf84d8d0524fbd1ca3"
+}
+{
+  "commitId": "90b4079bbea8b6cadea6da22ec82893c8227b1f6",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : controller 클래스 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/90b4079bbea8b6cadea6da22ec82893c8227b1f6"
+}
+{
+  "commitId": "01531dabc7ab470df6eb43d6b355bedc0ad215a2",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 구입된 로또를 저장하는 모델 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/01531dabc7ab470df6eb43d6b355bedc0ad215a2"
+}
+{
+  "commitId": "0b8e38e5e33ae0b935df6a993fdf1d7305ad7450",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : application 시작 코드 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/0b8e38e5e33ae0b935df6a993fdf1d7305ad7450"
+}
+{
+  "commitId": "fd53073902623404ec6ee1d686201b3081a04b48",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 로또의 번호를 받는 메서드 추가",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/fd53073902623404ec6ee1d686201b3081a04b48"
+}
+{
+  "commitId": "85e7303b338014b9c9f712b6e83eda6fd61f0b1d",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "fix : 2위 numberOfMatch 값 조정",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/85e7303b338014b9c9f712b6e83eda6fd61f0b1d"
+}
+{
+  "commitId": "a533bd0a13c3fb2a93606fbd729e4636208912d9",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 출력 view에 쓰일 enum 클래스 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/a533bd0a13c3fb2a93606fbd729e4636208912d9"
+}
+{
+  "commitId": "03d3cb945e3501fdcca86b43febe677dcf338e50",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 수익률 클래스 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/03d3cb945e3501fdcca86b43febe677dcf338e50"
+}
+{
+  "commitId": "e8747d9550a9eee3ac2bdec5b41b0be04e026de8",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 출력 view 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/e8747d9550a9eee3ac2bdec5b41b0be04e026de8"
+}
+{
+  "commitId": "9c35383e08a7c1435ac15f368b20463321aa6a3a",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 로또 결과를 계산하는 클래스 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/9c35383e08a7c1435ac15f368b20463321aa6a3a"
+}
+{
+  "commitId": "59d40cf70cdc79dcca1e217209002dca63cd0420",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 로또 당첨 결과를 저장할 클래스 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/59d40cf70cdc79dcca1e217209002dca63cd0420"
+}
+{
+  "commitId": "ce0f8e3ec08d1cab0cb3a7e570d3b9c3e6bda805",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 로또 수상 enum 클래스 생성",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/ce0f8e3ec08d1cab0cb3a7e570d3b9c3e6bda805"
+}
+{
+  "commitId": "5d33ced84e2443eaa25bd4ad98239e17ee310271",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 로또 번호 비교 기능 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/5d33ced84e2443eaa25bd4ad98239e17ee310271"
+}
+{
+  "commitId": "97b17b8eb5bde40e3062dc061543960f68d0c77a",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 랜덤 숫자 6개를 반환해주는 우틸 클래스",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/97b17b8eb5bde40e3062dc061543960f68d0c77a"
+}
+{
+  "commitId": "ac297c3e3c46a72f8fa44a3ce172e703a35e3d44",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 로또 번호, 구입금액 관련 Enum 클래스",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/ac297c3e3c46a72f8fa44a3ce172e703a35e3d44"
+}
+{
+  "commitId": "9062fd8a7547f13d5913cc89eb5765701ccb784a",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 유저의 입력을 받는 유틸 클래스",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/9062fd8a7547f13d5913cc89eb5765701ccb784a"
+}
+{
+  "commitId": "578427495516d72ce61e2f6fa362398fde916b2d",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "docs : 구현 기능 목록 정리",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/578427495516d72ce61e2f6fa362398fde916b2d"
+}
+{
+  "commitId": "a5d449ab63ecc8d94798f979cb49cb9d13cb7e8b",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "test : domian 모델들 테스트 작성",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/a5d449ab63ecc8d94798f979cb49cb9d13cb7e8b"
+}
+{
+  "commitId": "0d63c7783280eb137e36406bdee33f4afe4b0480",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 컨트롤러 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/0d63c7783280eb137e36406bdee33f4afe4b0480"
+}
+{
+  "commitId": "4604a6dbd6bfed558b999b04c98f3bc1ddcd7439",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 서비스 모델 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/4604a6dbd6bfed558b999b04c98f3bc1ddcd7439"
+}
+{
+  "commitId": "bea4a72ed4927a669f4d88382706f482795806ed",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 최종 우승자 선택 기능 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/bea4a72ed4927a669f4d88382706f482795806ed"
+}
+{
+  "commitId": "f7b6bff4e0b1cf770676f7482cfc5c132327522b",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : Car, Race DTO 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/f7b6bff4e0b1cf770676f7482cfc5c132327522b"
+}
+{
+  "commitId": "abc208690d810a072db16591625d31dbd9ee3be2",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 번호 생성 기능 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/abc208690d810a072db16591625d31dbd9ee3be2"
+}
+{
+  "commitId": "14846766bfc70ffb19ca4b84356b1a3d065e2a0c",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : Race 모델 생성",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/14846766bfc70ffb19ca4b84356b1a3d065e2a0c"
+}
+{
+  "commitId": "2e1fc555ba548e2afaefee7f72dcad46c20aa7c1",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : view 기능 구현",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/2e1fc555ba548e2afaefee7f72dcad46c20aa7c1"
+}
+{
+  "commitId": "3419282feb634824d900d69d634e568e45a46f7d",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : Cars 모델 생성",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/3419282feb634824d900d69d634e568e45a46f7d"
+}
+{
+  "commitId": "35e4a33ba6b30c78870fbf70b767fb04f1efa6ee",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "docs : 기능 구현 사항 업데이트",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/35e4a33ba6b30c78870fbf70b767fb04f1efa6ee"
+}
+{
+  "commitId": "6d32a63505dc9a30abca73c135187c56ef5ec896",
+  "userName": "Hyeok-Gyu Lee",
+  "commitTime": null,
+  "commitMessage": "feat : 자동차 모델 생성",
+  "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/6d32a63505dc9a30abca73c135187c56ef5ec896"
 } handsomem1n: {
   "commitId": "9b57cf3b48d9ed1ce98db589b2d634982e02f07d",
   "userName": "handsomemin",
@@ -332,199 +1104,1398 @@
   "commitTime": null,
   "commitMessage": "Add files via upload",
   "commitLink": "https://api.github.com/repos/handsomeminzz/Cpp/commits/b33558480436e883dd517cec4a46deb5b8d501f7"
-} ChangHoon-Sung: {
-  "commitId": "90f5c9df9d987acc795ba5338af50a7f0764034e",
-  "userName": "Dadoum",
+} Jaewoook: {
+  "commitId": "2ca4c1ea45bf76df6aaacc7801fb89d72a110c5e",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "Update libplist",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/Provision/commits/90f5c9df9d987acc795ba5338af50a7f0764034e"
+  "commitMessage": "Add baekjoon 10807 problem solution written in Python",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/2ca4c1ea45bf76df6aaacc7801fb89d72a110c5e"
 }
 {
-  "commitId": "46f605c64c1d06731b1ae230465db936e59c2542",
-  "userName": "Dadoum",
+  "commitId": "50e0271f93976ec4fcd0113ab73668a7138ab925",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "Fix a silly bug in the shift to support Apple Silicon",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/Provision/commits/46f605c64c1d06731b1ae230465db936e59c2542"
+  "commitMessage": "Add baekjoon 10810 problem solution written in Python",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/50e0271f93976ec4fcd0113ab73668a7138ab925"
 }
 {
-  "commitId": "533dca306b86f9c7801354b78f5187addb58b740",
-  "userName": "Dadoum",
+  "commitId": "5808cb3f042354087722952453059c1ca0db5e40",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "Update libplist",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/Provision/commits/533dca306b86f9c7801354b78f5187addb58b740"
+  "commitMessage": "Add baekjoon 11382 problem solution written in Python",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/5808cb3f042354087722952453059c1ca0db5e40"
 }
 {
-  "commitId": "870bfa914559966cbbbe4ff631dfb943e87e1ed7",
-  "userName": "2minchul",
+  "commitId": "876643306bfbc586ca3d0d44310ebe43732928ac",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "Make it not return to black",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/870bfa914559966cbbbe4ff631dfb943e87e1ed7"
+  "commitMessage": "Add kmu resize table column problem solution written in C++",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/876643306bfbc586ca3d0d44310ebe43732928ac"
 }
 {
-  "commitId": "5dfb535e092c8d1d32d8bb66ade8f05e402898ff",
-  "userName": "parkjongheum",
+  "commitId": "3f9d3b419d037efb887d40c6edafbb15497db2a0",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "f2fszonetracer: add comments",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/5dfb535e092c8d1d32d8bb66ade8f05e402898ff"
+  "commitMessage": "Add kmu rotate image problem solution written in C++",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/3f9d3b419d037efb887d40c6edafbb15497db2a0"
 }
 {
-  "commitId": "87d8a67fe72a561ce355094c62a034cfd1ff30cd",
-  "userName": "ChangHoon Sung",
+  "commitId": "a7fc9ca3cf7c4d0b2b37e3a16993096966f91804",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "Add comments on scripts",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/87d8a67fe72a561ce355094c62a034cfd1ff30cd"
+  "commitMessage": "Add baekjoon 25304 problem solution written in Python",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/a7fc9ca3cf7c4d0b2b37e3a16993096966f91804"
 }
 {
-  "commitId": "cc70bc1ce65e7fbc25339da7287cfa1731274af8",
-  "userName": "ChangHoon Sung",
+  "commitId": "1abeade631f6eb33ce49172c35f7cd60474f2b15",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "Remove unnecessary comment",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/cc70bc1ce65e7fbc25339da7287cfa1731274af8"
+  "commitMessage": "Add baekjoon 24392 problem solution written in Python",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/1abeade631f6eb33ce49172c35f7cd60474f2b15"
 }
 {
-  "commitId": "7f65283ed47d4c568655da13de62cc087a5d11ba",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "56073e8ef1eb1b8edc5d261bc33d38ed13e70233",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "add viewer excutable",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/7f65283ed47d4c568655da13de62cc087a5d11ba"
+  "commitMessage": "Add kmu find treasure problem solution written in C++",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/56073e8ef1eb1b8edc5d261bc33d38ed13e70233"
 }
 {
-  "commitId": "f9cdfc1b7d4156b15a0852d0720eaba12e987132",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "e691cde86cf4dcfaf22a071d939739fa19ba4acb",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "update viewer binary",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/f9cdfc1b7d4156b15a0852d0720eaba12e987132"
+  "commitMessage": "Add kmu small n number problem solution written in Python\n\n- easy version solution",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/e691cde86cf4dcfaf22a071d939739fa19ba4acb"
 }
 {
-  "commitId": "b9edfee5448e9378328964b93a0c05ffdf912f3a",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "c8f9c149d520fba6586302342ea47705533f6f32",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "move fio jobs files to one single folder",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/b9edfee5448e9378328964b93a0c05ffdf912f3a"
+  "commitMessage": "Add kmu ladder climing problem solution written in C++",
+  "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/c8f9c149d520fba6586302342ea47705533f6f32"
 }
 {
-  "commitId": "03b2e243e7cc3490ac05c9a2c3abd278672cd30e",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "668a378c59b4f4f4604a0c2ae623d29c43f153d1",
+  "userName": "Jaewook Ahn",
   "commitTime": null,
-  "commitMessage": "update VM image link in README",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/03b2e243e7cc3490ac05c9a2c3abd278672cd30e"
+  "commitMessage": "docs: update README.md\n\n- apply warning github markdown syntax",
+  "commitLink": "https://api.github.com/repos/Jaewoook/pdfium.js/commits/668a378c59b4f4f4604a0c2ae623d29c43f153d1"
+} jin-jae: {
+  "commitId": "2b575dea090f0c7b02dddf4cb5ecd26a7c6e1733",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "add: experiment comment",
+  "commitLink": "https://api.github.com/repos/jin-jae/DGHL-Code-Implementation/commits/2b575dea090f0c7b02dddf4cb5ecd26a7c6e1733"
 }
 {
-  "commitId": "fdb68ab2b87be435276413fac133ef16eff477fd",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "fb681304be7e7a3de91c0549640e8be888d544fa",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "update README",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/fdb68ab2b87be435276413fac133ef16eff477fd"
+  "commitMessage": "add: visualization comment",
+  "commitLink": "https://api.github.com/repos/jin-jae/DGHL-Code-Implementation/commits/fb681304be7e7a3de91c0549640e8be888d544fa"
 }
 {
-  "commitId": "14700792e3d56b9a8c3910aedad2c8f1c2e106f6",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "4b7bfc1f9b12cbabe5a7ba648c67324ecc66e463",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "update README",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/14700792e3d56b9a8c3910aedad2c8f1c2e106f6"
+  "commitMessage": "add: AIOps Settings",
+  "commitLink": "https://api.github.com/repos/jin-jae/DGHL-Code-Implementation/commits/4b7bfc1f9b12cbabe5a7ba648c67324ecc66e463"
 }
 {
-  "commitId": "7ccd6e9e50d253a0a4b9e7b62941e567d8d3ec03",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "631be460950e96b132935381fae214520f1a4cc3",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "add gurb-display scritpt",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/7ccd6e9e50d253a0a4b9e7b62941e567d8d3ec03"
+  "commitMessage": "feat: RTSP communication",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/631be460950e96b132935381fae214520f1a4cc3"
 }
 {
-  "commitId": "c100c51be3c660211989cd6e1d2a811f2dcea009",
-  "userName": "2minchul",
+  "commitId": "860c7b8bf4229b1d3ef143764c149df8682cc75a",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Add comments",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/c100c51be3c660211989cd6e1d2a811f2dcea009"
+  "commitMessage": "update: plugins",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/860c7b8bf4229b1d3ef143764c149df8682cc75a"
 }
 {
-  "commitId": "605705cd6b609c421ee8b86e2cd6398e73abeac4",
-  "userName": "2minchul",
+  "commitId": "0ee07f5fd7e41d87c01299b6c6f5b64aa2227564",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Load previous segment type first",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/605705cd6b609c421ee8b86e2cd6398e73abeac4"
+  "commitMessage": "fix: streaming UI/UX",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/0ee07f5fd7e41d87c01299b6c6f5b64aa2227564"
 }
 {
-  "commitId": "3a2547cf0d624511d548ac9eb9175bc6fdcbd81a",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "c1bc41692de085244ab1121b7d45e6f9287c50b8",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "update viewer",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/3a2547cf0d624511d548ac9eb9175bc6fdcbd81a"
+  "commitMessage": "fix: design, file structure",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/c1bc41692de085244ab1121b7d45e6f9287c50b8"
 }
 {
-  "commitId": "40a3b67df7c18a485b7cf35632d94b179600aef7",
-  "userName": "2minchul",
+  "commitId": "67468efcd1ce358be24c6b3ce9395348a0080b85",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Add WatchProcSegmentBits",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/40a3b67df7c18a485b7cf35632d94b179600aef7"
+  "commitMessage": "feat: socket communication",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/67468efcd1ce358be24c6b3ce9395348a0080b85"
 }
 {
-  "commitId": "238c65197bf98110137cb4ef8e34957b63225661",
-  "userName": "2minchul",
+  "commitId": "83c06ec59e69bd81e81f0fae6adc1cd5307cec88",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Use time.Equal instead of `==`",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/238c65197bf98110137cb4ef8e34957b63225661"
+  "commitMessage": "refactor: MainActivity to MainFragment",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/83c06ec59e69bd81e81f0fae6adc1cd5307cec88"
 }
 {
-  "commitId": "3cc1cfd1a72edc28514a3690ae6cce7a0900ceac",
-  "userName": "2minchul",
+  "commitId": "0ca6ce3a833455f64d54c763a5646f46b7f4d33b",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "debug",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/3cc1cfd1a72edc28514a3690ae6cce7a0900ceac"
+  "commitMessage": "add: Streaming working",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/0ca6ce3a833455f64d54c763a5646f46b7f4d33b"
 }
 {
-  "commitId": "26b4eae353819e2c5e05d3fad3b16527efb501cb",
-  "userName": "2minchul",
+  "commitId": "075fceee1718db3b08b028e6c986a0b2f9488555",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Remove print",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/26b4eae353819e2c5e05d3fad3b16527efb501cb"
+  "commitMessage": "fix: design",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/075fceee1718db3b08b028e6c986a0b2f9488555"
 }
 {
-  "commitId": "8bf99b7e53805dc92d174de2c0facc0a378e662a",
-  "userName": "2minchul",
+  "commitId": "f3156907df314c86162cd469c69c97f89c6b632a",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Add zone dirty count",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/8bf99b7e53805dc92d174de2c0facc0a378e662a"
+  "commitMessage": "fix: TTS notify after three consecutive unnormal",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/f3156907df314c86162cd469c69c97f89c6b632a"
 }
 {
-  "commitId": "cfb92a0a101b8ba574b1f17d1247b71fb0e3bda5",
-  "userName": "Colin (MinChul Lee)",
+  "commitId": "168a0082fc201fe07cb2d586c2e03f66057b1ba6",
+  "userName": "jin-jae",
   "commitTime": null,
-  "commitMessage": "Fix for demo version (#1)\n\n* print\r\n\r\n* Run trace after read proc\r\n\r\n* Fix empty type\r\n\r\n* Add zone.FrequentSegmentType\r\n\r\n* Init map\r\n\r\n* except empty segment type for SegmentTypeCount\r\n\r\n* fix\r\n\r\n* Remove print\r\n\r\n* disable watch\r\n\r\n* WIP\r\n\r\n* WIP\r\n\r\n* WIP\r\n\r\n* Close proc file\r\n\r\n* wip\r\n\r\n* Revert \"wip\"\r\n\r\nThis reverts commit 4a6f5b9971c4a44bba5ec320dd7231cf7d05733e.\r\n\r\n* Add sighup\r\n\r\n* binary update",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/cfb92a0a101b8ba574b1f17d1247b71fb0e3bda5"
+  "commitMessage": "fix: design",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/168a0082fc201fe07cb2d586c2e03f66057b1ba6"
 }
 {
-  "commitId": "23bedab66075696fedc3bb3c888137ff91837742",
-  "userName": "ChangHoon Sung",
+  "commitId": "dd767838bbcc3b47e87bae7d6913ccef229a3232",
+  "userName": "KIM JINJAE",
   "commitTime": null,
-  "commitMessage": "Update minor",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/webchat/commits/23bedab66075696fedc3bb3c888137ff91837742"
+  "commitMessage": "Merge pull request #8 from BO-DA/feature/video-transmit\n\nFeature/video transmit",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/dd767838bbcc3b47e87bae7d6913ccef229a3232"
 }
 {
-  "commitId": "49affd0077a50669cc9740db507f099ba8c709b4",
-  "userName": "Changhoon Sung",
+  "commitId": "075fceee1718db3b08b028e6c986a0b2f9488555",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: design",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/075fceee1718db3b08b028e6c986a0b2f9488555"
+}
+{
+  "commitId": "f3156907df314c86162cd469c69c97f89c6b632a",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: TTS notify after three consecutive unnormal",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/f3156907df314c86162cd469c69c97f89c6b632a"
+}
+{
+  "commitId": "168a0082fc201fe07cb2d586c2e03f66057b1ba6",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: design",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/168a0082fc201fe07cb2d586c2e03f66057b1ba6"
+}
+{
+  "commitId": "54cc5d77bc07ea70b12a22ad5bc57dff46c1fa9b",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: RTSP URL",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/54cc5d77bc07ea70b12a22ad5bc57dff46c1fa9b"
+}
+{
+  "commitId": "0ca6ce3a833455f64d54c763a5646f46b7f4d33b",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "add: Streaming working",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/0ca6ce3a833455f64d54c763a5646f46b7f4d33b"
+}
+{
+  "commitId": "bffe6c8857ddd355afa52a5939ff055363c9d5ae",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: requirements",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/bffe6c8857ddd355afa52a5939ff055363c9d5ae"
+}
+{
+  "commitId": "229e846a338bf08d301854f60c892c77e8405de2",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: delete git file if it was clonned already",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/229e846a338bf08d301854f60c892c77e8405de2"
+}
+{
+  "commitId": "27951c3119e0ae9fca759f26302eb11b1dd4e77f",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: AI Dockerfile",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/27951c3119e0ae9fca759f26302eb11b1dd4e77f"
+}
+{
+  "commitId": "d0ea1ea55b7f1f3dc69d3b4ad049240025b9caa2",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: requirements",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/d0ea1ea55b7f1f3dc69d3b4ad049240025b9caa2"
+}
+{
+  "commitId": "efe441ae209f9f9dca9dcc0eb7fcda209c3d7579",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "add: GUI in AI Server container",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/efe441ae209f9f9dca9dcc0eb7fcda209c3d7579"
+}
+{
+  "commitId": "67468efcd1ce358be24c6b3ce9395348a0080b85",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "feat: socket communication",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/67468efcd1ce358be24c6b3ce9395348a0080b85"
+}
+{
+  "commitId": "83c06ec59e69bd81e81f0fae6adc1cd5307cec88",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "refactor: MainActivity to MainFragment",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/83c06ec59e69bd81e81f0fae6adc1cd5307cec88"
+}
+{
+  "commitId": "93e76ae8dcde4c52428438a9f37b2ee838d45285",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: file path",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/93e76ae8dcde4c52428438a9f37b2ee838d45285"
+}
+{
+  "commitId": "4aaf4cf2c81df5a54d124f8b9f402efd6c83ec61",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "refactor: using docker compose",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/4aaf4cf2c81df5a54d124f8b9f402efd6c83ec61"
+}
+{
+  "commitId": "7e015026f87825185caf8db974ece2d685657b50",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: dockerfile command",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/7e015026f87825185caf8db974ece2d685657b50"
+}
+{
+  "commitId": "677f12bfd8aba32c5233ec442f62ab631324df83",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "feat: docker compose (orchestration)",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/677f12bfd8aba32c5233ec442f62ab631324df83"
+}
+{
+  "commitId": "56362423495969f57bc6fcca384d9377aa106710",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "add: AI server script",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/56362423495969f57bc6fcca384d9377aa106710"
+}
+{
+  "commitId": "f51d46d2a93f7432f60e189ab16cd23768dcde3e",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "feat: AI Dockerfile",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/f51d46d2a93f7432f60e189ab16cd23768dcde3e"
+}
+{
+  "commitId": "f10c072f6c130f63d2c2ae94529feec379e08ec5",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "feat: socket communication server",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/f10c072f6c130f63d2c2ae94529feec379e08ec5"
+}
+{
+  "commitId": "2556bbf9f5a2afdc4234f83ed32565f27bfb689c",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: RTSP URL, model directory",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/2556bbf9f5a2afdc4234f83ed32565f27bfb689c"
+}
+{
+  "commitId": "c1bc41692de085244ab1121b7d45e6f9287c50b8",
+  "userName": "jin-jae",
+  "commitTime": null,
+  "commitMessage": "fix: design, file structure",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/c1bc41692de085244ab1121b7d45e6f9287c50b8"
+} LeeJejune: {
+  "commitId": "c6075fdd9064f57b87eac5ebaac70fb60b60241b",
+  "userName": "JeJune Lee",
+  "commitTime": null,
+  "commitMessage": "docs: update ReadMe.md",
+  "commitLink": "https://api.github.com/repos/LeeJejune/LeeJejune/commits/c6075fdd9064f57b87eac5ebaac70fb60b60241b"
+} maj34: {
+  "commitId": "9c2f0cf2d464a1b30661eb685f7d68d1cc1b76f9",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "second commit",
+  "commitLink": "https://api.github.com/repos/maj34/K18-week9-spacerocks/commits/9c2f0cf2d464a1b30661eb685f7d68d1cc1b76f9"
+}
+{
+  "commitId": "f51a725f8c757d0cf79f91d592a797ff77f21504",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "first commit",
+  "commitLink": "https://api.github.com/repos/maj34/K18-week9-spacerocks/commits/f51a725f8c757d0cf79f91d592a797ff77f21504"
+}
+{
+  "commitId": "d941cda64d71a11dce0f445dbbbb35b445592f2d",
+  "userName": "마민정 (MinJeong Ma)",
   "commitTime": null,
   "commitMessage": "Update README.md",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/ChangHoon-Sung/commits/49affd0077a50669cc9740db507f099ba8c709b4"
+  "commitLink": "https://api.github.com/repos/maj34/maj34/commits/d941cda64d71a11dce0f445dbbbb35b445592f2d"
 }
 {
-  "commitId": "cc70bc1ce65e7fbc25339da7287cfa1731274af8",
-  "userName": "ChangHoon Sung",
+  "commitId": "50cac22d9f0572f42aa467c034451eab3f88c17e",
+  "userName": "마민정 (MinJeong Ma)",
   "commitTime": null,
-  "commitMessage": "Remove unnecessary comment",
-  "commitLink": "https://api.github.com/repos/pingxiang-chen/bpf-f2fs-zonetrace/commits/cc70bc1ce65e7fbc25339da7287cfa1731274af8"
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/maj34/maj34/commits/50cac22d9f0572f42aa467c034451eab3f88c17e"
 }
 {
-  "commitId": "87d8a67fe72a561ce355094c62a034cfd1ff30cd",
-  "userName": "ChangHoon Sung",
+  "commitId": "ccd386fbf1c91c6e707f00b80419f76f26024b25",
+  "userName": "마민정 (MinJeong Ma)",
   "commitTime": null,
-  "commitMessage": "Add comments on scripts",
-  "commitLink": "https://api.github.com/repos/pingxiang-chen/bpf-f2fs-zonetrace/commits/87d8a67fe72a561ce355094c62a034cfd1ff30cd"
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/maj34/maj34/commits/ccd386fbf1c91c6e707f00b80419f76f26024b25"
 }
 {
-  "commitId": "51f0c47b59b00eac9492812e198f3397eb2fdd40",
-  "userName": "Ping-Xiang Chen",
+  "commitId": "a051bcda3bdc5435604a6b011f1c4cc4ecc79869",
+  "userName": "마민정 (MinJeong Ma)",
   "commitTime": null,
-  "commitMessage": "Add create namespace script for ZNS SSD",
-  "commitLink": "https://api.github.com/repos/ChangHoon-Sung/bpf-f2fs-zonetrace/commits/51f0c47b59b00eac9492812e198f3397eb2fdd40"
+  "commitMessage": "Delete Dataset_Crawling directory",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/a051bcda3bdc5435604a6b011f1c4cc4ecc79869"
+}
+{
+  "commitId": "6c46b63242c7657366cb8b81132e1b55e8d67b9e",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "Create Dataset_Crawling Repository",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/6c46b63242c7657366cb8b81132e1b55e8d67b9e"
+}
+{
+  "commitId": "cacbe0e4227b4427b7722a19d8414e9ab251516d",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/DSBA-Lab/CodeLab/commits/cacbe0e4227b4427b7722a19d8414e9ab251516d"
+}
+{
+  "commitId": "e236e80f4a580a6adcc19c821d7501d954e5f13e",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/maj34/OFA/commits/e236e80f4a580a6adcc19c821d7501d954e5f13e"
+}
+{
+  "commitId": "4203a9cfbba20b5c560e0bdac0e6e51d4126dbcb",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "Create README.md",
+  "commitLink": "https://api.github.com/repos/maj34/OFA/commits/4203a9cfbba20b5c560e0bdac0e6e51d4126dbcb"
+}
+{
+  "commitId": "4bf97c95e0d4180be3faf115d1123e8319431e01",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "Rename README.md to README_Original.md",
+  "commitLink": "https://api.github.com/repos/maj34/OFA/commits/4bf97c95e0d4180be3faf115d1123e8319431e01"
+}
+{
+  "commitId": "b53199a4feb73884dbb50c16b96b9a093f90b449",
+  "userName": "마민정 (MinJeong Ma)",
+  "commitTime": null,
+  "commitMessage": "add: demo.ipynb",
+  "commitLink": "https://api.github.com/repos/maj34/OFA/commits/b53199a4feb73884dbb50c16b96b9a093f90b449"
+} Nbeenie: {
+  "commitId": "9adf324e230d1b86501d96dcfb55ba287e28c1a4",
+  "userName": "Nbeenie",
+  "commitTime": null,
+  "commitMessage": "Add files via upload\n\n실제 코드-아르바이트 게임",
+  "commitLink": "https://api.github.com/repos/Nbeenie/rpgTextGame/commits/9adf324e230d1b86501d96dcfb55ba287e28c1a4"
+} SeHyun-Kim04: {
+  "commitId": "584c2246c095512f9cda14dd0394a85b2fcf4575",
+  "userName": "Maker KSH",
+  "commitTime": null,
+  "commitMessage": "Update index.html",
+  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/584c2246c095512f9cda14dd0394a85b2fcf4575"
+}
+{
+  "commitId": "952864418cdc2044e0547f396926cb4944eaf24e",
+  "userName": "Maker KSH",
+  "commitTime": null,
+  "commitMessage": " ADD : 17P08 upload",
+  "commitLink": "https://api.github.com/repos/SeHyun-Kim04/kookmin-sw-project-2/commits/952864418cdc2044e0547f396926cb4944eaf24e"
+}
+{
+  "commitId": "51f49fb558c467496dafdfe109d1312031457be3",
+  "userName": "Maker KSH",
+  "commitTime": null,
+  "commitMessage": "ADD : 11P07 upload",
+  "commitLink": "https://api.github.com/repos/SeHyun-Kim04/kookmin-sw-project-2/commits/51f49fb558c467496dafdfe109d1312031457be3"
+}
+{
+  "commitId": "929ad4d27f5e8e68cd38eefc88a2267150a62ef1",
+  "userName": "Maker KSH",
+  "commitTime": null,
+  "commitMessage": "ADD : 08P07 upload",
+  "commitLink": "https://api.github.com/repos/SeHyun-Kim04/kookmin-sw-project-2/commits/929ad4d27f5e8e68cd38eefc88a2267150a62ef1"
+}
+{
+  "commitId": "225f4d871493a19c9a3c1e1373c4e333c6279510",
+  "userName": "Maker KSH",
+  "commitTime": null,
+  "commitMessage": "ADD : 05P12 upload",
+  "commitLink": "https://api.github.com/repos/SeHyun-Kim04/kookmin-sw-project-2/commits/225f4d871493a19c9a3c1e1373c4e333c6279510"
+} SeYeol00: {
+  "commitId": "7d765d39708669c043234127d9ea5e190f0d1dc0",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "add: 문제 추가",
+  "commitLink": "https://api.github.com/repos/SeYeol00/c--_algorithm/commits/7d765d39708669c043234127d9ea5e190f0d1dc0"
+}
+{
+  "commitId": "9b40b823405b08be523b214f66c002f5e1855952",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "add: 푼 문제들",
+  "commitLink": "https://api.github.com/repos/SeYeol00/c--_algorithm/commits/9b40b823405b08be523b214f66c002f5e1855952"
+}
+{
+  "commitId": "705e0dc4d0c4d546491e232c6bf932ae18178f81",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "docs: 단위 테스트 및 통합 테스트 문서 추가",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/705e0dc4d0c4d546491e232c6bf932ae18178f81"
+}
+{
+  "commitId": "565317311867b60bdfe1412ed3e84e7805accd4c",
+  "userName": "SeYeol_Park",
+  "commitTime": null,
+  "commitMessage": "Merge pull request #20 from SeYeol00/docs/functional_definition\n\ndocs: 단위 테스트 및 통합 테스트 문서 추가",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/565317311867b60bdfe1412ed3e84e7805accd4c"
+}
+{
+  "commitId": "705e0dc4d0c4d546491e232c6bf932ae18178f81",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "docs: 단위 테스트 및 통합 테스트 문서 추가",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/705e0dc4d0c4d546491e232c6bf932ae18178f81"
+}
+{
+  "commitId": "d5f6beb8cc912b5340a013c8fb389cb4324e57c1",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "test: 로또 전체 통합 테스트 작성\n\n로또 로직 통합 테스트\n- 인풋에서 잘못된 케이스를 위주로 예외처리\n- 실제 통합 로직은 예외처리 후 다시 인풋을 받기 때문에 NoSuchElementException이 발생한다.\n- 이후 sout으로 나온 에러 결과를 확인한다.\n- 정확한 [ERROR]문이 들어가 있는지 테스트한다.",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/d5f6beb8cc912b5340a013c8fb389cb4324e57c1"
+}
+{
+  "commitId": "dc2a9991dd90cd8b08b67dd591c9bd8470e58b52",
+  "userName": "SeYeol_Park",
+  "commitTime": null,
+  "commitMessage": "Merge pull request #19 from SeYeol00/test/Integration_Test\n\ntest: 로또 전체 통합 테스트 작성",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/dc2a9991dd90cd8b08b67dd591c9bd8470e58b52"
+}
+{
+  "commitId": "d5f6beb8cc912b5340a013c8fb389cb4324e57c1",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "test: 로또 전체 통합 테스트 작성\n\n로또 로직 통합 테스트\n- 인풋에서 잘못된 케이스를 위주로 예외처리\n- 실제 통합 로직은 예외처리 후 다시 인풋을 받기 때문에 NoSuchElementException이 발생한다.\n- 이후 sout으로 나온 에러 결과를 확인한다.\n- 정확한 [ERROR]문이 들어가 있는지 테스트한다.",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/d5f6beb8cc912b5340a013c8fb389cb4324e57c1"
+}
+{
+  "commitId": "2ffadce6805cabe16a50d23c63a32d6c4253da33",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "test: Validator 단위 테스트\n\n우테코의 경우 도메인에서 검증 로직을 구현\n하지만 필자는 검증기 클래스를 따로 구현하여 Validator로 단위 테스트 추가\n- 각 상황에 맞는 익셉션 추가",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/2ffadce6805cabe16a50d23c63a32d6c4253da33"
+}
+{
+  "commitId": "0bb79818ad724460a271808a39b9378671b123a9",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "test & refactor: 로또 생성 단위 테스트 및 리팩터링\n\n각 클래스의 매서드마다 파라미터에 final 추가 및 로또 생성 로직 단위 테스트 확인",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/0bb79818ad724460a271808a39b9378671b123a9"
+}
+{
+  "commitId": "f5c009bdc6baf88d4148139ba98a95960095b8b5",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "feat & refactor: UI를 제외한 단위 테스트 작성 및 리팩터링\n\nValidatorUnitTest\n- 모든 인풋에 대한 검증 테스트\n- 각 검증은 해당 인풋에서 받은 String 객체를 받아 익셉션 처리를 한다.\n- 해당 인풋이 문제가 존재한다면 그에 맞는 익셉션을 처리한다.\nLottoResultCheckUnitTest\n- 당첨 번호와 로또 번호들을 매칭시켜 얼마나 해당 숫자가 히트하였는지 카운팅한다.\n- 이 로직이 성공적으로 실행되었다는 가정하에 검증한 매서드\nLottoGeneraterUnitTest\n- 로또를 구매 후 해당 횟수만큼 번호를 생성하여 검증하는 클래스\n- 이후 산 로또 번호 리스트들의 총 사이즈가 횟수와 같은지 체크\nLottoReturnRateCalculatorUnitTest\n- 로또 결과와 로또 횟수를 받아 로또 수익률을 계산하는 클래스\n- 계산한 수익률을 체크하여 맞은지 확인\n리팩터링\n- 도메인 생성자들의 파라미터에 final을 선언하여 안정성 증대",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/f5c009bdc6baf88d4148139ba98a95960095b8b5"
+}
+{
+  "commitId": "729bbad3d8ba19bff0fd20083ccfbbae8a135725",
+  "userName": "SeYeol_Park",
+  "commitTime": null,
+  "commitMessage": "Merge pull request #18 from SeYeol00/test/domain_logic_unit_test\n\nTest/domain logic unit test",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/729bbad3d8ba19bff0fd20083ccfbbae8a135725"
+}
+{
+  "commitId": "f5c009bdc6baf88d4148139ba98a95960095b8b5",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "feat & refactor: UI를 제외한 단위 테스트 작성 및 리팩터링\n\nValidatorUnitTest\n- 모든 인풋에 대한 검증 테스트\n- 각 검증은 해당 인풋에서 받은 String 객체를 받아 익셉션 처리를 한다.\n- 해당 인풋이 문제가 존재한다면 그에 맞는 익셉션을 처리한다.\nLottoResultCheckUnitTest\n- 당첨 번호와 로또 번호들을 매칭시켜 얼마나 해당 숫자가 히트하였는지 카운팅한다.\n- 이 로직이 성공적으로 실행되었다는 가정하에 검증한 매서드\nLottoGeneraterUnitTest\n- 로또를 구매 후 해당 횟수만큼 번호를 생성하여 검증하는 클래스\n- 이후 산 로또 번호 리스트들의 총 사이즈가 횟수와 같은지 체크\nLottoReturnRateCalculatorUnitTest\n- 로또 결과와 로또 횟수를 받아 로또 수익률을 계산하는 클래스\n- 계산한 수익률을 체크하여 맞은지 확인\n리팩터링\n- 도메인 생성자들의 파라미터에 final을 선언하여 안정성 증대",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/f5c009bdc6baf88d4148139ba98a95960095b8b5"
+}
+{
+  "commitId": "a4f7ee42cf6e90e75c5f4aaa380b72950825a057",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "add: 푼 문제들",
+  "commitLink": "https://api.github.com/repos/SeYeol00/c--_algorithm/commits/a4f7ee42cf6e90e75c5f4aaa380b72950825a057"
+}
+{
+  "commitId": "0bb79818ad724460a271808a39b9378671b123a9",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "test & refactor: 로또 생성 단위 테스트 및 리팩터링\n\n각 클래스의 매서드마다 파라미터에 final 추가 및 로또 생성 로직 단위 테스트 확인",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/0bb79818ad724460a271808a39b9378671b123a9"
+}
+{
+  "commitId": "2ffadce6805cabe16a50d23c63a32d6c4253da33",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "test: Validator 단위 테스트\n\n우테코의 경우 도메인에서 검증 로직을 구현\n하지만 필자는 검증기 클래스를 따로 구현하여 Validator로 단위 테스트 추가\n- 각 상황에 맞는 익셉션 추가",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/2ffadce6805cabe16a50d23c63a32d6c4253da33"
+}
+{
+  "commitId": "39acb156131f0015c6b61f65121af723bed15043",
+  "userName": "SeYeol00",
+  "commitTime": null,
+  "commitMessage": "docs: 로또 클래스 및 util 패키지 설명\n\n로또 도메인 클래스\n- 도메인에 맞게 설명\nutil 패키지\n- 대부분의 클래스가 어떤 역할을 하는지 정의",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
+}
+{
+  "commitId": "5bcadf2e6c33fe8eb8f26caaf792b675a83b5873",
+  "userName": "SeYeol_Park",
+  "commitTime": null,
+  "commitMessage": "Merge pull request #17 from SeYeol00/docs/last_definition\n\ndocs: 로또 클래스 및 util 패키지 설명",
+  "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/5bcadf2e6c33fe8eb8f26caaf792b675a83b5873"
+} ssoree912: {
+  "commitId": "a9699c6bff10d034c507de6a6dbb97ad6908b555",
+  "userName": "Solhee Hwang",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/73736f7269-ssori/73736f7269-ssori/commits/a9699c6bff10d034c507de6a6dbb97ad6908b555"
+}
+{
+  "commitId": "01c8a91ccd9bf34e3cb598d8571d45ebd0e4f4e4",
+  "userName": "ssori",
+  "commitTime": null,
+  "commitMessage": "Delete .DS_Store",
+  "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/01c8a91ccd9bf34e3cb598d8571d45ebd0e4f4e4"
+}
+{
+  "commitId": "e800ca8500c192985c1174536ab8986c93469778",
+  "userName": "ssori",
+  "commitTime": null,
+  "commitMessage": "Delete config directory",
+  "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/e800ca8500c192985c1174536ab8986c93469778"
+}
+{
+  "commitId": "32c1511451e5250c2056fed8b90738e7761ff1a7",
+  "userName": "solhee-hwang",
+  "commitTime": null,
+  "commitMessage": "[feat]: s3 upload",
+  "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/32c1511451e5250c2056fed8b90738e7761ff1a7"
+}
+{
+  "commitId": "d60284e91bdd6816be9de57fe0b41ce8baa55b5b",
+  "userName": "solhee-hwang",
+  "commitTime": null,
+  "commitMessage": "[feat] : test code\n\npostdetail api 를 이용한 테스트 코드 작성 post detail 코드 createapi 는 재작성 예정",
+  "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/d60284e91bdd6816be9de57fe0b41ce8baa55b5b"
+} sunho1999: {
+  "commitId": "377fd73dc0c308532e00e7fd263846d11368b46f",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "리드미 수정",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/377fd73dc0c308532e00e7fd263846d11368b46f"
+}
+{
+  "commitId": "bb49b0229fd4b6515ba074ffecc6685f3a2afd62",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/bb49b0229fd4b6515ba074ffecc6685f3a2afd62"
+}
+{
+  "commitId": "d4590cf11bf8e7d243569483b2050d6d82ae063d",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "리드미 정리",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/d4590cf11bf8e7d243569483b2050d6d82ae063d"
+}
+{
+  "commitId": "7352d568a5c2bc31ee2c41107733c5f74ea90d21",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/7352d568a5c2bc31ee2c41107733c5f74ea90d21"
+}
+{
+  "commitId": "ed8984de908e45f91d916c241da66dc28d37ad67",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/ed8984de908e45f91d916c241da66dc28d37ad67"
+}
+{
+  "commitId": "af8b960ebd98af1d7a5ded37d9ea184138f851dc",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/af8b960ebd98af1d7a5ded37d9ea184138f851dc"
+}
+{
+  "commitId": "13d3bf7ddb648818e1c4c314d0d6e5b80c56113d",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "리드미수정",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/13d3bf7ddb648818e1c4c314d0d6e5b80c56113d"
+}
+{
+  "commitId": "d8a10a2148528e2135fce7a78026498b7d75d382",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/d8a10a2148528e2135fce7a78026498b7d75d382"
+}
+{
+  "commitId": "b3913fb8fc7ce05991c4e52a515d6286e4590b6e",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/b3913fb8fc7ce05991c4e52a515d6286e4590b6e"
+}
+{
+  "commitId": "3a23435fe31de0ae0ed6803571c1d8b53f339ea3",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/3a23435fe31de0ae0ed6803571c1d8b53f339ea3"
+}
+{
+  "commitId": "d4e779241ada6e853e7e9b0b516382ef7b72803d",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/d4e779241ada6e853e7e9b0b516382ef7b72803d"
+}
+{
+  "commitId": "b5b6282755cbfbf6992b60ccd2fae3057b0e2596",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/b5b6282755cbfbf6992b60ccd2fae3057b0e2596"
+}
+{
+  "commitId": "3db4dc2600aeec8656c6367be4f34a827e5cfe89",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "리드미 수정",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/3db4dc2600aeec8656c6367be4f34a827e5cfe89"
+}
+{
+  "commitId": "85094d363b62533cb3a14fed77c8962943b3174c",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "SQL코테준비",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/85094d363b62533cb3a14fed77c8962943b3174c"
+}
+{
+  "commitId": "e6f23b37ae1ccf95a2c189750722dbbb174194df",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "리드미 수정",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/e6f23b37ae1ccf95a2c189750722dbbb174194df"
+}
+{
+  "commitId": "0b29f22bc0a0286411d9b6253975d19efb7784fc",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "SQL코테준비",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/0b29f22bc0a0286411d9b6253975d19efb7784fc"
+}
+{
+  "commitId": "a043eae256b1add5adf61fb342ccd5a75d51dacd",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "SQL코테 준비",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/a043eae256b1add5adf61fb342ccd5a75d51dacd"
+}
+{
+  "commitId": "ea38bb0e9ce4fdd294ac041ad04b8f44f48593e2",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "리드미 수정",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/ea38bb0e9ce4fdd294ac041ad04b8f44f48593e2"
+}
+{
+  "commitId": "88c955a1dab651ebab5fa9d5ead378aa958a8879",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/88c955a1dab651ebab5fa9d5ead378aa958a8879"
+}
+{
+  "commitId": "bc39a5273904d2f93c6d2c6b4db080d079702a37",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/bc39a5273904d2f93c6d2c6b4db080d079702a37"
+}
+{
+  "commitId": "67e198303284e8d681d5f1958ee3eb6b2866a1c0",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/67e198303284e8d681d5f1958ee3eb6b2866a1c0"
+}
+{
+  "commitId": "ee0a7068dff1a442a98e04edd849f7f32b9e8411",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/ee0a7068dff1a442a98e04edd849f7f32b9e8411"
+}
+{
+  "commitId": "0b457aa2b0e82128cd2b32185a0a38156da397fa",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/0b457aa2b0e82128cd2b32185a0a38156da397fa"
+}
+{
+  "commitId": "0e03a8178621c3903e476ca26b276a9ff73c6261",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/0e03a8178621c3903e476ca26b276a9ff73c6261"
+}
+{
+  "commitId": "6d9bca38cc9111d9dbea866e1f6212b7d6b80104",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/6d9bca38cc9111d9dbea866e1f6212b7d6b80104"
+}
+{
+  "commitId": "9634007668c2afc5f17121720d6e6dc101eefaa1",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/9634007668c2afc5f17121720d6e6dc101eefaa1"
+}
+{
+  "commitId": "daeec8efe9ab720f85f210cd08d6460a84d0e202",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/daeec8efe9ab720f85f210cd08d6460a84d0e202"
+}
+{
+  "commitId": "b3accab27f4c90f6f72e08a14592a452a35fd47d",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/b3accab27f4c90f6f72e08a14592a452a35fd47d"
+}
+{
+  "commitId": "824729ebcf968479f990faa283da243a87006c3a",
+  "userName": "sunho1999",
+  "commitTime": null,
+  "commitMessage": "1일 1알고리즘",
+  "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/824729ebcf968479f990faa283da243a87006c3a"
+} wnsdnjs70: {
+  "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
+  "userName": "Junwon Seo",
+  "commitTime": null,
+  "commitMessage": "Rename dockerfile to Dockerfile",
+  "commitLink": "https://api.github.com/repos/wnsdnjs70/shinhan-clone-coding/commits/44815ac09e4acac3ecc6d174a4345db13ec3fec3"
+}
+{
+  "commitId": "302521fed6fc74addf104a5d1d4b409df4e566c2",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "add dockerfile",
+  "commitLink": "https://api.github.com/repos/wnsdnjs70/shinhan-clone-coding/commits/302521fed6fc74addf104a5d1d4b409df4e566c2"
+}
+{
+  "commitId": "405166b209d0ed2a68334f7e071536df41153598",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix : 로그인 응답 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/405166b209d0ed2a68334f7e071536df41153598"
+}
+{
+  "commitId": "7a7a033e18a6e60e967a5fb9bfd7729205dff3d0",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: InfoConnector 엔드포인트 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/7a7a033e18a6e60e967a5fb9bfd7729205dff3d0"
+}
+{
+  "commitId": "09893d9be80df5f31d0c965076d8049657e92ba5",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 로그인 기능 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/09893d9be80df5f31d0c965076d8049657e92ba5"
+}
+{
+  "commitId": "b90ae2fce8a7e6e78a0022119fbc6b6f6443bf2b",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Feat: Open Ai 엔드포인트 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/b90ae2fce8a7e6e78a0022119fbc6b6f6443bf2b"
+}
+{
+  "commitId": "4abf076c4c8534cd137246c59bcada04b43d32c2",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Feat: 스프링 스케줄러 Open AI Report Update 구현",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/4abf076c4c8534cd137246c59bcada04b43d32c2"
+}
+{
+  "commitId": "dcce640f2417f94569811117c325f59b54f46bc0",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix:로그인 응답 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/dcce640f2417f94569811117c325f59b54f46bc0"
+}
+{
+  "commitId": "21f0b68869393209d1aa1f2af003f45a35c1a6cd",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 로그인 응답 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/21f0b68869393209d1aa1f2af003f45a35c1a6cd"
+}
+{
+  "commitId": "34147a1e069de2df4a55885e53fbbca99b41660a",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 관심 종목 추천 기능 수정",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/34147a1e069de2df4a55885e53fbbca99b41660a"
+}
+{
+  "commitId": "709c039c01fb7cfb5a3fbe533f7b9c94e1ce62fe",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Feat: 필터링 정보 저장 컬럼 추가",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/709c039c01fb7cfb5a3fbe533f7b9c94e1ce62fe"
+}
+{
+  "commitId": "e09ab29b7d8c3508d1864908420410beb062e99e",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 디테일 페이지 주식 상세 정보 추가",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/e09ab29b7d8c3508d1864908420410beb062e99e"
+}
+{
+  "commitId": "61680fc55fcd3173987cf85c94661ac478102b9a",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Merge branch 'main' of https://github.com/Shinhan-PDA1/PDA1-OpenApi",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/61680fc55fcd3173987cf85c94661ac478102b9a"
+}
+{
+  "commitId": "5e42aafc213f4c93afd05b03c286a90eaaea0264",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 디테일 페이지 주식 상세 정보 추가",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/5e42aafc213f4c93afd05b03c286a90eaaea0264"
+}
+{
+  "commitId": "9ffea95ecb73e39aaad2ecf2a6ca10f4b9e3cd45",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Merge branch 'main' of https://github.com/Shinhan-PDA1/PDA1-Server",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/9ffea95ecb73e39aaad2ecf2a6ca10f4b9e3cd45"
+}
+{
+  "commitId": "72ffc2787f79b68fe86dbb2a9b4d266a4d042522",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 스케줄러 임시 삭제",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/72ffc2787f79b68fe86dbb2a9b4d266a4d042522"
+}
+{
+  "commitId": "88e9cc0ec335aacffa02962ec0d92110aa4381f7",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 재무제표 테이블 삭제",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/88e9cc0ec335aacffa02962ec0d92110aa4381f7"
+}
+{
+  "commitId": "28ce7299f0545841b2e2967af67f37aac132fd77",
+  "userName": "Junwon Seo",
+  "commitTime": null,
+  "commitMessage": "Merge pull request #5 from Shinhan-PDA1/backup-main\n\nJunwon",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/28ce7299f0545841b2e2967af67f37aac132fd77"
+}
+{
+  "commitId": "dda03eedc9de3bdb6b95ab7081134759c654c81b",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 디테일 페이지 재무제표 삭제",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-Server/commits/dda03eedc9de3bdb6b95ab7081134759c654c81b"
+}
+{
+  "commitId": "88e9cc0ec335aacffa02962ec0d92110aa4381f7",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Fix: 재무제표 테이블 삭제",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/88e9cc0ec335aacffa02962ec0d92110aa4381f7"
+}
+{
+  "commitId": "63c89abd98038618effb7c107202b27c33875f11",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Backup",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/63c89abd98038618effb7c107202b27c33875f11"
+}
+{
+  "commitId": "5746c1b69076bf218664b68a081aa81eecc92199",
+  "userName": "wnsdnjs70",
+  "commitTime": null,
+  "commitMessage": "Feat: 종목 코드, 종목명 검색 api 구현",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/5746c1b69076bf218664b68a081aa81eecc92199"
+}
+{
+  "commitId": "9a53a2fd10f9551d0a70dbfa9874319ed2e35806",
+  "userName": "Junwon Seo",
+  "commitTime": null,
+  "commitMessage": "Merge pull request #4 from Shinhan-PDA1/backup-main\n\nBackup main",
+  "commitLink": "https://api.github.com/repos/Shinhan-PDA1/PDA1-OpenApi/commits/9a53a2fd10f9551d0a70dbfa9874319ed2e35806"
+} YiJeongan: {
+  "commitId": "f2edfb882bc82eb9c2ccd075b36faedb4f695f3e",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudContentActivity location list selected",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/f2edfb882bc82eb9c2ccd075b36faedb4f695f3e"
+}
+{
+  "commitId": "7b21db8333977950959f832ab6b5a840e6abf09c",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudContentActivity location list color",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/7b21db8333977950959f832ab6b5a840e6abf09c"
+}
+{
+  "commitId": "4ccb2ee0fd1b57b164222c93626f8c61c2a8dd31",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudContentActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/4ccb2ee0fd1b57b164222c93626f8c61c2a8dd31"
+}
+{
+  "commitId": "3bae0f81444315c1827567727a53909835b9e20c",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudContentActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/3bae0f81444315c1827567727a53909835b9e20c"
+}
+{
+  "commitId": "7a0c75850faa46fb92d93436eede9975824e1ab5",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudListActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/7a0c75850faa46fb92d93436eede9975824e1ab5"
+}
+{
+  "commitId": "cb43f9536e8844fd8a7a4005c2cf9b104bb3081e",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudListActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/cb43f9536e8844fd8a7a4005c2cf9b104bb3081e"
+}
+{
+  "commitId": "12a7e50acfcd8052267c4e6258be17a5518b817c",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Merge remote-tracking branch 'origin/feature/figmaiui' into feature/figmaiui",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/12a7e50acfcd8052267c4e6258be17a5518b817c"
+}
+{
+  "commitId": "1a85ddbad987bb4d0c161ffef7be2a1aecc78e1e",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudListActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/1a85ddbad987bb4d0c161ffef7be2a1aecc78e1e"
+}
+{
+  "commitId": "a6e3bc31d7ad4273e1b7b2b91282c5dfc0e92a7c",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update CloudContentActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/a6e3bc31d7ad4273e1b7b2b91282c5dfc0e92a7c"
+}
+{
+  "commitId": "5bae19b54b1d441a09b7f61160df60350493ff36",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update MainActivity viewModel,Button align",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/5bae19b54b1d441a09b7f61160df60350493ff36"
+}
+{
+  "commitId": "5a0bc89d82fa2866c80dc940f89c5868bff8c6dd",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/5a0bc89d82fa2866c80dc940f89c5868bff8c6dd"
+}
+{
+  "commitId": "883b36273fd77dc42650e3543925d8d2f0e736b7",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Merge branch 'master' of github.com:20203153/clouddrawing",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/883b36273fd77dc42650e3543925d8d2f0e736b7"
+}
+{
+  "commitId": "428bb9c129850aa4cd201e3947c1ef5727b6a3bc",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update MainActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/428bb9c129850aa4cd201e3947c1ef5727b6a3bc"
+}
+{
+  "commitId": "9d76bf1dd4ffee6f71b438b45bb25205ad82ee41",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "update MainActivity",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/9d76bf1dd4ffee6f71b438b45bb25205ad82ee41"
+}
+{
+  "commitId": "371d3e16196f415c31c6f34ade19c8b5e0242392",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "add_signup",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/371d3e16196f415c31c6f34ade19c8b5e0242392"
+}
+{
+  "commitId": "e69e08028610ae666ce1a22abfaa3976fb24c63a",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Merge branch 'feature/figmaiui' of github.com:20203153/clouddrawing into feature/figmaiui\n\n# Conflicts:\n#\tapp/src/main/java/kr/ac/kookmin/clouddrawing/MainActivity.kt",
+  "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/e69e08028610ae666ce1a22abfaa3976fb24c63a"
+}
+{
+  "commitId": "43dcdf1f001e58e2a03c7f7723e4ad67d4d90e70",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/YiJeongan/measurement/commits/43dcdf1f001e58e2a03c7f7723e4ad67d4d90e70"
+}
+{
+  "commitId": "b8f279f74fb2b3b08d61f2dd68a56cb84ca3b271",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/YiJeongan/carrotGame/commits/b8f279f74fb2b3b08d61f2dd68a56cb84ca3b271"
+}
+{
+  "commitId": "6eff7554358a6af9e2d8e4a071692541958485b8",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/YiJeongan/CarrotGame/commits/6eff7554358a6af9e2d8e4a071692541958485b8"
+}
+{
+  "commitId": "7b7f8cdfe61c4c677a564ce282e795ca5ad818a0",
+  "userName": "YiJeongan",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/YiJeongan/CarrotGame/commits/7b7f8cdfe61c4c677a564ce282e795ca5ad818a0"
+} youngseok0: {
+  "commitId": "5b5d3a69efe4015299d636d2b8cb6c2a34d27c4e",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/5b5d3a69efe4015299d636d2b8cb6c2a34d27c4e"
+}
+{
+  "commitId": "b197bbe264a19e71bdb2bfa16d9aee83d6cd319e",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/b197bbe264a19e71bdb2bfa16d9aee83d6cd319e"
+}
+{
+  "commitId": "6833ad593cd15c98742a166139fe1ce1b7d0ecb1",
+  "userName": "김영석",
+  "commitTime": null,
+  "commitMessage": "Update codes and README.md",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/6833ad593cd15c98742a166139fe1ce1b7d0ecb1"
+}
+{
+  "commitId": "d97d388aa9261bd2e0ddc197be48c810a03dd19f",
+  "userName": "김영석",
+  "commitTime": null,
+  "commitMessage": "Feat: add DOA model train / inference code",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/d97d388aa9261bd2e0ddc197be48c810a03dd19f"
+}
+{
+  "commitId": "07ab2460ee7cee0bd4c749219a054aa98d74ef8f",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md space on code",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/07ab2460ee7cee0bd4c749219a054aa98d74ef8f"
+}
+{
+  "commitId": "0c81f2142532ae3c6ea6381ba517828e89224a9e",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md 개발환경",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/0c81f2142532ae3c6ea6381ba517828e89224a9e"
+}
+{
+  "commitId": "d8c41919df24b8ae17089a48f3d0b35fb4e1f570",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md 개발환경",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/d8c41919df24b8ae17089a48f3d0b35fb4e1f570"
+}
+{
+  "commitId": "28122378e2ed5516bdd8cb49a22546f6edfefc95",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md 개발환경",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/28122378e2ed5516bdd8cb49a22546f6edfefc95"
+}
+{
+  "commitId": "a5ad2f8b5a5048cd6a91e752e63b07b3ffe3ec58",
+  "userName": "김영석",
+  "commitTime": null,
+  "commitMessage": "Update README.md directory",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/a5ad2f8b5a5048cd6a91e752e63b07b3ffe3ec58"
+}
+{
+  "commitId": "a4a41a9358e532385306c8afe289b3d57e8799b5",
+  "userName": "김영석",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/a4a41a9358e532385306c8afe289b3d57e8799b5"
+}
+{
+  "commitId": "63e4def246ee047176480bafa64abc0445f1ff59",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md 음성 to 오디오",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/63e4def246ee047176480bafa64abc0445f1ff59"
+}
+{
+  "commitId": "b5a46b8a03ba790ccc955b5ea56949125cba93b7",
+  "userName": "Youngseok Kim",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/b5a46b8a03ba790ccc955b5ea56949125cba93b7"
+}
+{
+  "commitId": "20d093580fa598cf441aef54ef73dadec74731da",
+  "userName": "김영석",
+  "commitTime": null,
+  "commitMessage": "Update ipynb into functional style and add README",
+  "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/20d093580fa598cf441aef54ef73dadec74731da"
+} yugwangyeol: {
+  "commitId": "89272eacc71e0d5b9eec846cbed3a151264c7cd2",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/89272eacc71e0d5b9eec846cbed3a151264c7cd2"
+}
+{
+  "commitId": "1205ae5fdd885dd36b3bbfea6eb2b841d8c0a758",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload\n\nprint(Normal) 추가",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/1205ae5fdd885dd36b3bbfea6eb2b841d8c0a758"
+}
+{
+  "commitId": "6837775c6560f591b717576fcc44a907dd9b6cdf",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/6837775c6560f591b717576fcc44a907dd9b6cdf"
+}
+{
+  "commitId": "371cf8fa3cfaa1fde87eb3aa5ebb99bf86b47ad9",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete TeamMM directory",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/371cf8fa3cfaa1fde87eb3aa5ebb99bf86b47ad9"
+}
+{
+  "commitId": "df27cd56a3cea25e12cb06850c3bddbc05d2fb3d",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/df27cd56a3cea25e12cb06850c3bddbc05d2fb3d"
+}
+{
+  "commitId": "3016b84a1f465288b438877c632a084749000b89",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Update README.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/3016b84a1f465288b438877c632a084749000b89"
+}
+{
+  "commitId": "8efc5686b7938dfd8448d30d9d1c465047f35076",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Update Formula_csv.py",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/8efc5686b7938dfd8448d30d9d1c465047f35076"
+}
+{
+  "commitId": "2659063ace3e59ac436587190c6d8093ba5918f9",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete TeamCV2/checkpoint directory",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/2659063ace3e59ac436587190c6d8093ba5918f9"
+}
+{
+  "commitId": "c5707711104d69dd29042421285fe10c600c45b9",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Create r.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/c5707711104d69dd29042421285fe10c600c45b9"
+}
+{
+  "commitId": "0d6a4ec5b55efed4cfd06757a2f0591915030d69",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete TeamCV2/checkpoint",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/0d6a4ec5b55efed4cfd06757a2f0591915030d69"
+}
+{
+  "commitId": "576a0f8a7df37b31208d7308d15917ab279cfaf0",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Create checkpoint",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/576a0f8a7df37b31208d7308d15917ab279cfaf0"
+}
+{
+  "commitId": "a4fd3932afb88365a5c6c5f000493361bade3aad",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/a4fd3932afb88365a5c6c5f000493361bade3aad"
+}
+{
+  "commitId": "4b3c0c14da8093909899969e41f1cc209989f8ba",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Create Readme.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/4b3c0c14da8093909899969e41f1cc209989f8ba"
+}
+{
+  "commitId": "db7d9d5bf3af549ea124a52febb844cfa0524f80",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete Team cv2 directory",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/db7d9d5bf3af549ea124a52febb844cfa0524f80"
+}
+{
+  "commitId": "ee6d4c55410e88ad5e019521e437e87d9cdf4f3d",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Create readme.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/ee6d4c55410e88ad5e019521e437e87d9cdf4f3d"
+}
+{
+  "commitId": "fbed2bd22979f1cc64a372f5108d0e3242ef6a20",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete TeamCV2/Readme.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/fbed2bd22979f1cc64a372f5108d0e3242ef6a20"
+}
+{
+  "commitId": "9145d4bd448bb762c560f4dc884f596ac565b0b1",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Update Readme.md",
+  "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/commits/9145d4bd448bb762c560f4dc884f596ac565b0b1"
+}
+{
+  "commitId": "a6527d06e3c4e0063c5aafcaf701c318f5172281",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/a6527d06e3c4e0063c5aafcaf701c318f5172281"
+}
+{
+  "commitId": "9499bef4edeab57248e7213991df8d38fb48ee6c",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/9499bef4edeab57248e7213991df8d38fb48ee6c"
+}
+{
+  "commitId": "64f9ebb789a5208a027c78e0aa84eabfc6a577cb",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/64f9ebb789a5208a027c78e0aa84eabfc6a577cb"
+}
+{
+  "commitId": "0f24fd8ced840a0cc123dd3239969d781d2fd59c",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/0f24fd8ced840a0cc123dd3239969d781d2fd59c"
+}
+{
+  "commitId": "bbdb8fc5f4d015d5d3f0a0b5805b30d710e5dd2d",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete SafeZone.py",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/bbdb8fc5f4d015d5d3f0a0b5805b30d710e5dd2d"
+}
+{
+  "commitId": "c2bc86bba4b06157230a2df23c048f3cb9e69f7b",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete main_cam.py",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/c2bc86bba4b06157230a2df23c048f3cb9e69f7b"
+}
+{
+  "commitId": "c76ae0e6c95e9f36ad8a48d8fe83a8e3810ae220",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete main.py",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/c76ae0e6c95e9f36ad8a48d8fe83a8e3810ae220"
+}
+{
+  "commitId": "c7d6ca3c039f0011035fe059d9e3d971f0d81d2f",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Add files via upload",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/c7d6ca3c039f0011035fe059d9e3d971f0d81d2f"
+}
+{
+  "commitId": "9cb25aa2f11bcf6781657735e3a4c31aaeeff979",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete main.py",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/9cb25aa2f11bcf6781657735e3a4c31aaeeff979"
+}
+{
+  "commitId": "e25474754866589b66a8b26aa1509200716259eb",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete Video.py",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/e25474754866589b66a8b26aa1509200716259eb"
+}
+{
+  "commitId": "ee0cd20dce399f4a76ebfed36a0f73e9305b52c8",
+  "userName": "유광열",
+  "commitTime": null,
+  "commitMessage": "Delete SafeZone.py",
+  "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/ee0cd20dce399f4a76ebfed36a0f73e9305b52c8"
 } }
