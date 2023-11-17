@@ -367,6 +367,13 @@
   "commitMessage": "feat : submmit exam",
   "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
 } donggook-me: {
+  "commitId": "3b64ac5e0264dbec2f17e16b23a060b9e2208256",
+  "userName": "Juliandocode",
+  "commitTime": null,
+  "commitMessage": "Update main.yml",
+  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/3b64ac5e0264dbec2f17e16b23a060b9e2208256"
+}
+{
   "commitId": "5fbfdd8be632e5c12309b002a41ab33e6a611214",
   "userName": "Juliandocode",
   "commitTime": null,
@@ -512,13 +519,6 @@
   "commitTime": null,
   "commitMessage": "Update main.yml",
   "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/df8e6e5b42d6dba16076a6aff7e7beb7005312d5"
-}
-{
-  "commitId": "cd29b2b38c706983c069d05ed2e1c67ac5e43611",
-  "userName": "Juliandocode",
-  "commitTime": null,
-  "commitMessage": "Rename readme to README",
-  "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/gdsckookmin.github.io/commits/cd29b2b38c706983c069d05ed2e1c67ac5e43611"
 } EastWon0103: {
   "commitId": "14d30c3bf8ed41291827f4b28507df6d763db2d3",
   "userName": "EastWon0103",
