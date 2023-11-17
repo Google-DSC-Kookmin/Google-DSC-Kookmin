@@ -1,0 +1,66 @@
+name: Fetch Commit History
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  fetch-commit-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get members of "gdsc" organization
+        id: get-members
+        run: |
+          #dummy data testing
+          echo "GDSC_MEMBERS=donggook-me handsomem1n ChangHoon-Sung" >> $GITHUB_ENV
+
+      - name: Fetch commit history for each member
+        id: fetch-commit-history
+        run: |
+          set -x
+
+          # Access the environment variable and split it into an array
+          members=($GDSC_MEMBERS)
+
+          all_commits=()
+          
+          for member in "${members[@]}"; do
+            echo "Fetching commit history for $member..."
+            member_commits=$(curl -sSL -H "Authorization: Bearer ${{ secrets.GDSC_GH_TOKEN }}" "https://api.github.com/users/${member}/events")
+      
+            if [[ $(echo "$member_commits" | jq length) -gt 0 ]]; then
+              # Extracting commit-related data (commit ID, name, time, message, link)
+              commits_data=$(echo "$member_commits" | jq -r 'map(select(.type == "PushEvent")) | .[].payload.commits[] | {commitId: .sha, userName: .author.name, commitTime: .timestamp, commitMessage: .message, commitLink: .url }')
+
+              # Append the commit data to the member's entry in all_commits
+              all_commits+=("$member: $commits_data")
+            else
+              echo "No new commit data for $member."
+            fi
+          done
+      
+          if [[ ${#all_commits[@]} -gt 0 ]]; then
+            # Save the commits data to data.json
+            mkdir -p data
+            echo "{ ${all_commits[@]} }" > data/data.json
+          else
+            echo "No new commit data for any member." > data/empty_commit_data.txt
+          fi
+
+      - name: Commit and push fetched data to repository
+        run: |
+          cd $GITHUB_WORKSPACE
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+
+          if [[ -n $(git status --porcelain) ]]; then
+            git add data
+            git commit -m "Update commit data"
+            git push origin main
+          fi
