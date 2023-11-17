@@ -23,7 +23,9 @@ jobs:
             https://api.github.com/orgs/Google-DSC-Kookmin/members | jq -r '.[] | .login' | sed 's/ /_/g')
           
           # Set members as an environment variable
-          echo "GDSC_MEMBERS=$members" >> $GITHUB_ENV
+          echo "GDSC_MEMBERS<<EOF" >> $GITHUB_ENV
+          echo "$members">>$GITHUB_ENV
+          echo "EOF">>$GITHUB_ENV
         shell: bash
 
       - name: Fetch commit history for each member
