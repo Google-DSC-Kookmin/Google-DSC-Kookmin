@@ -62,5 +62,5 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git add data
             git commit -m "Update commit data"
-            git push origin main
+            git push origin actions_logic
           fi
