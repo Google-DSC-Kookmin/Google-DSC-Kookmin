@@ -1,0 +1,45 @@
+.box {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    padding: 3vh 0 3vh 0;
+    margin-bottom: 10vh;
+}
+
+.box_left {
+    border-radius: 0 15px 15px 0;
+    margin-right: 40vw;
+    text-align: right;
+}
+
+.box_right {
+    border-radius: 15px 0 0 15px;
+    margin-left: 40vw;
+}
+
+.text_box {
+    text-align: left;
+    display: inline-block;
+    margin: 0 1vw 0 1vw;
+}
+
+#box_1 {
+    background: rgba(234, 67, 53, 0.50);
+}
+
+#box_2 {
+    background: rgba(17, 157, 90, 0.50);
+    margin-bottom: 3vh;
+}
+
+#box_3 {
+    background: rgba(17, 157, 90, 0.50);
+}
+
+#box_4 {
+    background: rgba(66, 133, 245, 0.50);
+    margin-right: 35vw;
+}
+
+#box_5 {
+    background: rgba(252, 188, 5, 0.60);
+    margin-left: 35vw;
+}
