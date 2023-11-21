@@ -189,13 +189,6 @@
     "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/e1afb9db033898c4f90763be08f487dca6970901"
   },
   {
-    "commitId": "3cf9076223ec975be489a47731910263ad78dfdc",
-    "userName": "Byeooon",
-    "commitTime": "2023-10-14T08:18:45Z",
-    "commitMessage": "blog : colab google drive",
-    "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/3cf9076223ec975be489a47731910263ad78dfdc"
-  },
-  {
     "commitId": "90f5c9df9d987acc795ba5338af50a7f0764034e",
     "userName": "Dadoum",
     "commitTime": "2023-11-05T06:54:31Z",
@@ -264,6 +257,20 @@
     "commitTime": "2023-10-03T15:18:09Z",
     "commitMessage": "feat : submmit exam",
     "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
+  },
+  {
+    "commitId": "584c2246c095512f9cda14dd0394a85b2fcf4575",
+    "userName": "Maker KSH",
+    "commitTime": "2023-11-20T10:00:29Z",
+    "commitMessage": "Update index.html",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/584c2246c095512f9cda14dd0394a85b2fcf4575"
+  },
+  {
+    "commitId": "b18f884218e491f1c7a1aec048be43ffddae50e6",
+    "userName": "Juliandocode",
+    "commitTime": "2023-11-20T08:52:12Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/b18f884218e491f1c7a1aec048be43ffddae50e6"
   },
   {
     "commitId": "82e78aaa9c312497fd864c023afdb2f81c2a71c5",
@@ -532,6 +539,13 @@
     "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/e45f5245bd7f6399f2274e979a996fb8ff15bc7e"
   },
   {
+    "commitId": "5f5f0bdf02d22e56719da5defbaa6f303c37de37",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-20T10:40:33Z",
+    "commitMessage": "data : 멤버 더미 데이터 업로드",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/5f5f0bdf02d22e56719da5defbaa6f303c37de37"
+  },
+  {
     "commitId": "8713c44940473346ec047fdda9bf97bfaf84195a",
     "userName": "Hyeok-Gyu Lee",
     "commitTime": "2023-11-08T14:54:01Z",
@@ -677,13 +691,6 @@
     "commitTime": "2023-11-01T14:28:06Z",
     "commitMessage": "docs : 기능 구현 사항 업데이트",
     "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/35e4a33ba6b30c78870fbf70b767fb04f1efa6ee"
-  },
-  {
-    "commitId": "6d32a63505dc9a30abca73c135187c56ef5ec896",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-10-30T13:48:20Z",
-    "commitMessage": "feat : 자동차 모델 생성",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/6d32a63505dc9a30abca73c135187c56ef5ec896"
   },
   {
     "commitId": "9b57cf3b48d9ed1ce98db589b2d634982e02f07d",
@@ -1139,6 +1146,13 @@
     "commitTime": "2023-09-09T06:37:20Z",
     "commitMessage": "Add files via upload\n\n실제 코드-아르바이트 게임",
     "commitLink": "https://api.github.com/repos/Nbeenie/rpgTextGame/commits/9adf324e230d1b86501d96dcfb55ba287e28c1a4"
+  },
+  {
+    "commitId": "68cee2769d6bc6d7e06c8bc05d14d673b22ee92c",
+    "userName": "sehyun.kim",
+    "commitTime": "2023-11-20T10:42:08Z",
+    "commitMessage": "FIX : index.html",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/68cee2769d6bc6d7e06c8bc05d14d673b22ee92c"
   },
   {
     "commitId": "584c2246c095512f9cda14dd0394a85b2fcf4575",
