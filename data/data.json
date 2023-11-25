@@ -1050,6 +1050,13 @@
     "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/c1bc41692de085244ab1121b7d45e6f9287c50b8"
   },
   {
+    "commitId": "879f5586f28957280daf4609a1ae2deee3b6ab35",
+    "userName": "정일형",
+    "commitTime": "2023-11-24T09:11:35Z",
+    "commitMessage": "#6.14",
+    "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/879f5586f28957280daf4609a1ae2deee3b6ab35"
+  },
+  {
     "commitId": "912371848a8fb2efe60d473e7e58f117f03db74e",
     "userName": "정일형",
     "commitTime": "2023-11-23T13:48:37Z",
@@ -1139,20 +1146,6 @@
     "commitTime": "2023-09-18T10:41:04Z",
     "commitMessage": "Create README.md",
     "commitLink": "https://api.github.com/repos/maj34/OFA/commits/4203a9cfbba20b5c560e0bdac0e6e51d4126dbcb"
-  },
-  {
-    "commitId": "4bf97c95e0d4180be3faf115d1123e8319431e01",
-    "userName": "마민정 (MinJeong Ma)",
-    "commitTime": "2023-09-18T10:31:58Z",
-    "commitMessage": "Rename README.md to README_Original.md",
-    "commitLink": "https://api.github.com/repos/maj34/OFA/commits/4bf97c95e0d4180be3faf115d1123e8319431e01"
-  },
-  {
-    "commitId": "b53199a4feb73884dbb50c16b96b9a093f90b449",
-    "userName": "마민정 (MinJeong Ma)",
-    "commitTime": "2023-09-18T09:39:23Z",
-    "commitMessage": "add: demo.ipynb",
-    "commitLink": "https://api.github.com/repos/maj34/OFA/commits/b53199a4feb73884dbb50c16b96b9a093f90b449"
   },
   {
     "commitId": "9adf324e230d1b86501d96dcfb55ba287e28c1a4",
