@@ -1,0 +1,185 @@
+@import "/css/reset.css";
+.screen-header {
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.screen-header__title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.screen-header__icon {
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.screen-header__underline {
+    width: 340px;
+    height: 10px;
+    margin-left: 0px;
+    margin-top: 10px;
+    background-color: #119D5A;
+    
+}
+.seminar-p{
+    margin-top: 30px;
+    margin-left: 100px;
+    line-height: 2.0;    ;
+}
+
+.seminar-box1{
+    margin-top: 30px;
+    overflow-y: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px;
+    /* overflow-x: auto; */
+}
+.seminar-box2 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+/* .seminar-box__row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+} */
+
+.seminar-box__green {
+    width: 560px;
+    height: 250px;
+    border:6px solid #119D5A;
+    border-radius: 7%;
+    padding-top: 6%;
+}
+.seminar-box__word {
+    color: #119D5A;
+    font-weight: bolder;
+    font-size: 30px;
+    display: flex;
+    align-items: first baseline;
+    justify-content: center;
+    margin-top: 10px;
+}
+.seminar-box__text1 {
+    padding: 10px;
+    margin-top: 20px;
+}
+.seminar-box__texta {
+    display: flex;
+    justify-content: center;
+    color: #4D4D4D;
+    font-weight: 600;
+}
+
+.seminar-previous {
+    background-color: #119D5A;
+    width: 300px;
+    height: 50px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right : auto;
+    margin-top:40px;
+}
+.seminar-previous__text{
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+}
+.session-header {
+    margin-top: 20px;
+    height: 250px;
+}
+.session-header__text {
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.session-header__text-bold {
+    margin-left: 8px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.session-header__text-thin {
+    font-weight: 400;
+    font-size: 20px;
+}
+.session-circle{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.session-text{
+    width: 360px;
+    height: 360px;
+    border-radius: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color: white;
+    font-weight: 1000;
+}
+.session-text:nth-child(1){
+    background-color: #addbc4;
+}
+.session-text:nth-child(2){
+    background-color: #52b987;
+}
+.session-text:nth-child(3){
+    background-color: #119D5A;
+}
+.session-repo {
+    margin-left: 250px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.session-repo__text,
+.session-repo__icon{
+    font-size: 20px;
+    font-weight: 800;
+}
+.session-year {
+    width: 100%;
+    height: 30px;
+    padding-top: 20px;
+    background-color: #62BE92;
+}
+.session-year__text{
+    color: white;
+    padding-left: 50px;
+    margin-left: 200px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.expect-text {
+    margin-top: 50px;
+    margin-left: 150px;
+    padding: 20px;
+}
+.expect-text__bold {
+    margin-bottom: 25px;
+    color: white;
+    font-weight: bolder;
+    text-shadow:
+    -1px -1px 3px #119D5A,
+    1px -1px 3px #119D5A,
+    -1px 1px 3px #119D5A,
+    1px 1px 3px #119D5A;
+}
+.expect-text__thin {
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: #595959;
+}
