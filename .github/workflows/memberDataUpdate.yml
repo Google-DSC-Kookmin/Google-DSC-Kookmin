@@ -1,0 +1,24 @@
+name: Automatically GDSC Member Data Update // workflow를 실행시키기 위한 event 명
+
+on:
+  schedule:
+    - cron: '0 0 1 */3 *'  # 매 3개월마다 1일에 실행
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: Run script
+        run: python storeNotionDB.py
+        env:
+          NOTION_TOKEN: ${{ secrets.Notion_Token }}
+          NOTION_DATABASE_ID: ${{ secrets.Notion_Database_ID }}
