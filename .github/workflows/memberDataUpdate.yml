@@ -11,12 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2  # 최신 버전 사용
+        uses: actions/checkout@v2
 
       - name: Set up Python
-        uses: actions/setup-python@v2.7.2  # 최신 버전 사용
-        with:
-          python-version: 3.11
+        uses: actions/setup-python@v2  # 특정 버전 지정 없이 사용
 
       - name: Change to the repository directory
         run: cd Google-DSC-Kookmin.github.io
