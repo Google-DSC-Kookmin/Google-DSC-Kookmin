@@ -448,6 +448,27 @@
     "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/c0032e8967b50281f82a14e485099ec2f8545b80"
   },
   {
+    "commitId": "38ecf657bbc780423d79697da806c5cc785d4e5e",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-26T18:16:16Z",
+    "commitMessage": "feat: 유저 이메일 인증과 로그인",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/38ecf657bbc780423d79697da806c5cc785d4e5e"
+  },
+  {
+    "commitId": "7ef5812afc17a8d534b57d52c60a1c4b33862110",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-26T18:16:08Z",
+    "commitMessage": "feat: user SignUp",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ef5812afc17a8d534b57d52c60a1c4b33862110"
+  },
+  {
+    "commitId": "63df764ad56a48f548b441fbfcb0b2756ed1809d",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-26T18:13:47Z",
+    "commitMessage": "feat: 유저 이메일 인증과 로그인",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/63df764ad56a48f548b441fbfcb0b2756ed1809d"
+  },
+  {
     "commitId": "7ef5812afc17a8d534b57d52c60a1c4b33862110",
     "userName": "EastWon0103",
     "commitTime": "2023-11-23T05:55:39Z",
@@ -544,6 +565,27 @@
     "commitTime": "2023-10-16T15:17:53Z",
     "commitMessage": "solve: CoinZero",
     "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/e45f5245bd7f6399f2274e979a996fb8ff15bc7e"
+  },
+  {
+    "commitId": "2f8297417ce3d0c32578b481740b2b6116a28068",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-26T15:14:54Z",
+    "commitMessage": "feat : Create memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/2f8297417ce3d0c32578b481740b2b6116a28068"
+  },
+  {
+    "commitId": "02f9f5e32b9cc5ef6e0fc2533a37ca20f56cb277",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-26T15:05:12Z",
+    "commitMessage": "feat : 노션 API 스크립트",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/02f9f5e32b9cc5ef6e0fc2533a37ca20f56cb277"
+  },
+  {
+    "commitId": "c1b8ae04279a5b246d1afbe055156d06f593316e",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-26T15:04:20Z",
+    "commitMessage": "chore : Token 숨기기",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/c1b8ae04279a5b246d1afbe055156d06f593316e"
   },
   {
     "commitId": "5f5f0bdf02d22e56719da5defbaa6f303c37de37",
@@ -677,27 +719,6 @@
     "commitTime": "2023-11-01T14:30:43Z",
     "commitMessage": "feat : 번호 생성 기능 구현",
     "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/abc208690d810a072db16591625d31dbd9ee3be2"
-  },
-  {
-    "commitId": "14846766bfc70ffb19ca4b84356b1a3d065e2a0c",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:30:21Z",
-    "commitMessage": "feat : Race 모델 생성",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/14846766bfc70ffb19ca4b84356b1a3d065e2a0c"
-  },
-  {
-    "commitId": "3419282feb634824d900d69d634e568e45a46f7d",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:28:55Z",
-    "commitMessage": "feat : Cars 모델 생성",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/3419282feb634824d900d69d634e568e45a46f7d"
-  },
-  {
-    "commitId": "35e4a33ba6b30c78870fbf70b767fb04f1efa6ee",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:28:06Z",
-    "commitMessage": "docs : 기능 구현 사항 업데이트",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/35e4a33ba6b30c78870fbf70b767fb04f1efa6ee"
   },
   {
     "commitId": "0553709d2b5eddb991fe5fd5995a36e294cec6ab",
@@ -1141,20 +1162,6 @@
     "commitLink": "https://api.github.com/repos/DSBA-Lab/CodeLab/commits/cacbe0e4227b4427b7722a19d8414e9ab251516d"
   },
   {
-    "commitId": "e236e80f4a580a6adcc19c821d7501d954e5f13e",
-    "userName": "마민정 (MinJeong Ma)",
-    "commitTime": "2023-09-18T10:57:39Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/maj34/OFA/commits/e236e80f4a580a6adcc19c821d7501d954e5f13e"
-  },
-  {
-    "commitId": "4203a9cfbba20b5c560e0bdac0e6e51d4126dbcb",
-    "userName": "마민정 (MinJeong Ma)",
-    "commitTime": "2023-09-18T10:41:04Z",
-    "commitMessage": "Create README.md",
-    "commitLink": "https://api.github.com/repos/maj34/OFA/commits/4203a9cfbba20b5c560e0bdac0e6e51d4126dbcb"
-  },
-  {
     "commitId": "9adf324e230d1b86501d96dcfb55ba287e28c1a4",
     "userName": "Nbeenie",
     "commitTime": "2023-09-09T06:37:20Z",
@@ -1293,6 +1300,20 @@
     "commitTime": "2023-11-06T12:03:00Z",
     "commitMessage": "docs: 로또 클래스 및 util 패키지 설명\n\n로또 도메인 클래스\n- 도메인에 맞게 설명\nutil 패키지\n- 대부분의 클래스가 어떤 역할을 하는지 정의",
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
+  },
+  {
+    "commitId": "26ab2d6127eafaa6b0851f11d66413ea8fa3b3eb",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-26T07:06:20Z",
+    "commitMessage": "chore : swagger authjorization",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/26ab2d6127eafaa6b0851f11d66413ea8fa3b3eb"
+  },
+  {
+    "commitId": "cf78b75c167e79f71c62cd20852062ee8cb2060d",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-26T05:42:27Z",
+    "commitMessage": "fix : signin with kakao",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/cf78b75c167e79f71c62cd20852062ee8cb2060d"
   },
   {
     "commitId": "76dd7dfff5db3ff764ce8c15c1c826e2a5e3f96c",
