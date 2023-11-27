@@ -1,4 +1,4 @@
-name: Automatically GDSC Member Data Update // workflow를 실행시키기 위한 event 명
+name: Automatically GDSC Member Data Update
 
 on:
   schedule:
@@ -17,9 +17,14 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.11
+      
+      - name: Setting .secrets.json
+        run: |
+          echo ${{ secrets.Notion_Token }} > .secrets.json
+          echo ${{ secrets.Notion_Database_ID }} >> .secrets.json
 
       - name: Run script
         run: python storeNotionDB.py
-        env:
-          NOTION_TOKEN: ${{ secrets.Notion_Token }}
-          NOTION_DATABASE_ID: ${{ secrets.Notion_Database_ID }}
+        # env:
+        #   NOTION_TOKEN: ${{ secrets.Notion_Token }}
+        #   NOTION_DATABASE_ID: ${{ secrets.Notion_Database_ID }}
