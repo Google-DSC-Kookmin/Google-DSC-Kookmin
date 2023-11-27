@@ -17,7 +17,10 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.11
-      
+
+      - name: Change to the repository directory
+        run: cd Google-DSC-Kookmin.github.io
+
       - name: Setting .secrets.json
         run: |
           echo ${{ secrets.Notion_Token }} > .secrets.json
@@ -25,6 +28,3 @@ jobs:
 
       - name: Run script
         run: python storeNotionDB.py
-        # env:
-        #   NOTION_TOKEN: ${{ secrets.Notion_Token }}
-        #   NOTION_DATABASE_ID: ${{ secrets.Notion_Database_ID }}
