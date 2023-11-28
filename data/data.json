@@ -266,6 +266,34 @@
     "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
   },
   {
+    "commitId": "3c2e154826f58e38e05e077d716628490c974ba7",
+    "userName": "Juliandocode",
+    "commitTime": "2023-11-27T10:13:34Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/3c2e154826f58e38e05e077d716628490c974ba7"
+  },
+  {
+    "commitId": "d3a9db222b26337ff04080c2125742ec917170df",
+    "userName": "Juliandocode",
+    "commitTime": "2023-11-27T07:18:58Z",
+    "commitMessage": "Update README.md",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/d3a9db222b26337ff04080c2125742ec917170df"
+  },
+  {
+    "commitId": "4725760bbc7fb67ce3b05500f568e556e9e8e460",
+    "userName": "Juliandocode",
+    "commitTime": "2023-11-27T07:18:26Z",
+    "commitMessage": "[INIT] README 수정",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/4725760bbc7fb67ce3b05500f568e556e9e8e460"
+  },
+  {
+    "commitId": "2a3f07302b02afb1327ae13203631be100ce5e4e",
+    "userName": "Juliandocode",
+    "commitTime": "2023-11-27T07:14:36Z",
+    "commitMessage": "[INIT] socket communication server and client code",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/2a3f07302b02afb1327ae13203631be100ce5e4e"
+  },
+  {
     "commitId": "584c2246c095512f9cda14dd0394a85b2fcf4575",
     "userName": "Maker KSH",
     "commitTime": "2023-11-20T10:00:29Z",
@@ -399,53 +427,11 @@
     "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/cac1ea8cfdccbbaab83c72a48bb77d63891e6db3"
   },
   {
-    "commitId": "e57102a80c30df7fd22d22dec2e511c7894a4433",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T03:22:19Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/e57102a80c30df7fd22d22dec2e511c7894a4433"
-  },
-  {
-    "commitId": "286421cbdb98adcf2c68f9e3d56bf3954afa4033",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T03:16:27Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/286421cbdb98adcf2c68f9e3d56bf3954afa4033"
-  },
-  {
-    "commitId": "f8cf69a9003674c091931711c03aa3ab22931171",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T03:00:57Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/f8cf69a9003674c091931711c03aa3ab22931171"
-  },
-  {
-    "commitId": "4d01bd3d816c8efe2eb6b565de84d086b397ecd0",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T02:59:32Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/4d01bd3d816c8efe2eb6b565de84d086b397ecd0"
-  },
-  {
-    "commitId": "21329f18c9dfba684c49a134ea74021b03120544",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T02:55:31Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/21329f18c9dfba684c49a134ea74021b03120544"
-  },
-  {
-    "commitId": "01c65f56726033f4088ac8d8e153725fc202fc37",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T02:08:10Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/01c65f56726033f4088ac8d8e153725fc202fc37"
-  },
-  {
-    "commitId": "c0032e8967b50281f82a14e485099ec2f8545b80",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T01:59:25Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/c0032e8967b50281f82a14e485099ec2f8545b80"
+    "commitId": "62a6cda821c581fb8ff281db326ad9f70d023547",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-27T01:45:58Z",
+    "commitMessage": "add: Ds_Store git ignore",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/62a6cda821c581fb8ff281db326ad9f70d023547"
   },
   {
     "commitId": "38ecf657bbc780423d79697da806c5cc785d4e5e",
@@ -567,6 +553,48 @@
     "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/e45f5245bd7f6399f2274e979a996fb8ff15bc7e"
   },
   {
+    "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-27T10:35:26Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/2380dc5c33c79c8fddb0cb68491d205301a5f2ed"
+  },
+  {
+    "commitId": "2c8d3f536a7e942a29446b2fdf555d3e1ffd4a77",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-27T10:30:57Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/2c8d3f536a7e942a29446b2fdf555d3e1ffd4a77"
+  },
+  {
+    "commitId": "394735f61734831113b12181eb3d2e40fc43559e",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-27T10:29:41Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/394735f61734831113b12181eb3d2e40fc43559e"
+  },
+  {
+    "commitId": "b876683c636da0ffeebf0a505aa2548462e26273",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-27T10:28:10Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/b876683c636da0ffeebf0a505aa2548462e26273"
+  },
+  {
+    "commitId": "f4bfa127d6665e4735c1a86bd08e176589954859",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-27T10:25:54Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/f4bfa127d6665e4735c1a86bd08e176589954859"
+  },
+  {
+    "commitId": "8d29d9c614a4b978618d986625b565ef98aeb7da",
+    "userName": "Hyeok-Gyu Lee",
+    "commitTime": "2023-11-27T10:21:57Z",
+    "commitMessage": "Update memberDataUpdate.yml",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/8d29d9c614a4b978618d986625b565ef98aeb7da"
+  },
+  {
     "commitId": "2f8297417ce3d0c32578b481740b2b6116a28068",
     "userName": "Hyeok-Gyu Lee",
     "commitTime": "2023-11-26T15:14:54Z",
@@ -684,41 +712,6 @@
     "commitTime": "2023-11-05T16:47:02Z",
     "commitMessage": "docs : 구현 기능 목록 정리",
     "commitLink": "https://api.github.com/repos/ehyeok9/java-lotto-6/commits/578427495516d72ce61e2f6fa362398fde916b2d"
-  },
-  {
-    "commitId": "a5d449ab63ecc8d94798f979cb49cb9d13cb7e8b",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:34:49Z",
-    "commitMessage": "test : domian 모델들 테스트 작성",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/a5d449ab63ecc8d94798f979cb49cb9d13cb7e8b"
-  },
-  {
-    "commitId": "0d63c7783280eb137e36406bdee33f4afe4b0480",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:34:15Z",
-    "commitMessage": "feat : 컨트롤러 구현",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/0d63c7783280eb137e36406bdee33f4afe4b0480"
-  },
-  {
-    "commitId": "4604a6dbd6bfed558b999b04c98f3bc1ddcd7439",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:33:55Z",
-    "commitMessage": "feat : 서비스 모델 구현",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/4604a6dbd6bfed558b999b04c98f3bc1ddcd7439"
-  },
-  {
-    "commitId": "bea4a72ed4927a669f4d88382706f482795806ed",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:33:00Z",
-    "commitMessage": "feat : 최종 우승자 선택 기능 구현",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/bea4a72ed4927a669f4d88382706f482795806ed"
-  },
-  {
-    "commitId": "abc208690d810a072db16591625d31dbd9ee3be2",
-    "userName": "Hyeok-Gyu Lee",
-    "commitTime": "2023-11-01T14:30:43Z",
-    "commitMessage": "feat : 번호 생성 기능 구현",
-    "commitLink": "https://api.github.com/repos/ehyeok9/java-racingcar-6/commits/abc208690d810a072db16591625d31dbd9ee3be2"
   },
   {
     "commitId": "0553709d2b5eddb991fe5fd5995a36e294cec6ab",
@@ -1064,18 +1057,25 @@
     "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/4aaf4cf2c81df5a54d124f8b9f402efd6c83ec61"
   },
   {
-    "commitId": "2556bbf9f5a2afdc4234f83ed32565f27bfb689c",
-    "userName": "jin-jae",
-    "commitTime": "2023-10-01T04:29:12Z",
-    "commitMessage": "fix: RTSP URL, model directory",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/2556bbf9f5a2afdc4234f83ed32565f27bfb689c"
+    "commitId": "cb65d15fae91cf618d7fda7d52073c6980191e7e",
+    "userName": "정일형",
+    "commitTime": "2023-11-27T12:29:22Z",
+    "commitMessage": "test: css",
+    "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/cb65d15fae91cf618d7fda7d52073c6980191e7e"
   },
   {
-    "commitId": "c1bc41692de085244ab1121b7d45e6f9287c50b8",
-    "userName": "jin-jae",
-    "commitTime": "2023-09-28T11:00:34Z",
-    "commitMessage": "fix: design, file structure",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/c1bc41692de085244ab1121b7d45e6f9287c50b8"
+    "commitId": "62c70a3536706e754407b2eeff1ccf3ed2f6bc30",
+    "userName": "정일형",
+    "commitTime": "2023-11-27T10:51:52Z",
+    "commitMessage": "FIX : text-shadow (#3)",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/62c70a3536706e754407b2eeff1ccf3ed2f6bc30"
+  },
+  {
+    "commitId": "2dd33232bcf2650be96315282d39a3390056d29a",
+    "userName": "정일형",
+    "commitTime": "2023-11-27T09:52:54Z",
+    "commitMessage": "Activities",
+    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/2dd33232bcf2650be96315282d39a3390056d29a"
   },
   {
     "commitId": "879f5586f28957280daf4609a1ae2deee3b6ab35",
@@ -1300,6 +1300,20 @@
     "commitTime": "2023-11-06T12:03:00Z",
     "commitMessage": "docs: 로또 클래스 및 util 패키지 설명\n\n로또 도메인 클래스\n- 도메인에 맞게 설명\nutil 패키지\n- 대부분의 클래스가 어떤 역할을 하는지 정의",
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
+  },
+  {
+    "commitId": "14c460cb04ad336ada871fde1e1a90bce5b9a2e6",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-27T08:21:20Z",
+    "commitMessage": "feat : restapi kakao 추가",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/14c460cb04ad336ada871fde1e1a90bce5b9a2e6"
+  },
+  {
+    "commitId": "760271400d7676e4620ae2b4db22b9cc6ad245bf",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-27T08:12:10Z",
+    "commitMessage": "fix : logout issue",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/760271400d7676e4620ae2b4db22b9cc6ad245bf"
   },
   {
     "commitId": "26ab2d6127eafaa6b0851f11d66413ea8fa3b3eb",
