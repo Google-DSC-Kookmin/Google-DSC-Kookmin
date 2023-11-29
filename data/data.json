@@ -427,6 +427,41 @@
     "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/cac1ea8cfdccbbaab83c72a48bb77d63891e6db3"
   },
   {
+    "commitId": "6ec7a1304a125e952c772768974151a942bd216c",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-28T01:59:47Z",
+    "commitMessage": "feat: 유저 정보",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/6ec7a1304a125e952c772768974151a942bd216c"
+  },
+  {
+    "commitId": "d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-28T01:59:03Z",
+    "commitMessage": "feat: 유저 정보",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
+  },
+  {
+    "commitId": "65208b377274a335643e61654a1d6e1d16d63ff6",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-28T01:57:40Z",
+    "commitMessage": "fix: add profile",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/65208b377274a335643e61654a1d6e1d16d63ff6"
+  },
+  {
+    "commitId": "d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-28T01:56:16Z",
+    "commitMessage": "feat: 유저 정보",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
+  },
+  {
+    "commitId": "7ef5812afc17a8d534b57d52c60a1c4b33862110",
+    "userName": "EastWon0103",
+    "commitTime": "2023-11-28T01:55:51Z",
+    "commitMessage": "feat: user SignUp",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ef5812afc17a8d534b57d52c60a1c4b33862110"
+  },
+  {
     "commitId": "62a6cda821c581fb8ff281db326ad9f70d023547",
     "userName": "EastWon0103",
     "commitTime": "2023-11-27T01:45:58Z",
@@ -502,55 +537,6 @@
     "commitTime": "2023-11-10T09:55:49Z",
     "commitMessage": "feat: email 인증",
     "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-API/commits/792a4b41934c52a71e280d6baa471fd261e150bc"
-  },
-  {
-    "commitId": "42b119c82324507003ea4cd865292dabae7b8381",
-    "userName": "EastWon0103",
-    "commitTime": "2023-10-21T00:32:41Z",
-    "commitMessage": "solve: 5",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/42b119c82324507003ea4cd865292dabae7b8381"
-  },
-  {
-    "commitId": "5a44722fe354ba6c2ff4ac5955c7da6e7e0adddd",
-    "userName": "EastWon0103",
-    "commitTime": "2023-10-18T17:22:08Z",
-    "commitMessage": "notSolve: ACLanguage",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/5a44722fe354ba6c2ff4ac5955c7da6e7e0adddd"
-  },
-  {
-    "commitId": "3be5095522dd03bf83e78a6cf7ea7d9258c3d44a",
-    "userName": "EastWon0103",
-    "commitTime": "2023-10-18T17:20:09Z",
-    "commitMessage": "sovlve: 10/19",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/3be5095522dd03bf83e78a6cf7ea7d9258c3d44a"
-  },
-  {
-    "commitId": "c677d473e0909b15400967ee0c59e763b1536323",
-    "userName": "EastWon0103",
-    "commitTime": "2023-10-17T02:15:55Z",
-    "commitMessage": "sovlve: 주석",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/c677d473e0909b15400967ee0c59e763b1536323"
-  },
-  {
-    "commitId": "8e0679b387b61e8b0e6ee5e6bb48fac9e143d627",
-    "userName": "EastWon0103",
-    "commitTime": "2023-10-17T02:14:08Z",
-    "commitMessage": "push",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/8e0679b387b61e8b0e6ee5e6bb48fac9e143d627"
-  },
-  {
-    "commitId": "85408c2d978405de4df03479734801ecfa55332d",
-    "userName": "Dongwon KIm",
-    "commitTime": "2023-10-16T17:30:27Z",
-    "commitMessage": "Delete .idea directory",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/85408c2d978405de4df03479734801ecfa55332d"
-  },
-  {
-    "commitId": "e45f5245bd7f6399f2274e979a996fb8ff15bc7e",
-    "userName": "EastWon0103",
-    "commitTime": "2023-10-16T15:17:53Z",
-    "commitMessage": "solve: CoinZero",
-    "commitLink": "https://api.github.com/repos/EastWon0103/AlgorithmStudy/commits/e45f5245bd7f6399f2274e979a996fb8ff15bc7e"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1302,6 +1288,27 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "9b7f98591896d3048fcdf4b542df88745254d6a4",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-28T19:37:04Z",
+    "commitMessage": "fix : timeformat",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/9b7f98591896d3048fcdf4b542df88745254d6a4"
+  },
+  {
+    "commitId": "65407275ddffe2a0ba03c6d8f8dff15eea1d3913",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-28T18:47:05Z",
+    "commitMessage": "feat : 전체 조회",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/65407275ddffe2a0ba03c6d8f8dff15eea1d3913"
+  },
+  {
+    "commitId": "387386dd05be4759a62bf5d0acfbf875bff05881",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-28T18:15:55Z",
+    "commitMessage": "fix : 날짜 타입, response",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/387386dd05be4759a62bf5d0acfbf875bff05881"
+  },
+  {
     "commitId": "14c460cb04ad336ada871fde1e1a90bce5b9a2e6",
     "userName": "solhee-hwang",
     "commitTime": "2023-11-27T08:21:20Z",
@@ -1363,6 +1370,13 @@
     "commitTime": "2023-09-09T10:15:59Z",
     "commitMessage": "[feat]: s3 upload",
     "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/32c1511451e5250c2056fed8b90738e7761ff1a7"
+  },
+  {
+    "commitId": "10626300d7d2618fd414ea7f46915f48b7d64ecc",
+    "userName": "sunho1999",
+    "commitTime": "2023-11-28T04:46:24Z",
+    "commitMessage": "알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/10626300d7d2618fd414ea7f46915f48b7d64ecc"
   },
   {
     "commitId": "51d1e57b8997183ce7c475550e9a19c88bde514a",
@@ -1566,13 +1580,6 @@
     "commitTime": "2023-10-22T06:19:24Z",
     "commitMessage": "1일 1알고리즘",
     "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/0e03a8178621c3903e476ca26b276a9ff73c6261"
-  },
-  {
-    "commitId": "6d9bca38cc9111d9dbea866e1f6212b7d6b80104",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-20T15:42:58Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/6d9bca38cc9111d9dbea866e1f6212b7d6b80104"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
