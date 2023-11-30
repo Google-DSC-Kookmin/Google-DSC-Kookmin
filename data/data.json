@@ -413,20 +413,6 @@
     "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/3d005a9765fa66b29866cef9126c1ecdffb2ce19"
   },
   {
-    "commitId": "9bbfa1e4cd43e11e6e16368fd9f6220483b639c0",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T03:34:04Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/9bbfa1e4cd43e11e6e16368fd9f6220483b639c0"
-  },
-  {
-    "commitId": "cac1ea8cfdccbbaab83c72a48bb77d63891e6db3",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T03:28:17Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/dkdev.github.io/commits/cac1ea8cfdccbbaab83c72a48bb77d63891e6db3"
-  },
-  {
     "commitId": "6ec7a1304a125e952c772768974151a942bd216c",
     "userName": "EastWon0103",
     "commitTime": "2023-11-28T01:59:47Z",
@@ -1288,6 +1274,20 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "f4195ee2c227d520b249ca1c2b84124e566cb996",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-29T17:23:51Z",
+    "commitMessage": "refactor: region",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f4195ee2c227d520b249ca1c2b84124e566cb996"
+  },
+  {
+    "commitId": "de061ebcd3b2b1fd3464d05a7ce11cc1c413fb12",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-11-29T11:02:20Z",
+    "commitMessage": "refactor : 지역이름 변경",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/de061ebcd3b2b1fd3464d05a7ce11cc1c413fb12"
+  },
+  {
     "commitId": "9b7f98591896d3048fcdf4b542df88745254d6a4",
     "userName": "solhee-hwang",
     "commitTime": "2023-11-28T19:37:04Z",
@@ -1370,6 +1370,20 @@
     "commitTime": "2023-09-09T10:15:59Z",
     "commitMessage": "[feat]: s3 upload",
     "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/32c1511451e5250c2056fed8b90738e7761ff1a7"
+  },
+  {
+    "commitId": "b56d2cc069de5e72b654b4e4d22e8b7cab50ae5d",
+    "userName": "sunho1999",
+    "commitTime": "2023-11-29T10:18:51Z",
+    "commitMessage": "리드미 수정",
+    "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/b56d2cc069de5e72b654b4e4d22e8b7cab50ae5d"
+  },
+  {
+    "commitId": "c7e68539c8b18b18e26b849c24b1d3609e8079a4",
+    "userName": "sunho1999",
+    "commitTime": "2023-11-29T10:18:01Z",
+    "commitMessage": "알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/c7e68539c8b18b18e26b849c24b1d3609e8079a4"
   },
   {
     "commitId": "10626300d7d2618fd414ea7f46915f48b7d64ecc",
@@ -1566,20 +1580,6 @@
     "commitTime": "2023-10-24T03:32:01Z",
     "commitMessage": "1일 1알고리즘",
     "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/ee0a7068dff1a442a98e04edd849f7f32b9e8411"
-  },
-  {
-    "commitId": "0b457aa2b0e82128cd2b32185a0a38156da397fa",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-23T07:55:34Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/0b457aa2b0e82128cd2b32185a0a38156da397fa"
-  },
-  {
-    "commitId": "0e03a8178621c3903e476ca26b276a9ff73c6261",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-22T06:19:24Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/0e03a8178621c3903e476ca26b276a9ff73c6261"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
