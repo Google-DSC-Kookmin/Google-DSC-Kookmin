@@ -259,6 +259,111 @@
     "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
   },
   {
+    "commitId": "0666a3819e36c5322e3bfd501ff4985683723d42",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T09:00:14Z",
+    "commitMessage": "Update test.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/0666a3819e36c5322e3bfd501ff4985683723d42"
+  },
+  {
+    "commitId": "e87c9bc6c48d411b7e8a3fc5428b5370226105f3",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T08:40:19Z",
+    "commitMessage": "Update test.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/e87c9bc6c48d411b7e8a3fc5428b5370226105f3"
+  },
+  {
+    "commitId": "101c4a58ce3a0ac08bfe287c1886e4498f19cae2",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T08:34:02Z",
+    "commitMessage": "Update test.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/101c4a58ce3a0ac08bfe287c1886e4498f19cae2"
+  },
+  {
+    "commitId": "3c19f2908707acd7f54159f37bccfc0453640ac4",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T08:23:40Z",
+    "commitMessage": "Update test.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/3c19f2908707acd7f54159f37bccfc0453640ac4"
+  },
+  {
+    "commitId": "01b6f37adabf7232a3c537217c475b64c81bee93",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T08:10:40Z",
+    "commitMessage": "Update test.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/01b6f37adabf7232a3c537217c475b64c81bee93"
+  },
+  {
+    "commitId": "c621f8779d112e8bc8649553c97cc635fec997d2",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T08:00:50Z",
+    "commitMessage": "Create test.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c621f8779d112e8bc8649553c97cc635fec997d2"
+  },
+  {
+    "commitId": "c2f8ceeb1b14f6a1c7076c6f55d30b0f5ac77d9b",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:40:45Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c2f8ceeb1b14f6a1c7076c6f55d30b0f5ac77d9b"
+  },
+  {
+    "commitId": "44a688a9a554a68e529069e538e994e4861901cc",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:34:30Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/44a688a9a554a68e529069e538e994e4861901cc"
+  },
+  {
+    "commitId": "4ae073ff5ae4d5cf8fda59a4b89e7bc50db2317e",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:32:38Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/4ae073ff5ae4d5cf8fda59a4b89e7bc50db2317e"
+  },
+  {
+    "commitId": "2ad56bb7184e14a986b238158e4d067376741265",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:30:07Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/2ad56bb7184e14a986b238158e4d067376741265"
+  },
+  {
+    "commitId": "e8b61144479a8630970faf07d0428e0233435efd",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:16:14Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/e8b61144479a8630970faf07d0428e0233435efd"
+  },
+  {
+    "commitId": "afe6a135d6d8c0c0fbad4c7090c6419b147bf0ed",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:08:18Z",
+    "commitMessage": "Create main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/afe6a135d6d8c0c0fbad4c7090c6419b147bf0ed"
+  },
+  {
+    "commitId": "581875a2ade82b00b2bce9c9305d2fcd46052144",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:04:26Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/timebank-2023-01/commits/581875a2ade82b00b2bce9c9305d2fcd46052144"
+  },
+  {
+    "commitId": "d5207ec0efc63bec24989eca28527f34264f1fff",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T06:00:07Z",
+    "commitMessage": "Update main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/timebank-2023-01/commits/d5207ec0efc63bec24989eca28527f34264f1fff"
+  },
+  {
+    "commitId": "d38ae87dd3e0d8eaeae7c094a90822c693e9782b",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-01T05:58:18Z",
+    "commitMessage": "Create main.yml",
+    "commitLink": "https://api.github.com/repos/donggook-me/timebank-2023-01/commits/d38ae87dd3e0d8eaeae7c094a90822c693e9782b"
+  },
+  {
     "commitId": "e339184b267f0918e439cae020d9dbd3e78d12d5",
     "userName": "JinLee25154",
     "commitTime": "2023-11-30T16:00:10Z",
@@ -301,88 +406,18 @@
     "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/2a3f07302b02afb1327ae13203631be100ce5e4e"
   },
   {
-    "commitId": "584c2246c095512f9cda14dd0394a85b2fcf4575",
-    "userName": "Maker KSH",
-    "commitTime": "2023-11-20T10:00:29Z",
-    "commitMessage": "Update index.html",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/584c2246c095512f9cda14dd0394a85b2fcf4575"
+    "commitId": "615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-01T09:28:29Z",
+    "commitMessage": "feat: funding",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d"
   },
   {
-    "commitId": "b18f884218e491f1c7a1aec048be43ffddae50e6",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-20T08:52:12Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/b18f884218e491f1c7a1aec048be43ffddae50e6"
-  },
-  {
-    "commitId": "82e78aaa9c312497fd864c023afdb2f81c2a71c5",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-20T06:50:40Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/82e78aaa9c312497fd864c023afdb2f81c2a71c5"
-  },
-  {
-    "commitId": "7d7f45b7b66096a6f7a8cae510ba8eeddfdf9a73",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T15:18:50Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/7d7f45b7b66096a6f7a8cae510ba8eeddfdf9a73"
-  },
-  {
-    "commitId": "4460c0f8221097ddf3a12fd16c353a5ccdc76b38",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T15:16:08Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/4460c0f8221097ddf3a12fd16c353a5ccdc76b38"
-  },
-  {
-    "commitId": "3b64ac5e0264dbec2f17e16b23a060b9e2208256",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T15:09:37Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/3b64ac5e0264dbec2f17e16b23a060b9e2208256"
-  },
-  {
-    "commitId": "5fbfdd8be632e5c12309b002a41ab33e6a611214",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T14:52:33Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/5fbfdd8be632e5c12309b002a41ab33e6a611214"
-  },
-  {
-    "commitId": "0a14f44bf958c4476ff142338e9e8c26c4c2ee20",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T14:46:25Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/0a14f44bf958c4476ff142338e9e8c26c4c2ee20"
-  },
-  {
-    "commitId": "63bcce4af152a83ee7dfc1c3b9fcc63ece0cd75e",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T14:42:33Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/63bcce4af152a83ee7dfc1c3b9fcc63ece0cd75e"
-  },
-  {
-    "commitId": "271153ebfbd95c8218fa7c31be6ce9e655e3d7d3",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T04:53:47Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/271153ebfbd95c8218fa7c31be6ce9e655e3d7d3"
-  },
-  {
-    "commitId": "9ba99634dcd8c421070173ecd35e6cf057a3059e",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T04:50:07Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/9ba99634dcd8c421070173ecd35e6cf057a3059e"
-  },
-  {
-    "commitId": "a237207351dd704daf8d098bc47069569d4a4fd5",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-17T04:48:13Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/a237207351dd704daf8d098bc47069569d4a4fd5"
+    "commitId": "d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-01T09:28:12Z",
+    "commitMessage": "feat: 유저 정보",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
   },
   {
     "commitId": "63500e88e0da27125f69233df3a534f8fd58a832",
@@ -474,27 +509,6 @@
     "commitTime": "2023-11-15T15:30:32Z",
     "commitMessage": "fix: README.md",
     "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/14d30c3bf8ed41291827f4b28507df6d763db2d3"
-  },
-  {
-    "commitId": "418dee2f7fbb0777ecfbe3a5d89cb57840f53ad2",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-15T15:29:45Z",
-    "commitMessage": "fix: README.md",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/418dee2f7fbb0777ecfbe3a5d89cb57840f53ad2"
-  },
-  {
-    "commitId": "8edb3ac22418abb5b6bac0b1ccc555645220ac77",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-15T15:27:19Z",
-    "commitMessage": "add: gitignore",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/8edb3ac22418abb5b6bac0b1ccc555645220ac77"
-  },
-  {
-    "commitId": "9da57176f33014c0d69f42476ef9487a1c0551fd",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-13T07:57:07Z",
-    "commitMessage": "add: gitignore",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/9da57176f33014c0d69f42476ef9487a1c0551fd"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1253,6 +1267,34 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "6c575cf6941d3c9dbdd408ade719a708880bc970",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-01T19:13:37Z",
+    "commitMessage": "docs : 지원취소",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/6c575cf6941d3c9dbdd408ade719a708880bc970"
+  },
+  {
+    "commitId": "db20e2d563a056ef199821953f172085eb04e695",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-01T19:11:19Z",
+    "commitMessage": "feat : 신청 취소",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/db20e2d563a056ef199821953f172085eb04e695"
+  },
+  {
+    "commitId": "940c1860eee0733667270ee1b6dc4914777bd41f",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-01T18:11:09Z",
+    "commitMessage": "feat : 비밀번호 유무 확인",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/940c1860eee0733667270ee1b6dc4914777bd41f"
+  },
+  {
+    "commitId": "f49e9caa12539794c16affbd48e3ba12e2da40de",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-01T07:00:58Z",
+    "commitMessage": "feat : 프로필, 비밀번호 분리",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f49e9caa12539794c16affbd48e3ba12e2da40de"
+  },
+  {
     "commitId": "68cf0df6df3273d7942caa6d2be7e6782a29b78d",
     "userName": "solhee-hwang",
     "commitTime": "2023-11-30T16:24:00Z",
@@ -1356,27 +1398,6 @@
     "commitTime": "2023-09-25T03:36:45Z",
     "commitMessage": "Update README.md",
     "commitLink": "https://api.github.com/repos/73736f7269-ssori/73736f7269-ssori/commits/a9699c6bff10d034c507de6a6dbb97ad6908b555"
-  },
-  {
-    "commitId": "01c8a91ccd9bf34e3cb598d8571d45ebd0e4f4e4",
-    "userName": "ssori",
-    "commitTime": "2023-09-09T10:18:28Z",
-    "commitMessage": "Delete .DS_Store",
-    "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/01c8a91ccd9bf34e3cb598d8571d45ebd0e4f4e4"
-  },
-  {
-    "commitId": "e800ca8500c192985c1174536ab8986c93469778",
-    "userName": "ssori",
-    "commitTime": "2023-09-09T10:18:05Z",
-    "commitMessage": "Delete config directory",
-    "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/e800ca8500c192985c1174536ab8986c93469778"
-  },
-  {
-    "commitId": "32c1511451e5250c2056fed8b90738e7761ff1a7",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-09-09T10:15:59Z",
-    "commitMessage": "[feat]: s3 upload",
-    "commitLink": "https://api.github.com/repos/NetHibit/nethibit-backend/commits/32c1511451e5250c2056fed8b90738e7761ff1a7"
   },
   {
     "commitId": "b56d2cc069de5e72b654b4e4d22e8b7cab50ae5d",
