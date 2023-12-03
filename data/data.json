@@ -259,6 +259,34 @@
     "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
   },
   {
+    "commitId": "abfb76e652a710080d9b31374079b2b429e9bdc2",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-02T14:22:21Z",
+    "commitMessage": "[ADD] youtube introduction video url",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/abfb76e652a710080d9b31374079b2b429e9bdc2"
+  },
+  {
+    "commitId": "c7af4202fe7ca54cb3c57bef03d89713d5de6bca",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-02T14:03:38Z",
+    "commitMessage": "[ADD] picture",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/c7af4202fe7ca54cb3c57bef03d89713d5de6bca"
+  },
+  {
+    "commitId": "8756525505156487cac20cb7aba3bc04fa612a46",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-02T09:47:00Z",
+    "commitMessage": "[FEAT] add server UI",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/8756525505156487cac20cb7aba3bc04fa612a46"
+  },
+  {
+    "commitId": "572edd3570d810db1bfe3bc8b9869b3871bf5bae",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-02T09:17:36Z",
+    "commitMessage": "[DOCS] docs fix",
+    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/572edd3570d810db1bfe3bc8b9869b3871bf5bae"
+  },
+  {
     "commitId": "0666a3819e36c5322e3bfd501ff4985683723d42",
     "userName": "Juliandocode",
     "commitTime": "2023-12-01T09:00:14Z",
@@ -385,25 +413,53 @@
     "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/3c2e154826f58e38e05e077d716628490c974ba7"
   },
   {
-    "commitId": "d3a9db222b26337ff04080c2125742ec917170df",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-27T07:18:58Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/d3a9db222b26337ff04080c2125742ec917170df"
+    "commitId": "183e6c7edf87cb811e32540b3d684f5d581a8485",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T13:39:04Z",
+    "commitMessage": "fix: error",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/183e6c7edf87cb811e32540b3d684f5d581a8485"
   },
   {
-    "commitId": "4725760bbc7fb67ce3b05500f568e556e9e8e460",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-27T07:18:26Z",
-    "commitMessage": "[INIT] README 수정",
-    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/4725760bbc7fb67ce3b05500f568e556e9e8e460"
+    "commitId": "d8275691a5da7bc4bf10730869a836a8366553c6",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T13:38:29Z",
+    "commitMessage": "fix: error",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d8275691a5da7bc4bf10730869a836a8366553c6"
   },
   {
-    "commitId": "2a3f07302b02afb1327ae13203631be100ce5e4e",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-27T07:14:36Z",
-    "commitMessage": "[INIT] socket communication server and client code",
-    "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/2a3f07302b02afb1327ae13203631be100ce5e4e"
+    "commitId": "878af0af097621f5959ab0110ec332e0eb384700",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T13:37:13Z",
+    "commitMessage": "feat: devnote sql init",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/878af0af097621f5959ab0110ec332e0eb384700"
+  },
+  {
+    "commitId": "20b93047eeb6685819a3e43f8a4c2c87a255655f",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T13:36:39Z",
+    "commitMessage": "feat: devnote sql init",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/20b93047eeb6685819a3e43f8a4c2c87a255655f"
+  },
+  {
+    "commitId": "262d7910f24fb687b44c5d7c9dfa876e25b0fcfe",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T09:30:05Z",
+    "commitMessage": "feat: funding",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/262d7910f24fb687b44c5d7c9dfa876e25b0fcfe"
+  },
+  {
+    "commitId": "615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T09:29:55Z",
+    "commitMessage": "feat: funding",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d"
+  },
+  {
+    "commitId": "dbde35eb43e4586c41069cb85bcc5e2e79d5dfaa",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-02T09:25:47Z",
+    "commitMessage": "feat: funding",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/dbde35eb43e4586c41069cb85bcc5e2e79d5dfaa"
   },
   {
     "commitId": "615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d",
@@ -460,55 +516,6 @@
     "commitTime": "2023-11-28T01:56:16Z",
     "commitMessage": "feat: 유저 정보",
     "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
-  },
-  {
-    "commitId": "7ef5812afc17a8d534b57d52c60a1c4b33862110",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-28T01:55:51Z",
-    "commitMessage": "feat: user SignUp",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ef5812afc17a8d534b57d52c60a1c4b33862110"
-  },
-  {
-    "commitId": "62a6cda821c581fb8ff281db326ad9f70d023547",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-27T01:45:58Z",
-    "commitMessage": "add: Ds_Store git ignore",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/62a6cda821c581fb8ff281db326ad9f70d023547"
-  },
-  {
-    "commitId": "38ecf657bbc780423d79697da806c5cc785d4e5e",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-26T18:16:16Z",
-    "commitMessage": "feat: 유저 이메일 인증과 로그인",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/38ecf657bbc780423d79697da806c5cc785d4e5e"
-  },
-  {
-    "commitId": "7ef5812afc17a8d534b57d52c60a1c4b33862110",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-26T18:16:08Z",
-    "commitMessage": "feat: user SignUp",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ef5812afc17a8d534b57d52c60a1c4b33862110"
-  },
-  {
-    "commitId": "63df764ad56a48f548b441fbfcb0b2756ed1809d",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-26T18:13:47Z",
-    "commitMessage": "feat: 유저 이메일 인증과 로그인",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/63df764ad56a48f548b441fbfcb0b2756ed1809d"
-  },
-  {
-    "commitId": "7ef5812afc17a8d534b57d52c60a1c4b33862110",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-23T05:55:39Z",
-    "commitMessage": "feat: user SignUp",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ef5812afc17a8d534b57d52c60a1c4b33862110"
-  },
-  {
-    "commitId": "14d30c3bf8ed41291827f4b28507df6d763db2d3",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-15T15:30:32Z",
-    "commitMessage": "fix: README.md",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/14d30c3bf8ed41291827f4b28507df6d763db2d3"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1267,6 +1274,55 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "fce40327bc8cebcab2f21ccb65dc4a74bca9bc96",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T19:02:21Z",
+    "commitMessage": "feat : 아이콘 간단화 작업",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/fce40327bc8cebcab2f21ccb65dc4a74bca9bc96"
+  },
+  {
+    "commitId": "e3a6d6cb45493fdd8e213cc0fe88582e2087df7d",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T17:58:41Z",
+    "commitMessage": "feat : 이미지 url 추가",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/e3a6d6cb45493fdd8e213cc0fe88582e2087df7d"
+  },
+  {
+    "commitId": "da1403d194cb3975fe6cf7cedcdbcfe090509747",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T17:28:29Z",
+    "commitMessage": "fix : response 통일",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/da1403d194cb3975fe6cf7cedcdbcfe090509747"
+  },
+  {
+    "commitId": "9cadcd7ce622fadf0a841c5a33971eec1c502f4a",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T16:59:22Z",
+    "commitMessage": "refactor : 오타",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/9cadcd7ce622fadf0a841c5a33971eec1c502f4a"
+  },
+  {
+    "commitId": "d17a1a003100471539071cd187cf2bde54d4a776",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T10:30:47Z",
+    "commitMessage": "fix : 클라이언트 메시지 확인",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/d17a1a003100471539071cd187cf2bde54d4a776"
+  },
+  {
+    "commitId": "25e53683c41ae0cbbd3164d3f2d917fb870643eb",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T09:32:59Z",
+    "commitMessage": "refactor : request 변수 수정",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/25e53683c41ae0cbbd3164d3f2d917fb870643eb"
+  },
+  {
+    "commitId": "7ce5565bd47959b9e15b3157467018b9b821d83a",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-02T03:55:23Z",
+    "commitMessage": "feat :  동 에외처리",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/7ce5565bd47959b9e15b3157467018b9b821d83a"
+  },
+  {
     "commitId": "6c575cf6941d3c9dbdd408ade719a708880bc970",
     "userName": "solhee-hwang",
     "commitTime": "2023-12-01T19:13:37Z",
@@ -1391,13 +1447,6 @@
     "commitTime": "2023-11-22T13:29:18Z",
     "commitMessage": "feat : 지역 정보조회",
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/76dd7dfff5db3ff764ce8c15c1c826e2a5e3f96c"
-  },
-  {
-    "commitId": "a9699c6bff10d034c507de6a6dbb97ad6908b555",
-    "userName": "Solhee Hwang",
-    "commitTime": "2023-09-25T03:36:45Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/73736f7269-ssori/73736f7269-ssori/commits/a9699c6bff10d034c507de6a6dbb97ad6908b555"
   },
   {
     "commitId": "b56d2cc069de5e72b654b4e4d22e8b7cab50ae5d",
