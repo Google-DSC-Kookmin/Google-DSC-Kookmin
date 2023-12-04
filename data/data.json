@@ -259,6 +259,13 @@
     "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
   },
   {
+    "commitId": "134f22fbd362528a932cfda9ff6da4620b2b3da1",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-03T13:28:51Z",
+    "commitMessage": "(add) CI CD with github self hosted runner",
+    "commitLink": "https://api.github.com/repos/timebank-2023-FNB/hermes/commits/134f22fbd362528a932cfda9ff6da4620b2b3da1"
+  },
+  {
     "commitId": "abfb76e652a710080d9b31374079b2b429e9bdc2",
     "userName": "Juliandocode",
     "commitTime": "2023-12-02T14:22:21Z",
@@ -404,13 +411,6 @@
     "commitTime": "2023-11-30T15:59:32Z",
     "commitMessage": "[FIX] threading lock code modifying",
     "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/43b0aec2f6ae016c6898591715dde752529a9ca2"
-  },
-  {
-    "commitId": "3c2e154826f58e38e05e077d716628490c974ba7",
-    "userName": "Juliandocode",
-    "commitTime": "2023-11-27T10:13:34Z",
-    "commitMessage": "Update memberDataUpdate.yml",
-    "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/3c2e154826f58e38e05e077d716628490c974ba7"
   },
   {
     "commitId": "183e6c7edf87cb811e32540b3d684f5d581a8485",
@@ -1274,6 +1274,97 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "2c6cbb7580c86005fd4cefd28090c422f729178c",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T22:42:31Z",
+    "commitMessage": "fix : url",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/2c6cbb7580c86005fd4cefd28090c422f729178c"
+  },
+  {
+    "commitId": "f83ee037ef456b3d0596255bf8b44042bcd64987",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T21:42:07Z",
+    "commitMessage": "fix : 인코딩 해결",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/f83ee037ef456b3d0596255bf8b44042bcd64987"
+  },
+  {
+    "commitId": "916b1ad3c07e88c451e97ad64d04f1bba635206f",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T21:35:30Z",
+    "commitMessage": "fix: 연결 오류",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/916b1ad3c07e88c451e97ad64d04f1bba635206f"
+  },
+  {
+    "commitId": "17e6fd359ac3b19b7f5841876788f87bd2ea869e",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T19:29:58Z",
+    "commitMessage": "Feat : 업로드 해결",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/17e6fd359ac3b19b7f5841876788f87bd2ea869e"
+  },
+  {
+    "commitId": "dc08f3bc64f08e503e3dc6f9f7d502db7dd9bd3a",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T19:13:47Z",
+    "commitMessage": "사진 전송",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/dc08f3bc64f08e503e3dc6f9f7d502db7dd9bd3a"
+  },
+  {
+    "commitId": "3849c85b5a76f5ec85176829c4a1326b242c1774",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T17:46:45Z",
+    "commitMessage": "사진",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/3849c85b5a76f5ec85176829c4a1326b242c1774"
+  },
+  {
+    "commitId": "9119f0cad6c5e47eb1d607835ee68ddf9acb1bd2",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T13:26:44Z",
+    "commitMessage": "heat : health check",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/9119f0cad6c5e47eb1d607835ee68ddf9acb1bd2"
+  },
+  {
+    "commitId": "9be1896630d40f1205cef1da9bd66a118094f7af",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T08:07:47Z",
+    "commitMessage": "feat : 기관 에러 수정",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/9be1896630d40f1205cef1da9bd66a118094f7af"
+  },
+  {
+    "commitId": "ff3865871bcc962dfc7e1ad7904880ae5b828501",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T07:03:17Z",
+    "commitMessage": "fiz : 비밀번호 대조",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/ff3865871bcc962dfc7e1ad7904880ae5b828501"
+  },
+  {
+    "commitId": "22592d9992aa59e799fe08dfc76350621ade21a6",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T05:47:29Z",
+    "commitMessage": "feat : 시간대 수정",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/22592d9992aa59e799fe08dfc76350621ade21a6"
+  },
+  {
+    "commitId": "94f9e1b6609a77e7c161fb7e86e32a734e13f263",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T05:37:11Z",
+    "commitMessage": "feat : 프로필 업로드",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/94f9e1b6609a77e7c161fb7e86e32a734e13f263"
+  },
+  {
+    "commitId": "f2956ebad146c86c9c8fb6f958026067ff37fe31",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T04:34:52Z",
+    "commitMessage": "feat : response 형태 수정",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f2956ebad146c86c9c8fb6f958026067ff37fe31"
+  },
+  {
+    "commitId": "79b29877564f30f5c126081e88cf7e15f4680a87",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-03T04:16:16Z",
+    "commitMessage": "fix : 시간설정",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/79b29877564f30f5c126081e88cf7e15f4680a87"
+  },
+  {
     "commitId": "fce40327bc8cebcab2f21ccb65dc4a74bca9bc96",
     "userName": "solhee-hwang",
     "commitTime": "2023-12-02T19:02:21Z",
@@ -1370,83 +1461,6 @@
     "commitTime": "2023-11-30T14:35:49Z",
     "commitMessage": "fix : timeformat",
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/a8db1c499ee8bd7cb21692cdc41b87eb7333b5d8"
-  },
-  {
-    "commitId": "7a237b9c5a8ccfaf24692df6acb8040d8292ac3e",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-30T04:34:59Z",
-    "commitMessage": "fix : 전체 채팅 조회",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/7a237b9c5a8ccfaf24692df6acb8040d8292ac3e"
-  },
-  {
-    "commitId": "f4195ee2c227d520b249ca1c2b84124e566cb996",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-29T17:23:51Z",
-    "commitMessage": "refactor: region",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f4195ee2c227d520b249ca1c2b84124e566cb996"
-  },
-  {
-    "commitId": "de061ebcd3b2b1fd3464d05a7ce11cc1c413fb12",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-29T11:02:20Z",
-    "commitMessage": "refactor : 지역이름 변경",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/de061ebcd3b2b1fd3464d05a7ce11cc1c413fb12"
-  },
-  {
-    "commitId": "9b7f98591896d3048fcdf4b542df88745254d6a4",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-28T19:37:04Z",
-    "commitMessage": "fix : timeformat",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/9b7f98591896d3048fcdf4b542df88745254d6a4"
-  },
-  {
-    "commitId": "65407275ddffe2a0ba03c6d8f8dff15eea1d3913",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-28T18:47:05Z",
-    "commitMessage": "feat : 전체 조회",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/65407275ddffe2a0ba03c6d8f8dff15eea1d3913"
-  },
-  {
-    "commitId": "387386dd05be4759a62bf5d0acfbf875bff05881",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-28T18:15:55Z",
-    "commitMessage": "fix : 날짜 타입, response",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/387386dd05be4759a62bf5d0acfbf875bff05881"
-  },
-  {
-    "commitId": "14c460cb04ad336ada871fde1e1a90bce5b9a2e6",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-27T08:21:20Z",
-    "commitMessage": "feat : restapi kakao 추가",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/14c460cb04ad336ada871fde1e1a90bce5b9a2e6"
-  },
-  {
-    "commitId": "760271400d7676e4620ae2b4db22b9cc6ad245bf",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-27T08:12:10Z",
-    "commitMessage": "fix : logout issue",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/760271400d7676e4620ae2b4db22b9cc6ad245bf"
-  },
-  {
-    "commitId": "26ab2d6127eafaa6b0851f11d66413ea8fa3b3eb",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-26T07:06:20Z",
-    "commitMessage": "chore : swagger authjorization",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/26ab2d6127eafaa6b0851f11d66413ea8fa3b3eb"
-  },
-  {
-    "commitId": "cf78b75c167e79f71c62cd20852062ee8cb2060d",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-26T05:42:27Z",
-    "commitMessage": "fix : signin with kakao",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/cf78b75c167e79f71c62cd20852062ee8cb2060d"
-  },
-  {
-    "commitId": "76dd7dfff5db3ff764ce8c15c1c826e2a5e3f96c",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-22T13:29:18Z",
-    "commitMessage": "feat : 지역 정보조회",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/76dd7dfff5db3ff764ce8c15c1c826e2a5e3f96c"
   },
   {
     "commitId": "b56d2cc069de5e72b654b4e4d22e8b7cab50ae5d",
