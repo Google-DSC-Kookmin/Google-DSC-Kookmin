@@ -448,13 +448,6 @@
     "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c2f8ceeb1b14f6a1c7076c6f55d30b0f5ac77d9b"
   },
   {
-    "commitId": "44a688a9a554a68e529069e538e994e4861901cc",
-    "userName": "Juliandocode",
-    "commitTime": "2023-12-01T06:34:30Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/44a688a9a554a68e529069e538e994e4861901cc"
-  },
-  {
     "commitId": "183e6c7edf87cb811e32540b3d684f5d581a8485",
     "userName": "EastWon0103",
     "commitTime": "2023-12-02T13:39:04Z",
@@ -1316,6 +1309,20 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "de3331ca55bcc6aad4ed0b9e8967aec8ddfb44ce",
+    "userName": "Solhee Hwang",
+    "commitTime": "2023-12-05T19:01:44Z",
+    "commitMessage": "Update README.md",
+    "commitLink": "https://api.github.com/repos/Honghyeonji/SNS_Project/commits/de3331ca55bcc6aad4ed0b9e8967aec8ddfb44ce"
+  },
+  {
+    "commitId": "3c25e6c3b013456aeaf72b07269bf14ce3085c2b",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-05T18:40:37Z",
+    "commitMessage": "fix : delete apply",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/3c25e6c3b013456aeaf72b07269bf14ce3085c2b"
+  },
+  {
     "commitId": "5505b3784e85d0f539d8334e539242b19b9e5b7b",
     "userName": "solhee-hwang",
     "commitTime": "2023-12-04T03:19:47Z",
@@ -1491,18 +1498,11 @@
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f49e9caa12539794c16affbd48e3ba12e2da40de"
   },
   {
-    "commitId": "68cf0df6df3273d7942caa6d2be7e6782a29b78d",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-30T16:24:00Z",
-    "commitMessage": "feat : 신청 여부",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/68cf0df6df3273d7942caa6d2be7e6782a29b78d"
-  },
-  {
-    "commitId": "03c48c4778b138e7469c5fefb0c8bc3cf7332c14",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-11-30T14:53:56Z",
-    "commitMessage": "fix : crossorigin",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/03c48c4778b138e7469c5fefb0c8bc3cf7332c14"
+    "commitId": "7f3168f419f25e185768320873fc5c854f5869e5",
+    "userName": "sunho1999",
+    "commitTime": "2023-12-05T06:00:18Z",
+    "commitMessage": "1일 1알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/7f3168f419f25e185768320873fc5c854f5869e5"
   },
   {
     "commitId": "b56d2cc069de5e72b654b4e4d22e8b7cab50ae5d",
@@ -1706,13 +1706,6 @@
     "commitTime": "2023-10-25T03:29:28Z",
     "commitMessage": "1일 1알고리즘",
     "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/67e198303284e8d681d5f1958ee3eb6b2866a1c0"
-  },
-  {
-    "commitId": "ee0a7068dff1a442a98e04edd849f7f32b9e8411",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-24T03:32:01Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/ee0a7068dff1a442a98e04edd849f7f32b9e8411"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
