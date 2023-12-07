@@ -966,6 +966,13 @@
     "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/c8f9c149d520fba6586302342ea47705533f6f32"
   },
   {
+    "commitId": "ea3cb7c45ab5d71cb02433745ae42e925b38e0bd",
+    "userName": "jin-jae",
+    "commitTime": "2023-12-06T08:03:35Z",
+    "commitMessage": "add: week01 template",
+    "commitLink": "https://api.github.com/repos/jin-jae/Coding-Test-Study/commits/ea3cb7c45ab5d71cb02433745ae42e925b38e0bd"
+  },
+  {
     "commitId": "2b575dea090f0c7b02dddf4cb5ecd26a7c6e1733",
     "userName": "jin-jae",
     "commitTime": "2023-10-27T01:31:03Z",
@@ -1041,20 +1048,6 @@
     "commitTime": "2023-10-01T13:12:32Z",
     "commitMessage": "feat: socket communication",
     "commitLink": "https://api.github.com/repos/BO-DA/boda_android/commits/67468efcd1ce358be24c6b3ce9395348a0080b85"
-  },
-  {
-    "commitId": "93e76ae8dcde4c52428438a9f37b2ee838d45285",
-    "userName": "jin-jae",
-    "commitTime": "2023-10-01T07:57:52Z",
-    "commitMessage": "fix: file path",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/93e76ae8dcde4c52428438a9f37b2ee838d45285"
-  },
-  {
-    "commitId": "4aaf4cf2c81df5a54d124f8b9f402efd6c83ec61",
-    "userName": "jin-jae",
-    "commitTime": "2023-10-01T06:30:48Z",
-    "commitMessage": "refactor: using docker compose",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_ops/commits/4aaf4cf2c81df5a54d124f8b9f402efd6c83ec61"
   },
   {
     "commitId": "cb65d15fae91cf618d7fda7d52073c6980191e7e",
@@ -1498,6 +1491,13 @@
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f49e9caa12539794c16affbd48e3ba12e2da40de"
   },
   {
+    "commitId": "bd2a12855cead1cf2a4b3d428dabfbe5681e7d75",
+    "userName": "sunho1999",
+    "commitTime": "2023-12-06T07:49:04Z",
+    "commitMessage": "1일 1알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/bd2a12855cead1cf2a4b3d428dabfbe5681e7d75"
+  },
+  {
     "commitId": "7f3168f419f25e185768320873fc5c854f5869e5",
     "userName": "sunho1999",
     "commitTime": "2023-12-05T06:00:18Z",
@@ -1699,13 +1699,6 @@
     "commitTime": "2023-10-26T06:40:48Z",
     "commitMessage": "1일 1알고리즘",
     "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/bc39a5273904d2f93c6d2c6b4db080d079702a37"
-  },
-  {
-    "commitId": "67e198303284e8d681d5f1958ee3eb6b2866a1c0",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-25T03:29:28Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/67e198303284e8d681d5f1958ee3eb6b2866a1c0"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
@@ -1951,97 +1944,6 @@
     "commitTime": "2023-09-06T14:51:46Z",
     "commitMessage": "Add files via upload",
     "commitLink": "https://api.github.com/repos/YiJeongan/CarrotGame/commits/7b7f8cdfe61c4c677a564ce282e795ca5ad818a0"
-  },
-  {
-    "commitId": "5b5d3a69efe4015299d636d2b8cb6c2a34d27c4e",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T16:18:32Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/5b5d3a69efe4015299d636d2b8cb6c2a34d27c4e"
-  },
-  {
-    "commitId": "b197bbe264a19e71bdb2bfa16d9aee83d6cd319e",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T16:04:34Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/b197bbe264a19e71bdb2bfa16d9aee83d6cd319e"
-  },
-  {
-    "commitId": "6833ad593cd15c98742a166139fe1ce1b7d0ecb1",
-    "userName": "김영석",
-    "commitTime": "2023-09-05T14:19:56Z",
-    "commitMessage": "Update codes and README.md",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/6833ad593cd15c98742a166139fe1ce1b7d0ecb1"
-  },
-  {
-    "commitId": "d97d388aa9261bd2e0ddc197be48c810a03dd19f",
-    "userName": "김영석",
-    "commitTime": "2023-09-05T13:22:04Z",
-    "commitMessage": "Feat: add DOA model train / inference code",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/d97d388aa9261bd2e0ddc197be48c810a03dd19f"
-  },
-  {
-    "commitId": "07ab2460ee7cee0bd4c749219a054aa98d74ef8f",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T08:14:26Z",
-    "commitMessage": "Update README.md space on code",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/07ab2460ee7cee0bd4c749219a054aa98d74ef8f"
-  },
-  {
-    "commitId": "0c81f2142532ae3c6ea6381ba517828e89224a9e",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T08:12:43Z",
-    "commitMessage": "Update README.md 개발환경",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/0c81f2142532ae3c6ea6381ba517828e89224a9e"
-  },
-  {
-    "commitId": "d8c41919df24b8ae17089a48f3d0b35fb4e1f570",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T08:11:59Z",
-    "commitMessage": "Update README.md 개발환경",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/d8c41919df24b8ae17089a48f3d0b35fb4e1f570"
-  },
-  {
-    "commitId": "28122378e2ed5516bdd8cb49a22546f6edfefc95",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T08:11:24Z",
-    "commitMessage": "Update README.md 개발환경",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/28122378e2ed5516bdd8cb49a22546f6edfefc95"
-  },
-  {
-    "commitId": "a5ad2f8b5a5048cd6a91e752e63b07b3ffe3ec58",
-    "userName": "김영석",
-    "commitTime": "2023-09-05T07:54:26Z",
-    "commitMessage": "Update README.md directory",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/a5ad2f8b5a5048cd6a91e752e63b07b3ffe3ec58"
-  },
-  {
-    "commitId": "a4a41a9358e532385306c8afe289b3d57e8799b5",
-    "userName": "김영석",
-    "commitTime": "2023-09-05T07:43:11Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/a4a41a9358e532385306c8afe289b3d57e8799b5"
-  },
-  {
-    "commitId": "63e4def246ee047176480bafa64abc0445f1ff59",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T06:28:32Z",
-    "commitMessage": "Update README.md 음성 to 오디오",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/63e4def246ee047176480bafa64abc0445f1ff59"
-  },
-  {
-    "commitId": "b5a46b8a03ba790ccc955b5ea56949125cba93b7",
-    "userName": "Youngseok Kim",
-    "commitTime": "2023-09-05T06:27:32Z",
-    "commitMessage": "Update README.md",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/b5a46b8a03ba790ccc955b5ea56949125cba93b7"
-  },
-  {
-    "commitId": "20d093580fa598cf441aef54ef73dadec74731da",
-    "userName": "김영석",
-    "commitTime": "2023-09-05T06:16:00Z",
-    "commitMessage": "Update ipynb into functional style and add README",
-    "commitLink": "https://api.github.com/repos/KOBOT-BOARD12/seeyoursound-model-serving/commits/20d093580fa598cf441aef54ef73dadec74731da"
   },
   {
     "commitId": "89272eacc71e0d5b9eec846cbed3a151264c7cd2",
