@@ -448,6 +448,20 @@
     "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c2f8ceeb1b14f6a1c7076c6f55d30b0f5ac77d9b"
   },
   {
+    "commitId": "20b93047eeb6685819a3e43f8a4c2c87a255655f",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-07T15:19:30Z",
+    "commitMessage": "feat: devnote sql init",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/20b93047eeb6685819a3e43f8a4c2c87a255655f"
+  },
+  {
+    "commitId": "14d1b49b350289f9229aa79021992db3ffee807d",
+    "userName": "ryanbae",
+    "commitTime": "2023-12-07T15:19:19Z",
+    "commitMessage": "feat: 마이페이지, 프로젝트 기능 구현",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/14d1b49b350289f9229aa79021992db3ffee807d"
+  },
+  {
     "commitId": "183e6c7edf87cb811e32540b3d684f5d581a8485",
     "userName": "EastWon0103",
     "commitTime": "2023-12-02T13:39:04Z",
@@ -530,27 +544,6 @@
     "commitTime": "2023-11-28T01:59:47Z",
     "commitMessage": "feat: 유저 정보",
     "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/6ec7a1304a125e952c772768974151a942bd216c"
-  },
-  {
-    "commitId": "d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-28T01:59:03Z",
-    "commitMessage": "feat: 유저 정보",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
-  },
-  {
-    "commitId": "65208b377274a335643e61654a1d6e1d16d63ff6",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-28T01:57:40Z",
-    "commitMessage": "fix: add profile",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/65208b377274a335643e61654a1d6e1d16d63ff6"
-  },
-  {
-    "commitId": "d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-28T01:56:16Z",
-    "commitMessage": "feat: 유저 정보",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1092,13 +1085,6 @@
     "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/aec718b1e122cccc4085ebaf737588d2998c9e71"
   },
   {
-    "commitId": "c6075fdd9064f57b87eac5ebaac70fb60b60241b",
-    "userName": "JeJune Lee",
-    "commitTime": "2023-09-06T05:42:40Z",
-    "commitMessage": "docs: update ReadMe.md",
-    "commitLink": "https://api.github.com/repos/LeeJejune/LeeJejune/commits/c6075fdd9064f57b87eac5ebaac70fb60b60241b"
-  },
-  {
     "commitId": "9c2f0cf2d464a1b30661eb685f7d68d1cc1b76f9",
     "userName": "마민정 (MinJeong Ma)",
     "commitTime": "2023-11-01T04:06:03Z",
@@ -1491,6 +1477,13 @@
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f49e9caa12539794c16affbd48e3ba12e2da40de"
   },
   {
+    "commitId": "74658503c23cc8077cec919e5836ca5674a6d784",
+    "userName": "sunho1999",
+    "commitTime": "2023-12-07T14:32:59Z",
+    "commitMessage": "1일 1알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/74658503c23cc8077cec919e5836ca5674a6d784"
+  },
+  {
     "commitId": "bd2a12855cead1cf2a4b3d428dabfbe5681e7d75",
     "userName": "sunho1999",
     "commitTime": "2023-12-06T07:49:04Z",
@@ -1692,13 +1685,6 @@
     "commitTime": "2023-10-27T05:50:22Z",
     "commitMessage": "1일 1알고리즘",
     "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/88c955a1dab651ebab5fa9d5ead378aa958a8879"
-  },
-  {
-    "commitId": "bc39a5273904d2f93c6d2c6b4db080d079702a37",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-26T06:40:48Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/bc39a5273904d2f93c6d2c6b4db080d079702a37"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
@@ -1923,27 +1909,6 @@
     "commitTime": "2023-09-13T05:38:24Z",
     "commitMessage": "Add files via upload",
     "commitLink": "https://api.github.com/repos/YiJeongan/measurement/commits/43dcdf1f001e58e2a03c7f7723e4ad67d4d90e70"
-  },
-  {
-    "commitId": "b8f279f74fb2b3b08d61f2dd68a56cb84ca3b271",
-    "userName": "YiJeongan",
-    "commitTime": "2023-09-06T15:06:41Z",
-    "commitMessage": "Add files via upload",
-    "commitLink": "https://api.github.com/repos/YiJeongan/carrotGame/commits/b8f279f74fb2b3b08d61f2dd68a56cb84ca3b271"
-  },
-  {
-    "commitId": "6eff7554358a6af9e2d8e4a071692541958485b8",
-    "userName": "YiJeongan",
-    "commitTime": "2023-09-06T14:56:41Z",
-    "commitMessage": "Add files via upload",
-    "commitLink": "https://api.github.com/repos/YiJeongan/CarrotGame/commits/6eff7554358a6af9e2d8e4a071692541958485b8"
-  },
-  {
-    "commitId": "7b7f8cdfe61c4c677a564ce282e795ca5ad818a0",
-    "userName": "YiJeongan",
-    "commitTime": "2023-09-06T14:51:46Z",
-    "commitMessage": "Add files via upload",
-    "commitLink": "https://api.github.com/repos/YiJeongan/CarrotGame/commits/7b7f8cdfe61c4c677a564ce282e795ca5ad818a0"
   },
   {
     "commitId": "89272eacc71e0d5b9eec846cbed3a151264c7cd2",
