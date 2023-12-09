@@ -259,6 +259,13 @@
     "commitLink": "https://api.github.com/repos/ChanHHOO/chartmetric_exam/commits/061c07eb043b0371f4ad429420cb45e13be9a0b3"
   },
   {
+    "commitId": "7ce65594c60cf4bda9a771a2632e8598ade0bc89",
+    "userName": "Juliandocode",
+    "commitTime": "2023-12-08T01:52:05Z",
+    "commitMessage": "add some comment \"GIL\", \"multi-threading\"",
+    "commitLink": "https://api.github.com/repos/donggook-me/crawlCodingArticles/commits/7ce65594c60cf4bda9a771a2632e8598ade0bc89"
+  },
+  {
     "commitId": "c3dd34323e95578a4b2a4f7103795d5a4b1b8cdf",
     "userName": "Juliandocode",
     "commitTime": "2023-12-04T12:09:28Z",
@@ -441,11 +448,32 @@
     "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c621f8779d112e8bc8649553c97cc635fec997d2"
   },
   {
-    "commitId": "c2f8ceeb1b14f6a1c7076c6f55d30b0f5ac77d9b",
-    "userName": "Juliandocode",
-    "commitTime": "2023-12-01T06:40:45Z",
-    "commitMessage": "Update main.yml",
-    "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c2f8ceeb1b14f6a1c7076c6f55d30b0f5ac77d9b"
+    "commitId": "7ac3816ff4ce2210e39dcced3470927867381dab",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-08T20:11:18Z",
+    "commitMessage": "fix: gitignore",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ac3816ff4ce2210e39dcced3470927867381dab"
+  },
+  {
+    "commitId": "94517229cd728ea664a0e2aebdef05b482628cda",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-08T20:11:05Z",
+    "commitMessage": "fix: gitignore",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/94517229cd728ea664a0e2aebdef05b482628cda"
+  },
+  {
+    "commitId": "9cd3f288fe21e754ce9d6da579d8505f16489d10",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-08T20:09:47Z",
+    "commitMessage": "fix: gradle build",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/9cd3f288fe21e754ce9d6da579d8505f16489d10"
+  },
+  {
+    "commitId": "94517229cd728ea664a0e2aebdef05b482628cda",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-08T19:46:07Z",
+    "commitMessage": "fix: gitignore",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/94517229cd728ea664a0e2aebdef05b482628cda"
   },
   {
     "commitId": "20b93047eeb6685819a3e43f8a4c2c87a255655f",
@@ -516,34 +544,6 @@
     "commitTime": "2023-12-01T09:28:29Z",
     "commitMessage": "feat: funding",
     "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d"
-  },
-  {
-    "commitId": "d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-01T09:28:12Z",
-    "commitMessage": "feat: 유저 정보",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d67faaed4a6c6eb8abf0eb3aa4c1b6f891f0689f"
-  },
-  {
-    "commitId": "63500e88e0da27125f69233df3a534f8fd58a832",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-30T11:47:52Z",
-    "commitMessage": "feat: reward",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/63500e88e0da27125f69233df3a534f8fd58a832"
-  },
-  {
-    "commitId": "355b4ae3f056df51b0feb336b6a1c9cae6d9187a",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-30T11:46:32Z",
-    "commitMessage": "feat: reward",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/355b4ae3f056df51b0feb336b6a1c9cae6d9187a"
-  },
-  {
-    "commitId": "6ec7a1304a125e952c772768974151a942bd216c",
-    "userName": "EastWon0103",
-    "commitTime": "2023-11-28T01:59:47Z",
-    "commitMessage": "feat: 유저 정보",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/6ec7a1304a125e952c772768974151a942bd216c"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1288,6 +1288,20 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "f2243c0f3ab2ce97ab461418702c113c41a9638d",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-08T08:32:38Z",
+    "commitMessage": "feat : 탈퇴 카테고리",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f2243c0f3ab2ce97ab461418702c113c41a9638d"
+  },
+  {
+    "commitId": "73232722344c8b2a6fd809c1ecfab416c706ebd3",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-08T08:09:32Z",
+    "commitMessage": "feat : 탈퇴구현",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/73232722344c8b2a6fd809c1ecfab416c706ebd3"
+  },
+  {
     "commitId": "de3331ca55bcc6aad4ed0b9e8967aec8ddfb44ce",
     "userName": "Solhee Hwang",
     "commitTime": "2023-12-05T19:01:44Z",
@@ -1470,11 +1484,11 @@
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/940c1860eee0733667270ee1b6dc4914777bd41f"
   },
   {
-    "commitId": "f49e9caa12539794c16affbd48e3ba12e2da40de",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-12-01T07:00:58Z",
-    "commitMessage": "feat : 프로필, 비밀번호 분리",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f49e9caa12539794c16affbd48e3ba12e2da40de"
+    "commitId": "ffa6bd4031baa31b974a598a81bf14728a02fb73",
+    "userName": "sunho1999",
+    "commitTime": "2023-12-08T12:49:31Z",
+    "commitMessage": "1일 1알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/ffa6bd4031baa31b974a598a81bf14728a02fb73"
   },
   {
     "commitId": "74658503c23cc8077cec919e5836ca5674a6d784",
@@ -1678,13 +1692,6 @@
     "commitTime": "2023-10-27T05:52:45Z",
     "commitMessage": "리드미 수정",
     "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/ea38bb0e9ce4fdd294ac041ad04b8f44f48593e2"
-  },
-  {
-    "commitId": "88c955a1dab651ebab5fa9d5ead378aa958a8879",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-27T05:50:22Z",
-    "commitMessage": "1일 1알고리즘",
-    "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/88c955a1dab651ebab5fa9d5ead378aa958a8879"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
@@ -2077,33 +2084,5 @@
     "commitTime": "2023-09-16T15:47:57Z",
     "commitMessage": "Delete main.py",
     "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/c76ae0e6c95e9f36ad8a48d8fe83a8e3810ae220"
-  },
-  {
-    "commitId": "c7d6ca3c039f0011035fe059d9e3d971f0d81d2f",
-    "userName": "유광열",
-    "commitTime": "2023-09-07T06:07:25Z",
-    "commitMessage": "Add files via upload",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/c7d6ca3c039f0011035fe059d9e3d971f0d81d2f"
-  },
-  {
-    "commitId": "9cb25aa2f11bcf6781657735e3a4c31aaeeff979",
-    "userName": "유광열",
-    "commitTime": "2023-09-07T06:07:04Z",
-    "commitMessage": "Delete main.py",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/9cb25aa2f11bcf6781657735e3a4c31aaeeff979"
-  },
-  {
-    "commitId": "e25474754866589b66a8b26aa1509200716259eb",
-    "userName": "유광열",
-    "commitTime": "2023-09-07T06:06:50Z",
-    "commitMessage": "Delete Video.py",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/e25474754866589b66a8b26aa1509200716259eb"
-  },
-  {
-    "commitId": "ee0cd20dce399f4a76ebfed36a0f73e9305b52c8",
-    "userName": "유광열",
-    "commitTime": "2023-09-07T06:06:31Z",
-    "commitMessage": "Delete SafeZone.py",
-    "commitLink": "https://api.github.com/repos/BO-DA/boda_AI/commits/ee0cd20dce399f4a76ebfed36a0f73e9305b52c8"
   }
 ]
