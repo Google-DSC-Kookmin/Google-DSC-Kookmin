@@ -952,13 +952,6 @@
     "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/56073e8ef1eb1b8edc5d261bc33d38ed13e70233"
   },
   {
-    "commitId": "c8f9c149d520fba6586302342ea47705533f6f32",
-    "userName": "Jaewook Ahn",
-    "commitTime": "2023-09-08T11:02:30Z",
-    "commitMessage": "Add kmu ladder climing problem solution written in C++",
-    "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/c8f9c149d520fba6586302342ea47705533f6f32"
-  },
-  {
     "commitId": "ea3cb7c45ab5d71cb02433745ae42e925b38e0bd",
     "userName": "jin-jae",
     "commitTime": "2023-12-06T08:03:35Z",
