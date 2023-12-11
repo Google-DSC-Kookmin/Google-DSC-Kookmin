@@ -1134,13 +1134,6 @@
     "commitLink": "https://api.github.com/repos/DSBA-Lab/CodeLab/commits/cacbe0e4227b4427b7722a19d8414e9ab251516d"
   },
   {
-    "commitId": "9adf324e230d1b86501d96dcfb55ba287e28c1a4",
-    "userName": "Nbeenie",
-    "commitTime": "2023-09-09T06:37:20Z",
-    "commitMessage": "Add files via upload\n\n실제 코드-아르바이트 게임",
-    "commitLink": "https://api.github.com/repos/Nbeenie/rpgTextGame/commits/9adf324e230d1b86501d96dcfb55ba287e28c1a4"
-  },
-  {
     "commitId": "8d5c5cffd4fd8771c7345c3db910f432a5ed0626",
     "userName": "Maker KSH",
     "commitTime": "2023-11-23T12:29:55Z",
@@ -1279,6 +1272,20 @@
     "commitTime": "2023-11-06T12:03:00Z",
     "commitMessage": "docs: 로또 클래스 및 util 패키지 설명\n\n로또 도메인 클래스\n- 도메인에 맞게 설명\nutil 패키지\n- 대부분의 클래스가 어떤 역할을 하는지 정의",
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
+  },
+  {
+    "commitId": "bc1cec262203483353755649311b604572ada33a",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-10T12:01:14Z",
+    "commitMessage": "feat : 경로 바꿈",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/bc1cec262203483353755649311b604572ada33a"
+  },
+  {
+    "commitId": "f4ea0ca62bffd6de76bdc43717662bf954d33c2b",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-10T03:34:17Z",
+    "commitMessage": "feat : 차단기능",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/f4ea0ca62bffd6de76bdc43717662bf954d33c2b"
   },
   {
     "commitId": "f2243c0f3ab2ce97ab461418702c113c41a9638d",
@@ -1463,18 +1470,11 @@
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/6c575cf6941d3c9dbdd408ade719a708880bc970"
   },
   {
-    "commitId": "db20e2d563a056ef199821953f172085eb04e695",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-12-01T19:11:19Z",
-    "commitMessage": "feat : 신청 취소",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/db20e2d563a056ef199821953f172085eb04e695"
-  },
-  {
-    "commitId": "940c1860eee0733667270ee1b6dc4914777bd41f",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-12-01T18:11:09Z",
-    "commitMessage": "feat : 비밀번호 유무 확인",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/940c1860eee0733667270ee1b6dc4914777bd41f"
+    "commitId": "45d37a1ab80df5b9b9849beea9cb5112561505ad",
+    "userName": "sunho1999",
+    "commitTime": "2023-12-10T13:17:58Z",
+    "commitMessage": "1일 1알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/45d37a1ab80df5b9b9849beea9cb5112561505ad"
   },
   {
     "commitId": "ffa6bd4031baa31b974a598a81bf14728a02fb73",
@@ -1678,13 +1678,6 @@
     "commitTime": "2023-10-27T07:21:47Z",
     "commitMessage": "SQL코테 준비",
     "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/a043eae256b1add5adf61fb342ccd5a75d51dacd"
-  },
-  {
-    "commitId": "ea38bb0e9ce4fdd294ac041ad04b8f44f48593e2",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-27T05:52:45Z",
-    "commitMessage": "리드미 수정",
-    "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/ea38bb0e9ce4fdd294ac041ad04b8f44f48593e2"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
