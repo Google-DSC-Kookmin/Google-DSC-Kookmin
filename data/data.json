@@ -448,6 +448,41 @@
     "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c621f8779d112e8bc8649553c97cc635fec997d2"
   },
   {
+    "commitId": "1a3067cb3b2acc34839015dd54187ec8ba5221bf",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-11T08:04:52Z",
+    "commitMessage": ":sparkles: feat: email",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/1a3067cb3b2acc34839015dd54187ec8ba5221bf"
+  },
+  {
+    "commitId": "69c931480964b46461fc166488a2024b9b59735c",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-11T08:04:31Z",
+    "commitMessage": ":sparkles: feat: email",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/69c931480964b46461fc166488a2024b9b59735c"
+  },
+  {
+    "commitId": "f239eac224a535291b194e9eb4ba6f8c89d4659b",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-11T08:04:23Z",
+    "commitMessage": ":sparkles: feat: email",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/f239eac224a535291b194e9eb4ba6f8c89d4659b"
+  },
+  {
+    "commitId": "aa1b262fa794dda6632fed085460861fc19c7791",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-11T06:41:18Z",
+    "commitMessage": ":white_check_mark: add: projectSummary genre & description",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/aa1b262fa794dda6632fed085460861fc19c7791"
+  },
+  {
+    "commitId": "b542e505ca13ea2c60192f20ff79d324184c6be7",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-11T06:40:18Z",
+    "commitMessage": ":white_check_mark: add: projectSummary genre & description",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/b542e505ca13ea2c60192f20ff79d324184c6be7"
+  },
+  {
     "commitId": "7ac3816ff4ce2210e39dcced3470927867381dab",
     "userName": "EastWon0103",
     "commitTime": "2023-12-08T20:11:18Z",
@@ -509,41 +544,6 @@
     "commitTime": "2023-12-02T13:37:13Z",
     "commitMessage": "feat: devnote sql init",
     "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/878af0af097621f5959ab0110ec332e0eb384700"
-  },
-  {
-    "commitId": "20b93047eeb6685819a3e43f8a4c2c87a255655f",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-02T13:36:39Z",
-    "commitMessage": "feat: devnote sql init",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/20b93047eeb6685819a3e43f8a4c2c87a255655f"
-  },
-  {
-    "commitId": "262d7910f24fb687b44c5d7c9dfa876e25b0fcfe",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-02T09:30:05Z",
-    "commitMessage": "feat: funding",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/262d7910f24fb687b44c5d7c9dfa876e25b0fcfe"
-  },
-  {
-    "commitId": "615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-02T09:29:55Z",
-    "commitMessage": "feat: funding",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d"
-  },
-  {
-    "commitId": "dbde35eb43e4586c41069cb85bcc5e2e79d5dfaa",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-02T09:25:47Z",
-    "commitMessage": "feat: funding",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/dbde35eb43e4586c41069cb85bcc5e2e79d5dfaa"
-  },
-  {
-    "commitId": "615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-01T09:28:29Z",
-    "commitMessage": "feat: funding",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/615bf7d49a69f94ebaaa0c7ae4fcb8eec8a13d4d"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1274,6 +1274,13 @@
     "commitLink": "https://api.github.com/repos/SeYeol00/java-lotto-6/commits/39acb156131f0015c6b61f65121af723bed15043"
   },
   {
+    "commitId": "fea8a254f70b43e222e0e8cc0bcf0bc99addbabd",
+    "userName": "solhee-hwang",
+    "commitTime": "2023-12-11T07:14:58Z",
+    "commitMessage": "fix : cors",
+    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/fea8a254f70b43e222e0e8cc0bcf0bc99addbabd"
+  },
+  {
     "commitId": "bc1cec262203483353755649311b604572ada33a",
     "userName": "solhee-hwang",
     "commitTime": "2023-12-10T12:01:14Z",
@@ -1461,13 +1468,6 @@
     "commitTime": "2023-12-02T03:55:23Z",
     "commitMessage": "feat :  동 에외처리",
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/7ce5565bd47959b9e15b3157467018b9b821d83a"
-  },
-  {
-    "commitId": "6c575cf6941d3c9dbdd408ade719a708880bc970",
-    "userName": "solhee-hwang",
-    "commitTime": "2023-12-01T19:13:37Z",
-    "commitMessage": "docs : 지원취소",
-    "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/6c575cf6941d3c9dbdd408ade719a708880bc970"
   },
   {
     "commitId": "45d37a1ab80df5b9b9849beea9cb5112561505ad",
