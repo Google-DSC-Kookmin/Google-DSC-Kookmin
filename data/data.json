@@ -1071,6 +1071,34 @@
     "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/aec718b1e122cccc4085ebaf737588d2998c9e71"
   },
   {
+    "commitId": "39ac77c84b09eadbff17f931652aff90a5c98d85",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-14T04:54:22Z",
+    "commitMessage": "fix: 예제 코드 V1도 수정",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-identity-JPA/commits/39ac77c84b09eadbff17f931652aff90a5c98d85"
+  },
+  {
+    "commitId": "13a4216eb1ee7bbf79e8a6c9294b7c95b7057ec3",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-14T04:52:45Z",
+    "commitMessage": "fix: Spring Boot 3.x 이상에서는 JDBCTypeCode를 이용한 Varchar 지정",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-identity-JPA/commits/13a4216eb1ee7bbf79e8a6c9294b7c95b7057ec3"
+  },
+  {
+    "commitId": "4b129beb9227f98599904759a139221cd27d94d2",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-14T03:57:16Z",
+    "commitMessage": "feature: 하이버네이트 uuid 인식을 char로 수정",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-identity-JPA/commits/4b129beb9227f98599904759a139221cd27d94d2"
+  },
+  {
+    "commitId": "d906d3562f92799c33612ea86e3a361936be6d74",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-14T03:16:55Z",
+    "commitMessage": "feature: kotlin, JPA 기반 ULID Entity 생성 예제 프로젝트",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-identity-JPA/commits/d906d3562f92799c33612ea86e3a361936be6d74"
+  },
+  {
     "commitId": "9c2f0cf2d464a1b30661eb685f7d68d1cc1b76f9",
     "userName": "마민정 (MinJeong Ma)",
     "commitTime": "2023-11-01T04:06:03Z",
@@ -1888,13 +1916,6 @@
     "commitTime": "2023-10-06T11:29:54Z",
     "commitMessage": "add_signup",
     "commitLink": "https://api.github.com/repos/20203153/clouddrawing/commits/371d3e16196f415c31c6f34ade19c8b5e0242392"
-  },
-  {
-    "commitId": "43dcdf1f001e58e2a03c7f7723e4ad67d4d90e70",
-    "userName": "YiJeongan",
-    "commitTime": "2023-09-13T05:38:24Z",
-    "commitMessage": "Add files via upload",
-    "commitLink": "https://api.github.com/repos/YiJeongan/measurement/commits/43dcdf1f001e58e2a03c7f7723e4ad67d4d90e70"
   },
   {
     "commitId": "89272eacc71e0d5b9eec846cbed3a151264c7cd2",
