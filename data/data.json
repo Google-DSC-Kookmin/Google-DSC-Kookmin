@@ -434,6 +434,27 @@
     "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/c621f8779d112e8bc8649553c97cc635fec997d2"
   },
   {
+    "commitId": "b542e505ca13ea2c60192f20ff79d324184c6be7",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-15T06:42:38Z",
+    "commitMessage": ":white_check_mark: add: projectSummary genre & description",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/b542e505ca13ea2c60192f20ff79d324184c6be7"
+  },
+  {
+    "commitId": "5ed0056f062e47068b3cb8922e9f6af05011cfd7",
+    "userName": "ryanbae94",
+    "commitTime": "2023-12-15T06:42:29Z",
+    "commitMessage": "feat: 환불하기 기능 추가",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/5ed0056f062e47068b3cb8922e9f6af05011cfd7"
+  },
+  {
+    "commitId": "b10a03604583e5e3a92f44b2bd82163c7e627289",
+    "userName": "EastWon0103",
+    "commitTime": "2023-12-15T06:40:51Z",
+    "commitMessage": ":sparkles: refactor: to Hexagonal",
+    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/b10a03604583e5e3a92f44b2bd82163c7e627289"
+  },
+  {
     "commitId": "1a3067cb3b2acc34839015dd54187ec8ba5221bf",
     "userName": "EastWon0103",
     "commitTime": "2023-12-11T08:04:52Z",
@@ -516,20 +537,6 @@
     "commitTime": "2023-12-02T13:39:04Z",
     "commitMessage": "fix: error",
     "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/183e6c7edf87cb811e32540b3d684f5d581a8485"
-  },
-  {
-    "commitId": "d8275691a5da7bc4bf10730869a836a8366553c6",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-02T13:38:29Z",
-    "commitMessage": "fix: error",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/d8275691a5da7bc4bf10730869a836a8366553c6"
-  },
-  {
-    "commitId": "878af0af097621f5959ab0110ec332e0eb384700",
-    "userName": "EastWon0103",
-    "commitTime": "2023-12-02T13:37:13Z",
-    "commitMessage": "feat: devnote sql init",
-    "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/878af0af097621f5959ab0110ec332e0eb384700"
   },
   {
     "commitId": "2380dc5c33c79c8fddb0cb68491d205301a5f2ed",
@@ -1071,6 +1078,41 @@
     "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/aec718b1e122cccc4085ebaf737588d2998c9e71"
   },
   {
+    "commitId": "5ba011f45bf322f86f9ab8ad2ba8bddfe7769483",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-15T13:30:16Z",
+    "commitMessage": "docs: update readme",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-Entity-id-JPA/commits/5ba011f45bf322f86f9ab8ad2ba8bddfe7769483"
+  },
+  {
+    "commitId": "3a6447d8fcfa03160f319a472bb4d757511f3705",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-15T13:26:54Z",
+    "commitMessage": "docs: readme.md 업데이트",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-Entity-id-JPA/commits/3a6447d8fcfa03160f319a472bb4d757511f3705"
+  },
+  {
+    "commitId": "1e0bac7d537bf745479ea40dde5cfd131f0cbd4f",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-15T13:21:16Z",
+    "commitMessage": "[Docs] ULID 생성전략을 통한 고민 지점 및 결론",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-Entity-id-JPA/commits/1e0bac7d537bf745479ea40dde5cfd131f0cbd4f"
+  },
+  {
+    "commitId": "1485f549f7a5d99b0fa8d825a600e5c6e92ba2e3",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-15T01:19:59Z",
+    "commitMessage": "[Fix] 오타 수정",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-Entity-id-JPA/commits/1485f549f7a5d99b0fa8d825a600e5c6e92ba2e3"
+  },
+  {
+    "commitId": "bb58272f41b641980d72b5f852f0ec4276e26dfa",
+    "userName": "JeJune Lee",
+    "commitTime": "2023-12-15T01:19:27Z",
+    "commitMessage": "improvement: k6 테스트 추가",
+    "commitLink": "https://api.github.com/repos/LeeJejune/Kotlin-Entity-id-JPA/commits/bb58272f41b641980d72b5f852f0ec4276e26dfa"
+  },
+  {
     "commitId": "39ac77c84b09eadbff17f931652aff90a5c98d85",
     "userName": "JeJune Lee",
     "commitTime": "2023-12-14T04:54:22Z",
@@ -1491,6 +1533,13 @@
     "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/e3a6d6cb45493fdd8e213cc0fe88582e2087df7d"
   },
   {
+    "commitId": "e2bae97774d07feccc4eb71cc65979ea3423f6bd",
+    "userName": "sunho1999",
+    "commitTime": "2023-12-15T11:21:18Z",
+    "commitMessage": "1일 1알고리즘",
+    "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/e2bae97774d07feccc4eb71cc65979ea3423f6bd"
+  },
+  {
     "commitId": "45d37a1ab80df5b9b9849beea9cb5112561505ad",
     "userName": "sunho1999",
     "commitTime": "2023-12-10T13:17:58Z",
@@ -1692,13 +1741,6 @@
     "commitTime": "2023-10-27T08:46:25Z",
     "commitMessage": "SQL코테준비",
     "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/0b29f22bc0a0286411d9b6253975d19efb7784fc"
-  },
-  {
-    "commitId": "a043eae256b1add5adf61fb342ccd5a75d51dacd",
-    "userName": "sunho1999",
-    "commitTime": "2023-10-27T07:21:47Z",
-    "commitMessage": "SQL코테 준비",
-    "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/a043eae256b1add5adf61fb342ccd5a75d51dacd"
   },
   {
     "commitId": "44815ac09e4acac3ecc6d174a4345db13ec3fec3",
