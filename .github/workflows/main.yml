@@ -48,16 +48,17 @@ jobs:
 
               # Append the commit data to the member's entry in all_commits
               all_commits+=("$commits_data")
+              
             else
               echo "No new commit data for $member."
             fi
           done
-      
+
+          all_commits=($(for commit in "${all_commits[@]}"; do echo "$commit"; done | jq -s 'sort_by(.commitTime)'))
+
           if [[ ${#all_commits[@]} -gt 0 ]]; then
             # Save the commits data to data.json
-            sorted_commits=($(for commit in "${all_commits[@]}"; do echo "$commit"; done | jq -s 'sort_by(.commitTime)'))
-
-            # sorted_commits=$(echo "${all_commits[@]}" | jq -s .)
+            sorted_commits=$(echo "${all_commits[@]}" | jq -s .)
             mkdir -p data
             echo "$sorted_commits" > data/data.json
           else
