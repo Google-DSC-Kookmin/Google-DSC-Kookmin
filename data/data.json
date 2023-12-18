@@ -1,6 +1,20 @@
 [
   [
     {
+      "commitId": "f43f36bc13c9cf376903dbdee9cf26f8ac7f7f7d",
+      "userName": "EastWon0103",
+      "commitTime": "2023-12-17T13:33:32Z",
+      "commitMessage": "feat: final?",
+      "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/f43f36bc13c9cf376903dbdee9cf26f8ac7f7f7d"
+    },
+    {
+      "commitId": "ff53bf5d3db90a454fd0dacb86af63c60fd318c5",
+      "userName": "EastWon0103",
+      "commitTime": "2023-12-17T13:04:16Z",
+      "commitMessage": "feat: batch",
+      "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/ff53bf5d3db90a454fd0dacb86af63c60fd318c5"
+    },
+    {
       "commitId": "f1d4ec1d71ebd13c13ddda5caaade49212a3e1c1",
       "userName": "Juliandocode",
       "commitTime": "2023-12-16T15:21:44Z",
@@ -265,13 +279,6 @@
       "commitTime": "2023-12-08T20:11:18Z",
       "commitMessage": "fix: gitignore",
       "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/7ac3816ff4ce2210e39dcced3470927867381dab"
-    },
-    {
-      "commitId": "94517229cd728ea664a0e2aebdef05b482628cda",
-      "userName": "EastWon0103",
-      "commitTime": "2023-12-08T20:11:05Z",
-      "commitMessage": "fix: gitignore",
-      "commitLink": "https://api.github.com/repos/EastWon0103/fundy-prototype/commits/94517229cd728ea664a0e2aebdef05b482628cda"
     },
     {
       "commitId": "ffa6bd4031baa31b974a598a81bf14728a02fb73",
@@ -839,181 +846,6 @@
       "commitTime": "2023-11-20T05:04:04Z",
       "commitMessage": "blog : error fix",
       "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/6649003c481edc949267a07612b44ebd49de1a84"
-    },
-    {
-      "commitId": "05686d16dba6e77303292562c72346280ad49a83",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:29:16Z",
-      "commitMessage": "modify : _config.yml",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/05686d16dba6e77303292562c72346280ad49a83"
-    },
-    {
-      "commitId": "5abf20a5950bff939aa599c6236f22d34a0a45ac",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:26:31Z",
-      "commitMessage": "src : custom.html",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/5abf20a5950bff939aa599c6236f22d34a0a45ac"
-    },
-    {
-      "commitId": "def4d9409a6b8ff096db9ada4208b525c0af6bbc",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:23:43Z",
-      "commitMessage": "img : logo.ico",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/def4d9409a6b8ff096db9ada4208b525c0af6bbc"
-    },
-    {
-      "commitId": "1ce28487e0fb99fa8336a98de2fa3fb66c5166bd",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:21:05Z",
-      "commitMessage": "img : Charizard.jpg",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/1ce28487e0fb99fa8336a98de2fa3fb66c5166bd"
-    },
-    {
-      "commitId": "43c52b4f1a73dc78e2814562655bfa3fdf2e63dd",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:16:30Z",
-      "commitMessage": "blog : ch blog skin to sunrise",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/43c52b4f1a73dc78e2814562655bfa3fdf2e63dd"
-    },
-    {
-      "commitId": "46a62fa41e481406e2c29f454fa0ab98b6a213a9",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:03:15Z",
-      "commitMessage": "docs : api key warning",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/46a62fa41e481406e2c29f454fa0ab98b6a213a9"
-    },
-    {
-      "commitId": "408019e6d41ca24a4fd45e32e1314eeb8c1dd1f3",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T18:00:56Z",
-      "commitMessage": "src : remove api key from guide code",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/408019e6d41ca24a4fd45e32e1314eeb8c1dd1f3"
-    },
-    {
-      "commitId": "0f47289397285acaa51f1e04698e3a9042ca999b",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T17:57:41Z",
-      "commitMessage": "src : remove api key",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/0f47289397285acaa51f1e04698e3a9042ca999b"
-    },
-    {
-      "commitId": "8b0041859a39431de068f1b55cb65eac6466c20c",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T17:35:20Z",
-      "commitMessage": "docs : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/8b0041859a39431de068f1b55cb65eac6466c20c"
-    },
-    {
-      "commitId": "1614b3e356c10c7e614acd48b50750d29eba592e",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T17:32:16Z",
-      "commitMessage": "src : diffusion model.ipynb",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/1614b3e356c10c7e614acd48b50750d29eba592e"
-    },
-    {
-      "commitId": "301a8fc185d313152c7d107131c437d3203e6958",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:57:29Z",
-      "commitMessage": "src : diffusion model guide.ipynb",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/301a8fc185d313152c7d107131c437d3203e6958"
-    },
-    {
-      "commitId": "4cb736a8dc7f9d2c9c8dd8ef857989a57acb10c8",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:52:15Z",
-      "commitMessage": "docs : add diffusion model",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/4cb736a8dc7f9d2c9c8dd8ef857989a57acb10c8"
-    },
-    {
-      "commitId": "3cfed720fdc73dcdaeef171fd8d997cc0bd8b4ad",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:50:45Z",
-      "commitMessage": "docs : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/3cfed720fdc73dcdaeef171fd8d997cc0bd8b4ad"
-    },
-    {
-      "commitId": "9566ffbd2d92cdb0da5484db558a3c4aea4d8a08",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:47:44Z",
-      "commitMessage": "src : langchain guide.ipynb",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/9566ffbd2d92cdb0da5484db558a3c4aea4d8a08"
-    },
-    {
-      "commitId": "c803206f9898fe67ce79e3082b05e08293f761a9",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:44:01Z",
-      "commitMessage": "src : transformer guide.ipynb",
-      "commitLink": "https://api.github.com/repos/Byeooon/attention-is-all-you-need/commits/c803206f9898fe67ce79e3082b05e08293f761a9"
-    },
-    {
-      "commitId": "71c7a81aab0c75e5e727cba7688568a4e7c08785",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:36:18Z",
-      "commitMessage": "docs : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/71c7a81aab0c75e5e727cba7688568a4e7c08785"
-    },
-    {
-      "commitId": "ace19d68709e0c84a79a846dd5cef4d5e75b5d10",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:34:19Z",
-      "commitMessage": "docs : write introduction",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/ace19d68709e0c84a79a846dd5cef4d5e75b5d10"
-    },
-    {
-      "commitId": "a95c4eb9769ec06eb955081b3747e55e8450f912",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:21:58Z",
-      "commitMessage": "docs : add keras numpy pandas",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/a95c4eb9769ec06eb955081b3747e55e8450f912"
-    },
-    {
-      "commitId": "e2955ef6a77317a9a4bf392f60bf9256a7dcd921",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T15:11:33Z",
-      "commitMessage": "docs : rpi and arduino",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/e2955ef6a77317a9a4bf392f60bf9256a7dcd921"
-    },
-    {
-      "commitId": "298fdd0411ad9451ee1140425f5b8f85075ad468",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T14:58:46Z",
-      "commitMessage": "docs : align left",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/298fdd0411ad9451ee1140425f5b8f85075ad468"
-    },
-    {
-      "commitId": "7235be115ed89039d4ff4ec3a571de3c4cc6fd97",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T14:06:40Z",
-      "commitMessage": "docs : add skill badge",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/7235be115ed89039d4ff4ec3a571de3c4cc6fd97"
-    },
-    {
-      "commitId": "ce08936aba7a24ee26ce064ebe64141ca500476e",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T07:02:43Z",
-      "commitMessage": "docs : change main readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/ce08936aba7a24ee26ce064ebe64141ca500476e"
-    },
-    {
-      "commitId": "b7bc7f15a835f62f5b72dd5f88a3a289c2ae82b4",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T06:59:16Z",
-      "commitMessage": "docs : change main readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/b7bc7f15a835f62f5b72dd5f88a3a289c2ae82b4"
-    },
-    {
-      "commitId": "5537af9111b954b5127067a7f56e0715cfab80cd",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T06:50:13Z",
-      "commitMessage": "blog : change favicon image",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/5537af9111b954b5127067a7f56e0715cfab80cd"
-    },
-    {
-      "commitId": "e1afb9db033898c4f90763be08f487dca6970901",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-19T06:40:39Z",
-      "commitMessage": "blog : page image",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/e1afb9db033898c4f90763be08f487dca6970901"
     }
   ]
 ]
