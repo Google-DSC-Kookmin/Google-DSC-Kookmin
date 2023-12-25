@@ -1,6 +1,132 @@
 [
   [
     {
+      "commitId": "3f36f7ccf4530050422051e2ba563aedb496fc50",
+      "userName": "[Bot] GitHub Actions",
+      "commitTime": "2023-12-24T16:41:02Z",
+      "commitMessage": "Commit build result",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/3f36f7ccf4530050422051e2ba563aedb496fc50"
+    },
+    {
+      "commitId": "9dc4a4f1a39c74f3fd81d83118998c23a2569120",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:06:37Z",
+      "commitMessage": "Update PGM_best_album.py",
+      "commitLink": "https://api.github.com/repos/jin-jae/Coding-Test-Study/commits/9dc4a4f1a39c74f3fd81d83118998c23a2569120"
+    },
+    {
+      "commitId": "0c3f79239b8cbfdb52e6a0e6f25e4b316f256982",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:05:12Z",
+      "commitMessage": "Update PGM_incomplete_runner.py",
+      "commitLink": "https://api.github.com/repos/maj34/Coding-Test-Study/commits/0c3f79239b8cbfdb52e6a0e6f25e4b316f256982"
+    },
+    {
+      "commitId": "1a1524dee66669bee9c050f1536f7417f67ecfac",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:04:51Z",
+      "commitMessage": "Update PGM_phoneketmon.py",
+      "commitLink": "https://api.github.com/repos/maj34/Coding-Test-Study/commits/1a1524dee66669bee9c050f1536f7417f67ecfac"
+    },
+    {
+      "commitId": "98495b0efbade432322a5caa46424bf8a97e83d6",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:04:32Z",
+      "commitMessage": "Update PGM_phone_book.py",
+      "commitLink": "https://api.github.com/repos/maj34/Coding-Test-Study/commits/98495b0efbade432322a5caa46424bf8a97e83d6"
+    },
+    {
+      "commitId": "0d46dd9ddb4a88581ed435a5ee2416b080da92fe",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:04:05Z",
+      "commitMessage": "Update PGM_incomplete_runner.py",
+      "commitLink": "https://api.github.com/repos/maj34/Coding-Test-Study/commits/0d46dd9ddb4a88581ed435a5ee2416b080da92fe"
+    },
+    {
+      "commitId": "da94bbca45cccc2195706ba9ce682f74e4582df8",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:03:36Z",
+      "commitMessage": "Update PGM_clothes.py",
+      "commitLink": "https://api.github.com/repos/maj34/Coding-Test-Study/commits/da94bbca45cccc2195706ba9ce682f74e4582df8"
+    },
+    {
+      "commitId": "9dc4a4f1a39c74f3fd81d83118998c23a2569120",
+      "userName": "마민정 (MinJeong Ma)",
+      "commitTime": "2023-12-24T11:03:19Z",
+      "commitMessage": "Update PGM_best_album.py",
+      "commitLink": "https://api.github.com/repos/maj34/Coding-Test-Study/commits/9dc4a4f1a39c74f3fd81d83118998c23a2569120"
+    },
+    {
+      "commitId": "5dc45514f9cdef3bf862321dad3a8853986e4488",
+      "userName": "Juliandocode",
+      "commitTime": "2023-12-22T15:33:12Z",
+      "commitMessage": "[CICD] test",
+      "commitLink": "https://api.github.com/repos/donggook-me/nextjs-blog/commits/5dc45514f9cdef3bf862321dad3a8853986e4488"
+    },
+    {
+      "commitId": "2784d7657c3bcb38157547bdc8ba7d87106193b6",
+      "userName": "SeYeol_Park",
+      "commitTime": "2023-12-20T07:18:07Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/OK-Data-System-2023-Internship/barrier-free-function/commits/2784d7657c3bcb38157547bdc8ba7d87106193b6"
+    },
+    {
+      "commitId": "2784d7657c3bcb38157547bdc8ba7d87106193b6",
+      "userName": "SeYeol_Park",
+      "commitTime": "2023-12-20T07:17:48Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/OK-Data-System-2023-Internship/barrier-free-function/commits/2784d7657c3bcb38157547bdc8ba7d87106193b6"
+    },
+    {
+      "commitId": "bd5b77749c151981738b740df2453a9f431163d5",
+      "userName": "SeYeol_Park",
+      "commitTime": "2023-12-20T06:56:25Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/OK-Data-System-2023-Internship/barrier-free-function/commits/bd5b77749c151981738b740df2453a9f431163d5"
+    },
+    {
+      "commitId": "a236a20581ae7573fbceee7d7158bdd5a7bdf3bf",
+      "userName": "Changhoon Sung",
+      "commitTime": "2023-12-19T02:10:02Z",
+      "commitMessage": "Fix minor",
+      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/2d-ball-balancing/commits/a236a20581ae7573fbceee7d7158bdd5a7bdf3bf"
+    },
+    {
+      "commitId": "6f3c27f281389ee7852fa7e695a3505ddfa23ed3",
+      "userName": "Changhoon Sung",
+      "commitTime": "2023-12-18T11:35:45Z",
+      "commitMessage": "Revert unit changing",
+      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/2d-ball-balancing/commits/6f3c27f281389ee7852fa7e695a3505ddfa23ed3"
+    },
+    {
+      "commitId": "e628e777c9d63902559fa4804ad9cf2cf9eb78c3",
+      "userName": "Changhoon Sung",
+      "commitTime": "2023-12-18T11:30:55Z",
+      "commitMessage": "Revert unit changing",
+      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/2d-ball-balancing/commits/e628e777c9d63902559fa4804ad9cf2cf9eb78c3"
+    },
+    {
+      "commitId": "ddac9e2498a6d5abec7c77c7a774e7f0b956e0af",
+      "userName": "Changhoon Sung",
+      "commitTime": "2023-12-18T11:07:08Z",
+      "commitMessage": "Add README.md",
+      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/2d-ball-balancing/commits/ddac9e2498a6d5abec7c77c7a774e7f0b956e0af"
+    },
+    {
+      "commitId": "546c943ac08df3559f7ed77759300f76a2ea4b7f",
+      "userName": "Changhoon Sung",
+      "commitTime": "2023-12-18T11:06:32Z",
+      "commitMessage": "Update requirements.txt",
+      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/2d-ball-balancing/commits/546c943ac08df3559f7ed77759300f76a2ea4b7f"
+    },
+    {
+      "commitId": "2ce3f94468b6e57a438d6f9ac29ab9618f9b1f97",
+      "userName": "Changhoon Sung",
+      "commitTime": "2023-12-18T11:04:21Z",
+      "commitMessage": "Update requirements.txt",
+      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/2d-ball-balancing/commits/2ce3f94468b6e57a438d6f9ac29ab9618f9b1f97"
+    },
+    {
       "commitId": "f43f36bc13c9cf376903dbdee9cf26f8ac7f7f7d",
       "userName": "EastWon0103",
       "commitTime": "2023-12-17T13:33:32Z",
@@ -589,48 +715,6 @@
       "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/c7af4202fe7ca54cb3c57bef03d89713d5de6bca"
     },
     {
-      "commitId": "8756525505156487cac20cb7aba3bc04fa612a46",
-      "userName": "Juliandocode",
-      "commitTime": "2023-12-02T09:47:00Z",
-      "commitMessage": "[FEAT] add server UI",
-      "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/8756525505156487cac20cb7aba3bc04fa612a46"
-    },
-    {
-      "commitId": "572edd3570d810db1bfe3bc8b9869b3871bf5bae",
-      "userName": "Juliandocode",
-      "commitTime": "2023-12-02T09:17:36Z",
-      "commitMessage": "[DOCS] docs fix",
-      "commitLink": "https://api.github.com/repos/donggook-me/classRegisterSimulation/commits/572edd3570d810db1bfe3bc8b9869b3871bf5bae"
-    },
-    {
-      "commitId": "0666a3819e36c5322e3bfd501ff4985683723d42",
-      "userName": "Juliandocode",
-      "commitTime": "2023-12-01T09:00:14Z",
-      "commitMessage": "Update test.yml",
-      "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/0666a3819e36c5322e3bfd501ff4985683723d42"
-    },
-    {
-      "commitId": "e87c9bc6c48d411b7e8a3fc5428b5370226105f3",
-      "userName": "Juliandocode",
-      "commitTime": "2023-12-01T08:40:19Z",
-      "commitMessage": "Update test.yml",
-      "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/e87c9bc6c48d411b7e8a3fc5428b5370226105f3"
-    },
-    {
-      "commitId": "101c4a58ce3a0ac08bfe287c1886e4498f19cae2",
-      "userName": "Juliandocode",
-      "commitTime": "2023-12-01T08:34:02Z",
-      "commitMessage": "Update test.yml",
-      "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/101c4a58ce3a0ac08bfe287c1886e4498f19cae2"
-    },
-    {
-      "commitId": "3c19f2908707acd7f54159f37bccfc0453640ac4",
-      "userName": "Juliandocode",
-      "commitTime": "2023-12-01T08:23:40Z",
-      "commitMessage": "Update test.yml",
-      "commitLink": "https://api.github.com/repos/donggook-me/hermes/commits/3c19f2908707acd7f54159f37bccfc0453640ac4"
-    },
-    {
       "commitId": "1b193b9d63532a8941ec52fbc7470a8bae527bd7",
       "userName": "SeYeol00",
       "commitTime": "2023-11-30T09:23:39Z",
@@ -720,132 +804,6 @@
       "commitTime": "2023-11-27T09:52:54Z",
       "commitMessage": "Activities",
       "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/2dd33232bcf2650be96315282d39a3390056d29a"
-    },
-    {
-      "commitId": "2f8297417ce3d0c32578b481740b2b6116a28068",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2023-11-26T15:14:54Z",
-      "commitMessage": "feat : Create memberDataUpdate.yml",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/2f8297417ce3d0c32578b481740b2b6116a28068"
-    },
-    {
-      "commitId": "02f9f5e32b9cc5ef6e0fc2533a37ca20f56cb277",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2023-11-26T15:05:12Z",
-      "commitMessage": "feat : 노션 API 스크립트",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/02f9f5e32b9cc5ef6e0fc2533a37ca20f56cb277"
-    },
-    {
-      "commitId": "c1b8ae04279a5b246d1afbe055156d06f593316e",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2023-11-26T15:04:20Z",
-      "commitMessage": "chore : Token 숨기기",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/c1b8ae04279a5b246d1afbe055156d06f593316e"
-    },
-    {
-      "commitId": "0553709d2b5eddb991fe5fd5995a36e294cec6ab",
-      "userName": "halfmbbn",
-      "commitTime": "2023-11-25T09:33:21Z",
-      "commitMessage": "[체육복] solution",
-      "commitLink": "https://api.github.com/repos/Halfmbbn/Solving-algorithm/commits/0553709d2b5eddb991fe5fd5995a36e294cec6ab"
-    },
-    {
-      "commitId": "879f5586f28957280daf4609a1ae2deee3b6ab35",
-      "userName": "정일형",
-      "commitTime": "2023-11-24T09:11:35Z",
-      "commitMessage": "#6.14",
-      "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/879f5586f28957280daf4609a1ae2deee3b6ab35"
-    },
-    {
-      "commitId": "912371848a8fb2efe60d473e7e58f117f03db74e",
-      "userName": "정일형",
-      "commitTime": "2023-11-23T13:48:37Z",
-      "commitMessage": "login-page",
-      "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/912371848a8fb2efe60d473e7e58f117f03db74e"
-    },
-    {
-      "commitId": "8d5c5cffd4fd8771c7345c3db910f432a5ed0626",
-      "userName": "Maker KSH",
-      "commitTime": "2023-11-23T12:29:55Z",
-      "commitMessage": " ADD : 22P11 upload",
-      "commitLink": "https://api.github.com/repos/SeHyun-Kim04/kookmin-sw-project-2/commits/8d5c5cffd4fd8771c7345c3db910f432a5ed0626"
-    },
-    {
-      "commitId": "aec718b1e122cccc4085ebaf737588d2998c9e71",
-      "userName": "정일형",
-      "commitTime": "2023-11-23T10:26:51Z",
-      "commitMessage": "Update README.md",
-      "commitLink": "https://api.github.com/repos/JohnJung-1017/kokoa-clone-2023/commits/aec718b1e122cccc4085ebaf737588d2998c9e71"
-    },
-    {
-      "commitId": "51d1e57b8997183ce7c475550e9a19c88bde514a",
-      "userName": "sunho1999",
-      "commitTime": "2023-11-23T06:45:40Z",
-      "commitMessage": "리드미 수정",
-      "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/51d1e57b8997183ce7c475550e9a19c88bde514a"
-    },
-    {
-      "commitId": "61b3be834465774d3eb6c485f2474d459aab7326",
-      "userName": "sunho1999",
-      "commitTime": "2023-11-23T06:40:45Z",
-      "commitMessage": "다시",
-      "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/61b3be834465774d3eb6c485f2474d459aab7326"
-    },
-    {
-      "commitId": "1d510aa1fe23f93aadea1c738b4feea1da82fc4f",
-      "userName": "sunho1999",
-      "commitTime": "2023-11-23T06:39:32Z",
-      "commitMessage": "1일 1알고리즘",
-      "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/1d510aa1fe23f93aadea1c738b4feea1da82fc4f"
-    },
-    {
-      "commitId": "7cf9667cd05b08e458f45eaa144932dacfb44c43",
-      "userName": "sunho1999",
-      "commitTime": "2023-11-23T04:04:10Z",
-      "commitMessage": "리드미 수정",
-      "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/7cf9667cd05b08e458f45eaa144932dacfb44c43"
-    },
-    {
-      "commitId": "4ece8b78194b3b2e581eff776a5c4f709c6ab53c",
-      "userName": "sunho1999",
-      "commitTime": "2023-11-23T04:03:06Z",
-      "commitMessage": "1일 1알고리즘",
-      "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/4ece8b78194b3b2e581eff776a5c4f709c6ab53c"
-    },
-    {
-      "commitId": "f4c82acec8a12cb89e7e2d8b698377bd65fa7e6f",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-21T12:07:07Z",
-      "commitMessage": "blog : github badge guide",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/f4c82acec8a12cb89e7e2d8b698377bd65fa7e6f"
-    },
-    {
-      "commitId": "68cee2769d6bc6d7e06c8bc05d14d673b22ee92c",
-      "userName": "sehyun.kim",
-      "commitTime": "2023-11-20T10:42:08Z",
-      "commitMessage": "FIX : index.html",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/68cee2769d6bc6d7e06c8bc05d14d673b22ee92c"
-    },
-    {
-      "commitId": "5f5f0bdf02d22e56719da5defbaa6f303c37de37",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2023-11-20T10:40:33Z",
-      "commitMessage": "data : 멤버 더미 데이터 업로드",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/5f5f0bdf02d22e56719da5defbaa6f303c37de37"
-    },
-    {
-      "commitId": "17d1f9635f995740a0206dfc6d98538f46b98055",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-20T05:43:13Z",
-      "commitMessage": "blog : ch favicon color",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/17d1f9635f995740a0206dfc6d98538f46b98055"
-    },
-    {
-      "commitId": "6649003c481edc949267a07612b44ebd49de1a84",
-      "userName": "Byeooon",
-      "commitTime": "2023-11-20T05:04:04Z",
-      "commitMessage": "blog : error fix",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/6649003c481edc949267a07612b44ebd49de1a84"
     }
   ]
 ]
