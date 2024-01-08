@@ -1,8 +1,11 @@
-name: Automatically GDSC Member Data Update
+name: Run Notion API Script
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 1 */3 *'  # 매 3개월마다 1일에 실행
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -10,25 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2  # 특정 버전 지정 없이 사용
+    - name: Set up environment variables
+      run: |
+        echo "NOTION_TOKEN=${{ secrets.Notion_Token }}" >> $GITHUB_ENV
+        echo "NOTION_DATABASE_ID=${{ secrets.Notion_Database_ID }}" >> $GITHUB_ENV
 
-      - name: Change to the repository directory
-        run: cd Google-DSC-Kookmin.github.io
+    - name: Run script
+      run: python Google-DSC-Kookmin.github.io/.github/Scripts/StoreNotionDB.py
 
-      - name: Setting .secrets.json
-        run: |
-          echo ${{ secrets.Notion_Token }} > .secrets.json
-          echo ${{ secrets.Notion_Database_ID }} >> .secrets.json
-
-      - name: Run script
-        run: python storeNotionDB.py
-
-      # 추가로 Node.js 버전을 16으로 설정
-      - name: Use Node.js 16
-        uses: actions/setup-node@v4
-        with:
-          node-version: 16
+env:
+  NOTION_TOKEN: ${{ secrets.Notion_Token }}
+  NOTION_DATABASE_ID: ${{ secrets.Notion_Database_ID }}
