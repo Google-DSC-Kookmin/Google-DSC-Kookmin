@@ -22,7 +22,7 @@ jobs:
         echo "NOTION_DATABASE_ID=${{ secrets.Notion_Database_ID }}" >> $GITHUB_ENV
 
     - name: Run script
-      run: python Google-DSC-Kookmin.github.io/.github/Scripts/StoreNotionDB.py
+      run: python .github/Scripts/StoreNotionDB.py
 
 env:
   NOTION_TOKEN: ${{ secrets.Notion_Token }}
