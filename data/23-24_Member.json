@@ -1,1 +1,264 @@
-"[{\"name\": \"한승민\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"최승훈\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"정일형\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"정의석\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"정가은\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"임은빈\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"이혁규\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"이준우\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"이정안\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"이유진\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"이세영\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"오형석\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"신채원\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"김세현\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"23-24\"}, {\"name\": \"이동국\", \"email\": \"ert13020@gmail.com\", \"roles\": [\"Organizer\", \"Core Member\"], \"year\": \"23-24\"}, {\"name\": \"변준형\", \"email\": null, \"roles\": [\"Organizer\", \"Core Member\"], \"year\": \"23-24\"}, {\"name\": \"김혜지\", \"email\": null, \"roles\": [\"Organizer\", \"Core Member\"], \"year\": \"23-24\"}, {\"name\": \"신재혁\", \"email\": \"tiswogur6767@gmail.com\", \"roles\": [\"Core Member\", \"Devrel\", \"Devrel Lead\"], \"year\": \"22-23\"}, {\"name\": \"이상현\", \"email\": \"tkdgusis4@kookmin.ac.kr\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"마민정\", \"email\": null, \"roles\": [\"Core Member\", \"AI/ML Lead\", \"Design\"], \"year\": \"22-23\"}, {\"name\": \"홍승현\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"이제준\", \"email\": \"dlwpwns01@naver.com\", \"roles\": [\"Core Member\", \"Backend Lead\"], \"year\": \"22-23\"}, {\"name\": \"황솔희\", \"email\": \"solhee0912@gmail.com\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"김영석\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"김동원\", \"email\": \"dongwon000103@gmail.com\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"평선호\", \"email\": \"wmfrlek99@gmail.com\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"서준원\", \"email\": \"wnsdnjs700@gmail.com\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"안재욱\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"김진재\", \"email\": \"jinjae.dev@gmail.com\", \"roles\": [\"Organizer\", \"Lead\", \"Core Member\", \"Devrel\", \"Design\"], \"year\": \"22-23\"}, {\"name\": \"유광열\", \"email\": \"rhkdduf627@naver.com\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"성창훈\", \"email\": \"whtiesilver@kookmin.ac.kr\", \"roles\": [\"Core Member\", \"Cloud Lead\"], \"year\": \"22-23\"}, {\"name\": \"박세열\", \"email\": \"dmot0126@gmail.com\", \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"김유진\", \"email\": null, \"roles\": [\"Member\"], \"year\": \"22-23\"}, {\"name\": \"이효석\", \"email\": \"dlgytjr99999@kookmin.ac.kr\", \"roles\": [\"Lead\", \"Academic Management\"], \"year\": \"22-23\"}, {\"name\": \"김찬호\", \"email\": null, \"roles\": [\"Core Member\", \"Devrel\"], \"year\": \"22-23\"}]"
+[
+    {
+        "Name": "한승민",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "최승훈",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "정일형",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "정의석",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "정가은",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "임은빈",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "이혁규",
+        "Email": "e_hyeok9@kookmin.ac.kr",
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [
+            "Project"
+        ],
+        "Introduction": "안녕하시라오",
+        "GithubLink": "https://github.com/ehyeok9",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/48217b02-dbaa-4bd3-a457-3d5ddbb2a9bd/KakaoTalk_Photo_2024-01-08-10-32-55.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240108%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240108T024633Z&X-Amz-Expires=3600&X-Amz-Signature=a7f9908679f915b07efa94da3ff0b42cab4db0a749509bf4636a9468f56c81ce&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "이준우",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "이정안",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "이유진",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "이세영",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "오형석",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "신채원",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "김세현",
+        "Email": null,
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "이동국",
+        "Email": "ert13020@gmail.com",
+        "Position": [
+            "Organizer",
+            "Core Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "변준형",
+        "Email": null,
+        "Position": [
+            "Organizer",
+            "Core Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "김혜지",
+        "Email": null,
+        "Position": [
+            "Organizer",
+            "Core Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "김진재",
+        "Email": "jinjae.dev@gmail.com",
+        "Position": [
+            "Organizer",
+            "Lead",
+            "Core Member",
+            "Devrel",
+            "Design"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a60b798d-78e7-499a-9391-b16e479867c6/IMG_1582.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240108%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240108T024633Z&X-Amz-Expires=3600&X-Amz-Signature=eae43fd776340055f355cf219e76695b888430995c2e3054125230705f250b25&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Year": [
+            "22-23",
+            "23-24"
+        ]
+    }
+]
