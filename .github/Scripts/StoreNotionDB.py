@@ -1,5 +1,20 @@
-import requests, json
+import os
+import requests
+import json
 from Filter import filtering
+
+def load_secrets():
+    secrets_path = "./.secrets.json"
+
+    if os.path.isfile(secrets_path):
+        with open(secrets_path) as f:
+            secrets = json.loads(f.read())
+        return secrets
+    else:
+        return {
+            "Notion_Token": os.environ.get('NOTION_TOKEN'),
+            "Notion_Database_ID": os.environ.get('NOTION_DATABASE_ID')
+        }
 
 def storeDatabase(databaseId, headers, Year):
     readUrl = f"https://api.notion.com/v1/databases/{databaseId}/query"
@@ -11,37 +26,36 @@ def storeDatabase(databaseId, headers, Year):
         data = filtering(res.json())
         
         data = json.loads(data)
-        data = [ item for item in data if Year in item["Year"] ]
+        data = [item for item in data if Year in item["Year"]]
 
-        with open(f"./data/{Year}_Member.json", "w", encoding="utf8") as f:
+        file_path = os.path.join(".", "data", f"{Year}_Member.json")
+        with open(file_path, "w", encoding="utf8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-        
+
 def getBody(Year):
     body = {
-                "filter": {
-                    "property": "Year",
-                    "multi_select": {
-                        "contains": {
-                            "name": Year
-                        }
-                    }
-                },
-                "sorts": [
-                    {
-                    "property": "이름", 
-                    "direction": "ascending"
-                    }
-                ]
+        "filter": {
+            "property": "Year",
+            "multi_select": {
+                "contains": {
+                    "name": Year
+                }
             }
+        },
+        "sorts": [
+            {
+                "property": "이름", 
+                "direction": "ascending"
+            }
+        ]
+    }
     
     return body        
 
 if __name__ == "__main__":
-    with open('./.secrets.json') as f:
-        secrets = json.loads(f.read())
-        
-    token = secrets['Notion_Token']
+    secrets = load_secrets()
 
+    token = secrets['Notion_Token']
     databaseId = secrets['Notion_Database_ID']
 
     headers = {
