@@ -1,42 +1,58 @@
 [
     {
-        "Name": "한승민",
+        "Name": null,
         "Email": null,
-        "Position": [
-            "Member"
-        ],
+        "Position": [],
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
         "Image": null,
+        "Year": [
+            "23-24"
+        ]
+    },
+    {
+        "Name": "한승민",
+        "Email": "handsomemin.kmu@gmail.com",
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [
+            "AL / ML"
+        ],
+        "Introduction": "안녕하세요. GDSC member 한승민입니다.",
+        "GithubLink": "https://github.com/handsomem1n",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/c4c8bdaa-a8ee-4f11-b1cd-a71fd2999b91/dalat_in_Vietnam.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240115T020435Z&X-Amz-Expires=3600&X-Amz-Signature=d7e0f2ca6a95de41cbfb50c604883ad78a6a9b0ab4e5aa514030183c9dd45e6b&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
     },
     {
         "Name": "최승훈",
-        "Email": null,
+        "Email": "choish00123@gmail.com",
         "Position": [
             "Member"
         ],
         "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Introduction": "안녕하세요~",
+        "GithubLink": "github.com/CSH2315",
+        "Image": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk_2.jpg",
         "Year": [
             "23-24"
         ]
     },
     {
         "Name": "정일형",
-        "Email": null,
+        "Email": "jungih1017@gmail.com",
         "Position": [
             "Member"
         ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Responsibility": [
+            "Project"
+        ],
+        "Introduction": "화이팅~!",
+        "GithubLink": "github.com/JohnJung-1017",
+        "Image": "https://www.notion.so/images/page-cover/solid_yellow.png",
         "Year": [
             "23-24"
         ]
@@ -48,7 +64,7 @@
             "Member"
         ],
         "Responsibility": [],
-        "Introduction": null,
+        "Introduction": "ㅎㅇㅎㅇ",
         "GithubLink": null,
         "Image": null,
         "Year": [
@@ -71,14 +87,16 @@
     },
     {
         "Name": "임은빈",
-        "Email": null,
+        "Email": "nbeen@kookmin.ac.kr",
         "Position": [
             "Member"
         ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Responsibility": [
+            "frontend"
+        ],
+        "Introduction": "안녕하세요 소프트웨어학과 22학번 임은빈입니다.",
+        "GithubLink": "https://github.com/Nbeenie",
+        "Image": "https://www.notion.so/images/page-cover/webb4.jpg",
         "Year": [
             "23-24"
         ]
@@ -92,9 +110,9 @@
         "Responsibility": [
             "Project"
         ],
-        "Introduction": "안녕하시라오",
+        "Introduction": "안녕하세영",
         "GithubLink": "https://github.com/ehyeok9",
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/48217b02-dbaa-4bd3-a457-3d5ddbb2a9bd/KakaoTalk_Photo_2024-01-08-10-32-55.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240108%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240108T024633Z&X-Amz-Expires=3600&X-Amz-Signature=a7f9908679f915b07efa94da3ff0b42cab4db0a749509bf4636a9468f56c81ce&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://www.notion.so/images/page-cover/nasa_robert_stewart_spacewalk.jpg",
         "Year": [
             "23-24"
         ]
@@ -129,70 +147,78 @@
     },
     {
         "Name": "이유진",
-        "Email": null,
+        "Email": "iamlyj03@kookmin.ac.kr",
         "Position": [
             "Member"
         ],
-        "Responsibility": [],
-        "Introduction": null,
+        "Responsibility": [
+            "AL / ML"
+        ],
+        "Introduction": "안녕하세요!",
         "GithubLink": null,
-        "Image": null,
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/0708c7d3-3b74-4e56-a578-38ee3484260c/IMG_8057.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240115T020435Z&X-Amz-Expires=3600&X-Amz-Signature=3c523f90b3ac1efc14804613ff52fc47001fafbc962b1dd770ecdcfbf1839621&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
     },
     {
         "Name": "이세영",
-        "Email": null,
+        "Email": "lsysy712@kookmin.ac.kr",
         "Position": [
             "Member"
         ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Responsibility": [
+            "Project"
+        ],
+        "Introduction": "안녕하세요.",
+        "GithubLink": "https://github.com/lsysy712",
+        "Image": "https://www.notion.so/images/page-cover/gradients_8.png",
         "Year": [
             "23-24"
         ]
     },
     {
         "Name": "오형석",
-        "Email": null,
+        "Email": "ohsoksk1569@kookmin.ac.kr",
         "Position": [
             "Member"
         ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Responsibility": [
+            "AL / ML"
+        ],
+        "Introduction": "안녕하세요. GDSC Member 오형석입니다.",
+        "GithubLink": "https://github.com/lovesuperlit",
+        "Image": "https://www.notion.so/images/page-cover/met_john_singer_sargent_morocco.jpg",
         "Year": [
             "23-24"
         ]
     },
     {
         "Name": "신채원",
-        "Email": null,
+        "Email": "mirageciel@kookmin.ac.kr",
         "Position": [
             "Member"
         ],
-        "Responsibility": [],
+        "Responsibility": [
+            "AL / ML"
+        ],
         "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "GithubLink": "https://github.com/mirageciel",
+        "Image": "https://www.notion.so/images/page-cover/woodcuts_14.jpg",
         "Year": [
             "23-24"
         ]
     },
     {
         "Name": "김세현",
-        "Email": null,
+        "Email": "\bsehyun.kim@mskh.kr",
         "Position": [
             "Member"
         ],
         "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Introduction": "안녕하세요! MakerKSH라는 이름으로 활동 중인 김세현입니다.",
+        "GithubLink": "https://github.com/SeHyun-Kim04",
+        "Image": "https://www.notion.so/images/page-cover/nasa_bruce_mccandless_spacewalk.jpg",
         "Year": [
             "23-24"
         ]
@@ -204,10 +230,12 @@
             "Organizer",
             "Core Member"
         ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": null,
+        "Responsibility": [
+            "Project"
+        ],
+        "Introduction": "안녕하세요. 개발자 이동국입니다.",
+        "GithubLink": "https://github.com/donggook-me",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/0ee818ad-e87f-4a1a-88f8-175f075365c5/4148155663.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240115T020435Z&X-Amz-Expires=3600&X-Amz-Signature=f8c00fd5a3960d86dcf37ad1164a9db4dec7ef0dfa7c8ca9e448d34525ab1cb1&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
@@ -255,7 +283,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a60b798d-78e7-499a-9391-b16e479867c6/IMG_1582.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240108%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240108T024633Z&X-Amz-Expires=3600&X-Amz-Signature=eae43fd776340055f355cf219e76695b888430995c2e3054125230705f250b25&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a60b798d-78e7-499a-9391-b16e479867c6/IMG_1582.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240115T020435Z&X-Amz-Expires=3600&X-Amz-Signature=ba9c1ed1c5d307bf1e912212a0a18e9a392bfaecd876cd6cfad3669dd34afac3&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23",
             "23-24"
