@@ -31,6 +31,9 @@ def storeDatabase(databaseId, headers, Year):
         data = [item for item in data if Year in item["Year"]]
 
         file_path = os.path.join(script_dir, "..", "..", "data", f"{Year}_Member.json")
+        print(f"Script directory: {script_dir}")
+        print(f"Target file path: {file_path}")
+
         with open(file_path, "w", encoding="utf8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
