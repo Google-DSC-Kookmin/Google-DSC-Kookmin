@@ -3,6 +3,8 @@ import requests
 import json
 from Filter import filtering
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 def load_secrets():
     secrets_path = "./.secrets.json"
 
@@ -28,7 +30,7 @@ def storeDatabase(databaseId, headers, Year):
         data = json.loads(data)
         data = [item for item in data if Year in item["Year"]]
 
-        file_path = os.path.join(".", "data", f"{Year}_Member.json")
+        file_path = os.path.join(script_dir, "..", "..", "data", f"{Year}_Member.json")
         with open(file_path, "w", encoding="utf8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
 
