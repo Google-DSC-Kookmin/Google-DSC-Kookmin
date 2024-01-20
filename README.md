@@ -81,3 +81,4 @@ B 에는 Github actions work flow 가 두 가지 있습니다.
 -----
 ## 🧑‍🤝‍🧑 참여자 
 - 이동국 김세현 이세영 이정안 이혁규 정일형
+- https://www.notion.so/jinjae/gdsc-3f83ee1f75944c9b8e9a91637fee9473?pvs=4
