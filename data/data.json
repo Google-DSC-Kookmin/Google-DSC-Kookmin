@@ -1,6 +1,503 @@
 [
   [
     {
+      "commitId": "a2af9e980e54b259d6d556a0bb2629ce3cf13c66",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T13:16:06Z",
+      "commitMessage": "add: Pull Request template",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/a2af9e980e54b259d6d556a0bb2629ce3cf13c66"
+    },
+    {
+      "commitId": "24c343b4d7dcc4ea7d645a6905e475e16ecf0335",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T13:03:28Z",
+      "commitMessage": "add: Assignments #01",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/24c343b4d7dcc4ea7d645a6905e475e16ecf0335"
+    },
+    {
+      "commitId": "2297b93d1b38418bbac4b1d0047586a2e95c23b8",
+      "userName": "Dongwon KIm",
+      "commitTime": "2024-01-28T11:53:27Z",
+      "commitMessage": "feat: 김동원_문제추천시스템Version1",
+      "commitLink": "https://api.github.com/repos/PDA-Algorithm/Java/commits/2297b93d1b38418bbac4b1d0047586a2e95c23b8"
+    },
+    {
+      "commitId": "a08c2d2c80749112c949f7fb8ec4637f823f62e9",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-28T10:44:12Z",
+      "commitMessage": "solve(baekjoon): 14500 using Python3\n\n- brute force and simulation",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/a08c2d2c80749112c949f7fb8ec4637f823f62e9"
+    },
+    {
+      "commitId": "fb59fb3ac6ef9b1e1dbcc00a5e60563b80b33e6f",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T09:55:54Z",
+      "commitMessage": "add: Front session #7 materials (src files)",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/fb59fb3ac6ef9b1e1dbcc00a5e60563b80b33e6f"
+    },
+    {
+      "commitId": "e74cc1ff5c5123a84832c1dc3e4ed17376a49d6d",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T09:49:03Z",
+      "commitMessage": "add: Front session #6 materials",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/e74cc1ff5c5123a84832c1dc3e4ed17376a49d6d"
+    },
+    {
+      "commitId": "f5fa5140e84f9894bd7035fda0e50f70dc4baf6c",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T09:44:30Z",
+      "commitMessage": "add: Front session #6 materials",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/f5fa5140e84f9894bd7035fda0e50f70dc4baf6c"
+    },
+    {
+      "commitId": "e2be8da60610f940139417b6a1d031de9a6ac47f",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-28T09:19:10Z",
+      "commitMessage": "solve(baekjoon): 1107 using Python3\n\n- brute force",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/e2be8da60610f940139417b6a1d031de9a6ac47f"
+    },
+    {
+      "commitId": "4161b6349f05421120a155dde2f0e20a965ce910",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T09:15:28Z",
+      "commitMessage": "add: Front session #6 materials",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/4161b6349f05421120a155dde2f0e20a965ce910"
+    },
+    {
+      "commitId": "bfb85dc9005ee5dc6ae3f37b72e7e3eda6a3d078",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T09:04:32Z",
+      "commitMessage": "add: Front session #7 materials (pdf only)",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/bfb85dc9005ee5dc6ae3f37b72e7e3eda6a3d078"
+    },
+    {
+      "commitId": "9947ed6eae722380118b5a63b61661bad5de33c5",
+      "userName": "jin-jae",
+      "commitTime": "2024-01-28T08:59:09Z",
+      "commitMessage": "add: Front session #1 materials",
+      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/2023-02-Frontend-Session/commits/9947ed6eae722380118b5a63b61661bad5de33c5"
+    },
+    {
+      "commitId": "484231f678b53cee3a9d7d5f78471b6384f15148",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-27T13:17:39Z",
+      "commitMessage": "solve(baekjoon): 2630 using Python3\n\n- divide and conquer, recursive",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/484231f678b53cee3a9d7d5f78471b6384f15148"
+    },
+    {
+      "commitId": "1226a8f09a5fdeccca50d31882a8f996e3fdad33",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-27T12:51:04Z",
+      "commitMessage": "solve(baekjoon): 14940 using Python3\n\n- BFS using double queue",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/1226a8f09a5fdeccca50d31882a8f996e3fdad33"
+    },
+    {
+      "commitId": "e4d22209af6fd54436b0c0fbff99d4ff72873e64",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-27T10:47:45Z",
+      "commitMessage": "[Silver II] Title: 가장 큰 증가하는 부분 수열, Time: 176 ms, Memory: 31120 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/e4d22209af6fd54436b0c0fbff99d4ff72873e64"
+    },
+    {
+      "commitId": "c4c204740f8ef00f4571857ed3cd3d4f66d9688c",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-27T07:32:52Z",
+      "commitMessage": "solve(baekjoon): 1764 using C++, Python3",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/c4c204740f8ef00f4571857ed3cd3d4f66d9688c"
+    },
+    {
+      "commitId": "56b998db7b73624c9de9282987cf27946cf3334c",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-26T12:10:26Z",
+      "commitMessage": "Add baekjoon 1074 algorithm solution\n\n- use divide and conquer algorithm\n- apply loop reduce optimization",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/56b998db7b73624c9de9282987cf27946cf3334c"
+    },
+    {
+      "commitId": "c7b8e730eb55734c74c12444b375bb3e5d83bdc0",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:53:59Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/c7b8e730eb55734c74c12444b375bb3e5d83bdc0"
+    },
+    {
+      "commitId": "118fa718ae1c5280139b1d780bbdd2628a35d9a2",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:53:42Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/118fa718ae1c5280139b1d780bbdd2628a35d9a2"
+    },
+    {
+      "commitId": "73c32157a967634af34c3eebe29ae160ad3e3ba5",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:53:21Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/73c32157a967634af34c3eebe29ae160ad3e3ba5"
+    },
+    {
+      "commitId": "5c242a59de51644087d2bedff044f81408be42fe",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:53:05Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/5c242a59de51644087d2bedff044f81408be42fe"
+    },
+    {
+      "commitId": "3d5793c16f95c2069fb3ec8afe56e2187d606400",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:52:40Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/3d5793c16f95c2069fb3ec8afe56e2187d606400"
+    },
+    {
+      "commitId": "fbf6b0dc4c7f0913f422ba75460cefaddfc54045",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:52:18Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/fbf6b0dc4c7f0913f422ba75460cefaddfc54045"
+    },
+    {
+      "commitId": "a7dc26a15a88752312d0dd6b6cd9ac33d3ab99bc",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:52:03Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/a7dc26a15a88752312d0dd6b6cd9ac33d3ab99bc"
+    },
+    {
+      "commitId": "9c6ce89ecddc9220645c6ce24d220074a3e27147",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:51:29Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/9c6ce89ecddc9220645c6ce24d220074a3e27147"
+    },
+    {
+      "commitId": "ac5f5dcb4bcb47f5e82d89d21cc52a3731e67ed6",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:50:50Z",
+      "commitMessage": "Add files via upload",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/ac5f5dcb4bcb47f5e82d89d21cc52a3731e67ed6"
+    },
+    {
+      "commitId": "19ef5c816ab66517fe9eac4a62e38aca34858156",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:50:36Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/19ef5c816ab66517fe9eac4a62e38aca34858156"
+    },
+    {
+      "commitId": "77d2886f0554dbf8a16bed5724b50ecfa175721c",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:50:06Z",
+      "commitMessage": "Add files via upload",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/77d2886f0554dbf8a16bed5724b50ecfa175721c"
+    },
+    {
+      "commitId": "bd2a015aa21fc49e29091a4c15b31bdaf45cff82",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:49:03Z",
+      "commitMessage": "Create Readme.md",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/bd2a015aa21fc49e29091a4c15b31bdaf45cff82"
+    },
+    {
+      "commitId": "266a742fbbff7279730d024136c6238bfb0b4baf",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-26T08:48:34Z",
+      "commitMessage": "Delete VGG16 directory",
+      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/266a742fbbff7279730d024136c6238bfb0b4baf"
+    },
+    {
+      "commitId": "0977086806c95a01ade5a453b7bd2ec68c254037",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-26T08:09:12Z",
+      "commitMessage": "Solve entry level algorithms in baekjoon",
+      "commitLink": "https://api.github.com/repos/Jaewoook/algorithm-study/commits/0977086806c95a01ade5a453b7bd2ec68c254037"
+    },
+    {
+      "commitId": "290a301e2531280b59ae133629b5823891794815",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-26T03:04:49Z",
+      "commitMessage": "[Gold IV] Title: 서강그라운드, Time: 48 ms, Memory: 33188 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/290a301e2531280b59ae133629b5823891794815"
+    },
+    {
+      "commitId": "a237a47e2f625977a5d87d05c2257d5fafad4ac2",
+      "userName": "dmo2595",
+      "commitTime": "2024-01-25T16:11:44Z",
+      "commitMessage": "feat: 일단 커밋",
+      "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-Server/commits/a237a47e2f625977a5d87d05c2257d5fafad4ac2"
+    },
+    {
+      "commitId": "16145755bbd980c6f994198beebfac64ef335ccb",
+      "userName": "LEE JUNWOO",
+      "commitTime": "2024-01-25T14:58:39Z",
+      "commitMessage": "Add Test File [test.txt]",
+      "commitLink": "https://api.github.com/repos/iinmv2486/Tutorial-Git/commits/16145755bbd980c6f994198beebfac64ef335ccb"
+    },
+    {
+      "commitId": "9f6cebb5a68a05b496fde400d6a13ba70ba6518a",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-25T07:55:27Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/9f6cebb5a68a05b496fde400d6a13ba70ba6518a"
+    },
+    {
+      "commitId": "26f3bd2c963f7ceab06df0efc2e4c7fdc8b312fd",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-25T02:13:06Z",
+      "commitMessage": "[Gold V] Title: 치킨 배달, Time: 460 ms, Memory: 31120 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/26f3bd2c963f7ceab06df0efc2e4c7fdc8b312fd"
+    },
+    {
+      "commitId": "307ca178c7d63f4eb6f1d68be0fcbf85415b76c5",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T08:03:27Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-Samsung-AI-Challenge/commits/307ca178c7d63f4eb6f1d68be0fcbf85415b76c5"
+    },
+    {
+      "commitId": "4ba6e0b727fc26a4b6b2e7c8c04cf1d215653d0e",
+      "userName": "sunho1999",
+      "commitTime": "2024-01-24T07:40:35Z",
+      "commitMessage": "코테준비",
+      "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/4ba6e0b727fc26a4b6b2e7c8c04cf1d215653d0e"
+    },
+    {
+      "commitId": "91ac882c07b6b7f2b474553efb813468fb8d0b0e",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T06:56:46Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-Samsung-AI-Challenge/commits/91ac882c07b6b7f2b474553efb813468fb8d0b0e"
+    },
+    {
+      "commitId": "8e1d295be34cd073491363bd5c1a76da88bf157c",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-24T06:52:06Z",
+      "commitMessage": "Create README.md",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/8e1d295be34cd073491363bd5c1a76da88bf157c"
+    },
+    {
+      "commitId": "af53a551d47c1ab475a053dd30ee7cbb6adf515a",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-24T06:51:44Z",
+      "commitMessage": "Create README.md",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/af53a551d47c1ab475a053dd30ee7cbb6adf515a"
+    },
+    {
+      "commitId": "6d5537dd06ba9c0ac17c9d281ee3185016d14a90",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-24T06:50:24Z",
+      "commitMessage": "Create chaewon_2.py",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/6d5537dd06ba9c0ac17c9d281ee3185016d14a90"
+    },
+    {
+      "commitId": "56a8908e25cdf38e1c5093102e89d1b0a83b0a00",
+      "userName": "sunho1999",
+      "commitTime": "2024-01-24T06:45:22Z",
+      "commitMessage": "코테준비 타인 코드 참고",
+      "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/56a8908e25cdf38e1c5093102e89d1b0a83b0a00"
+    },
+    {
+      "commitId": "6ba1868a8cb362a767d7fbbaa3aed7799ba82a6f",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T06:35:23Z",
+      "commitMessage": "Create README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-Samsung-AI-Challenge/commits/6ba1868a8cb362a767d7fbbaa3aed7799ba82a6f"
+    },
+    {
+      "commitId": "ade9b678a5cf3fa5f98cbea87c92e7a23225921a",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T05:59:36Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-HD-AI_Challenge/commits/ade9b678a5cf3fa5f98cbea87c92e7a23225921a"
+    },
+    {
+      "commitId": "6e9a743a926be5bd66197f8ef4a4b55ab7b32a98",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T05:29:02Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/4th-ADV-SESSION/commits/6e9a743a926be5bd66197f8ef4a4b55ab7b32a98"
+    },
+    {
+      "commitId": "b62ce30217aa7cf2e14e77831de59c7345ab5133",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T05:28:46Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/4th-ADV-SESSION/commits/b62ce30217aa7cf2e14e77831de59c7345ab5133"
+    },
+    {
+      "commitId": "de2f246849923f4cd2cf0c666f2f0a973f3dd72c",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-24T05:27:58Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/4th-ADV-SESSION/commits/de2f246849923f4cd2cf0c666f2f0a973f3dd72c"
+    },
+    {
+      "commitId": "b6330439a2f7056bc8803e6f19b134273e3de993",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-24T05:00:35Z",
+      "commitMessage": "Create chaewon_1.py",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/b6330439a2f7056bc8803e6f19b134273e3de993"
+    },
+    {
+      "commitId": "1674496d50bfcf27ba2156b5dfae63b328c3635c",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-24T03:05:36Z",
+      "commitMessage": "[Gold V] Title: 내려가기, Time: 300 ms, Memory: 31120 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/1674496d50bfcf27ba2156b5dfae63b328c3635c"
+    },
+    {
+      "commitId": "fbbd404cd713bc450c9b787b3a9baca72a7f100b",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-23T15:42:17Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/fbbd404cd713bc450c9b787b3a9baca72a7f100b"
+    },
+    {
+      "commitId": "5565a416e9f536a303a9aa65f6198746635b03a7",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-23T15:41:46Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/5565a416e9f536a303a9aa65f6198746635b03a7"
+    },
+    {
+      "commitId": "571eedb1d95730739045e395cd82ed0392d96d6e",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-23T15:41:19Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/571eedb1d95730739045e395cd82ed0392d96d6e"
+    },
+    {
+      "commitId": "ca40d500b4603c0f212cb76f892b3a183608d82a",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-23T15:40:54Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/ca40d500b4603c0f212cb76f892b3a183608d82a"
+    },
+    {
+      "commitId": "6fb1201af1818cc3d8919cf4e6f1a4ea88b908a4",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-23T15:39:46Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/6fb1201af1818cc3d8919cf4e6f1a4ea88b908a4"
+    },
+    {
+      "commitId": "39fdb4789b614793c9e29d561fb754549665257b",
+      "userName": "유광열 (GwangYeol Yu)",
+      "commitTime": "2024-01-23T15:39:10Z",
+      "commitMessage": "Update README.md",
+      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/39fdb4789b614793c9e29d561fb754549665257b"
+    },
+    {
+      "commitId": "7dd766c79ab29a5ddebfe2b05655547a97d83bab",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-23T09:30:22Z",
+      "commitMessage": "fix(seo): apply base path for metadata",
+      "commitLink": "https://api.github.com/repos/Jaewoook/portfolio-web/commits/7dd766c79ab29a5ddebfe2b05655547a97d83bab"
+    },
+    {
+      "commitId": "21691b46a5d4f04c1cfb15546c83b9058e428f11",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-23T09:09:08Z",
+      "commitMessage": "fix(seo): change meta tag injection to follow Next.js' way\n\n- move static assets to app directory",
+      "commitLink": "https://api.github.com/repos/Jaewoook/portfolio-web/commits/21691b46a5d4f04c1cfb15546c83b9058e428f11"
+    },
+    {
+      "commitId": "5a83fecd69fed30232d7fbb7881a0145bfc05eeb",
+      "userName": "YiJeongan",
+      "commitTime": "2024-01-23T08:53:57Z",
+      "commitMessage": "deploy",
+      "commitLink": "https://api.github.com/repos/YiJeongan/todo-list/commits/5a83fecd69fed30232d7fbb7881a0145bfc05eeb"
+    },
+    {
+      "commitId": "f9db1d5c46e957ec55b406f9c1ac5a861cdaf62a",
+      "userName": "YiJeongan",
+      "commitTime": "2024-01-23T08:35:30Z",
+      "commitMessage": "update",
+      "commitLink": "https://api.github.com/repos/YiJeongan/todo-list/commits/f9db1d5c46e957ec55b406f9c1ac5a861cdaf62a"
+    },
+    {
+      "commitId": "5b6c6c1c619f5b053e3fd381a8988c696fd56761",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-23T08:13:17Z",
+      "commitMessage": "[Gold V] Title: 이진 검색 트리, Time: 2240 ms, Memory: 33468 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/5b6c6c1c619f5b053e3fd381a8988c696fd56761"
+    },
+    {
+      "commitId": "45b973dee69dec8ba3503865042460df2e9c6aed",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-23T07:33:29Z",
+      "commitMessage": "feat(seo): add SEO information for website\n\n- add thumbnail image",
+      "commitLink": "https://api.github.com/repos/Jaewoook/portfolio-web/commits/45b973dee69dec8ba3503865042460df2e9c6aed"
+    },
+    {
+      "commitId": "5ef121cab637f0d8ab2e7ff667cae622d0025a25",
+      "userName": "sunho1999",
+      "commitTime": "2024-01-23T04:09:09Z",
+      "commitMessage": "코테 준비",
+      "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/5ef121cab637f0d8ab2e7ff667cae622d0025a25"
+    },
+    {
+      "commitId": "dcd525e656bb792a67e1c4856038aad95a265451",
+      "userName": "Jaewook Ahn",
+      "commitTime": "2024-01-22T09:13:14Z",
+      "commitMessage": "feat(seo): add robots.txt",
+      "commitLink": "https://api.github.com/repos/Jaewoook/point-of-view/commits/dcd525e656bb792a67e1c4856038aad95a265451"
+    },
+    {
+      "commitId": "f0817e802e6633091c3b6279fe44c9a2955bb99e",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-22T08:48:06Z",
+      "commitMessage": "Add files via upload",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/f0817e802e6633091c3b6279fe44c9a2955bb99e"
+    },
+    {
+      "commitId": "803a9ba7bdf37940c7fa845a252a190df0a40691",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-22T08:47:47Z",
+      "commitMessage": "Add files via upload",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/803a9ba7bdf37940c7fa845a252a190df0a40691"
+    },
+    {
+      "commitId": "6b2ad6ccaac5167d490d52f54a788587ce4b6e8f",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-22T08:47:26Z",
+      "commitMessage": "Create README.md",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/6b2ad6ccaac5167d490d52f54a788587ce4b6e8f"
+    },
+    {
+      "commitId": "0ed8fee4254f6f4b31141718cea48482c5dc3500",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-22T06:11:42Z",
+      "commitMessage": "Add files via upload",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/0ed8fee4254f6f4b31141718cea48482c5dc3500"
+    },
+    {
+      "commitId": "aaeef8ff0db20b2472c91ed9f1c65c85aac8261e",
+      "userName": "sunho1999",
+      "commitTime": "2024-01-22T05:48:30Z",
+      "commitMessage": "코테준비",
+      "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/aaeef8ff0db20b2472c91ed9f1c65c85aac8261e"
+    },
+    {
+      "commitId": "64a2690487d39ac89b7e7e6f6abbce42779fa8b3",
+      "userName": "Chaewon Shin",
+      "commitTime": "2024-01-22T02:58:27Z",
+      "commitMessage": "Add files via upload",
+      "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/64a2690487d39ac89b7e7e6f6abbce42779fa8b3"
+    },
+    {
+      "commitId": "b98e7058261e8c9342dbb1aabb75be387e2d91b0",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-22T02:44:36Z",
+      "commitMessage": "[Gold IV] Title: 행렬 제곱, Time: 44 ms, Memory: 31120 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/b98e7058261e8c9342dbb1aabb75be387e2d91b0"
+    },
+    {
+      "commitId": "9905402fc464fca1dac5c1fb9517a89050043612",
+      "userName": "Hyeok-Gyu Lee",
+      "commitTime": "2024-01-22T02:27:13Z",
+      "commitMessage": "[Gold III] Title: 최소비용 구하기 2, Time: 300 ms, Memory: 57396 KB -BaekjoonHub",
+      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/9905402fc464fca1dac5c1fb9517a89050043612"
+    },
+    {
       "commitId": "7d967570791b215b909c485f2b38c5d4dddef993",
       "userName": "solhee-hwang",
       "commitTime": "2024-01-21T18:48:36Z",
@@ -36,27 +533,6 @@
       "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/ca0472107129b62fafd123b95428eab0364e8daf"
     },
     {
-      "commitId": "acb7ad966bd8c999d9393c13ea4f4c77aff05d2c",
-      "userName": "Jaewook Ahn",
-      "commitTime": "2024-01-21T10:33:36Z",
-      "commitMessage": "docs: add site screenshot image",
-      "commitLink": "https://api.github.com/repos/Jaewoook/portfolio-web/commits/acb7ad966bd8c999d9393c13ea4f4c77aff05d2c"
-    },
-    {
-      "commitId": "4eccd15e7eb324414fdd58d5f1e34579408fda35",
-      "userName": "Jaewook Ahn",
-      "commitTime": "2024-01-20T11:34:48Z",
-      "commitMessage": "feat(memory): add memory utils\n\n- add fill function to fill memory with single value\n- add getData function to get ranged data from memory\n- add calloc function to allocate memory with zero-fill",
-      "commitLink": "https://api.github.com/repos/Jaewoook/pdfium.js/commits/4eccd15e7eb324414fdd58d5f1e34579408fda35"
-    },
-    {
-      "commitId": "ed407aa71e6e673394ea4d147adc16a4d05db591",
-      "userName": "Jaewook Ahn",
-      "commitTime": "2024-01-20T11:33:45Z",
-      "commitMessage": "docs: update CHANGELOG.md",
-      "commitLink": "https://api.github.com/repos/Jaewoook/pdfium.js/commits/ed407aa71e6e673394ea4d147adc16a4d05db591"
-    },
-    {
       "commitId": "1eaa49f22e2d696aba1c22538f9cfadbdc7d171a",
       "userName": "Juliandocode",
       "commitTime": "2024-01-20T03:32:51Z",
@@ -76,13 +552,6 @@
       "commitTime": "2024-01-20T03:24:11Z",
       "commitMessage": "Update README.md",
       "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/07523ead2e716953050efdf0b1ce36a844a78ad2"
-    },
-    {
-      "commitId": "fdd745d33c765b5cb4baf8c26b1d909197ada1e1",
-      "userName": "Jaewook Ahn",
-      "commitTime": "2024-01-19T12:42:50Z",
-      "commitMessage": "chore(lib): upgrade pdfium binary version to 6183\n\n- embed wasm binary in loader js\n- update wasm module type\n- remove previous .wasm binary",
-      "commitLink": "https://api.github.com/repos/Jaewoook/pdfium.js/commits/fdd745d33c765b5cb4baf8c26b1d909197ada1e1"
     },
     {
       "commitId": "5a67a80d0d0cc06ebe3a5faa5aaa47c34682d838",
@@ -120,48 +589,6 @@
       "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/1b4a6a1f91f611310b5960e42b77ec9372d7f4dd"
     },
     {
-      "commitId": "707d2437b43e26dfa649eb45cb3dcf693ef6de8e",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-19T04:19:37Z",
-      "commitMessage": "Create Readme.md",
-      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/707d2437b43e26dfa649eb45cb3dcf693ef6de8e"
-    },
-    {
-      "commitId": "e85b8a305120d967913dfbe0bd3c51dfde202b85",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-19T04:19:00Z",
-      "commitMessage": "Create Readme.md",
-      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/e85b8a305120d967913dfbe0bd3c51dfde202b85"
-    },
-    {
-      "commitId": "20ce68b9c6cae86e44cf38a8809a6ebe3804b4ea",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-19T04:18:37Z",
-      "commitMessage": "Create Readme.md",
-      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/20ce68b9c6cae86e44cf38a8809a6ebe3804b4ea"
-    },
-    {
-      "commitId": "8c6e863d579a6f80064aa9d41fa8e5a0624087bf",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-19T04:18:21Z",
-      "commitMessage": "Create Readme.md",
-      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/8c6e863d579a6f80064aa9d41fa8e5a0624087bf"
-    },
-    {
-      "commitId": "d4b29826aff0c08e2aa543d01a0fc19c6c888c15",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-19T04:17:58Z",
-      "commitMessage": "Add files via upload",
-      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-Operation-study/commits/d4b29826aff0c08e2aa543d01a0fc19c6c888c15"
-    },
-    {
-      "commitId": "e1a45353a46c148a6e4b081dcde04ca9d39282f8",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-19T04:12:42Z",
-      "commitMessage": "Create Readme.md",
-      "commitLink": "https://api.github.com/repos/X-AI-eXtension-Artificial-Intelligence/5th-operation-study/commits/e1a45353a46c148a6e4b081dcde04ca9d39282f8"
-    },
-    {
       "commitId": "b6dfe7f69f78f4fc9e70dbc5d7ec154d6522fac7",
       "userName": "Hyeok-Gyu Lee",
       "commitTime": "2024-01-19T02:34:48Z",
@@ -181,13 +608,6 @@
       "commitTime": "2024-01-19T01:35:14Z",
       "commitMessage": "코테 준비",
       "commitLink": "https://api.github.com/repos/sunho1999/Algorithm/commits/28f28132d557c61d38bcdbc259d80c41dd7da688"
-    },
-    {
-      "commitId": "5311afa362db22ab9fc5cfb6ad959b4a208e9745",
-      "userName": "Jaewook Ahn",
-      "commitTime": "2024-01-18T11:01:46Z",
-      "commitMessage": "feat(seo): add sitemap plugin\n\n- add typedef file for gatsby config module\n- update package.json information\n- add gatsby-plugin-sitemap dependency",
-      "commitLink": "https://api.github.com/repos/Jaewoook/point-of-view/commits/5311afa362db22ab9fc5cfb6ad959b4a208e9745"
     },
     {
       "commitId": "86d41126f6ddc392798320383e464a2d3ab6b04c",
@@ -393,41 +813,6 @@
       "commitLink": "https://api.github.com/repos/JohnJung-1017/Poker-Web/commits/43f5901a709a41d3426d4ba90a419126cff3a537"
     },
     {
-      "commitId": "500b8c6233a3bc8be97d8fdbf1cd2a0146c418e1",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-15T08:59:58Z",
-      "commitMessage": "Update README.md",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/yugwangyeol/commits/500b8c6233a3bc8be97d8fdbf1cd2a0146c418e1"
-    },
-    {
-      "commitId": "c4e737c7d8f1be3cbf2818e68498361aa66722f8",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-15T07:48:13Z",
-      "commitMessage": "Add files via upload",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/c4e737c7d8f1be3cbf2818e68498361aa66722f8"
-    },
-    {
-      "commitId": "315116bb78038d246d4df4f0321e9385745c9384",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-15T07:47:13Z",
-      "commitMessage": "Delete Whisper directory",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/315116bb78038d246d4df4f0321e9385745c9384"
-    },
-    {
-      "commitId": "5947e6cf773ad2b2173172e375c66bfa994f8314",
-      "userName": "yugwangyeol",
-      "commitTime": "2024-01-15T07:44:16Z",
-      "commitMessage": "whisper upload",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/2023-BigContest/commits/5947e6cf773ad2b2173172e375c66bfa994f8314"
-    },
-    {
-      "commitId": "8a158859f38308852cd901f08ae8f47f56159632",
-      "userName": "yugwangyeol",
-      "commitTime": "2024-01-15T07:00:02Z",
-      "commitMessage": "HD AI Challenge upload",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/HD-AI_Challenge/commits/8a158859f38308852cd901f08ae8f47f56159632"
-    },
-    {
       "commitId": "7103b82744ad9f2c5fdafc26a3435287791ff22c",
       "userName": "Chaewon Shin",
       "commitTime": "2024-01-15T06:23:35Z",
@@ -456,13 +841,6 @@
       "commitLink": "https://api.github.com/repos/EastWon0103/shinhan-web-practice/commits/63db7474169d863a82328fa590d2b043a8ae962f"
     },
     {
-      "commitId": "98f858fecf750479de0e78cff11ced97728b835d",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-15T05:09:15Z",
-      "commitMessage": "feat: main header & nav (need more fix)",
-      "commitLink": "https://api.github.com/repos/EastWon0103/shinhan-web-practice/commits/98f858fecf750479de0e78cff11ced97728b835d"
-    },
-    {
       "commitId": "037fc629e93a1d9c3620e778fc2e0e9a5d2c5e69",
       "userName": "Chaewon Shin",
       "commitTime": "2024-01-15T03:15:57Z",
@@ -475,27 +853,6 @@
       "commitTime": "2024-01-15T03:15:12Z",
       "commitMessage": "Add files via upload",
       "commitLink": "https://api.github.com/repos/ai-kmu/2024_winter_algorithm/commits/5b7920362396a939aacd23f52c9cd71c0e2b4007"
-    },
-    {
-      "commitId": "932df313490648db9eb8e246998de4c284402fd1",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-15T02:33:53Z",
-      "commitMessage": "docs: README.md add description",
-      "commitLink": "https://api.github.com/repos/EastWon0103/shinhan-web-practice/commits/932df313490648db9eb8e246998de4c284402fd1"
-    },
-    {
-      "commitId": "a459d27baa9aea4d29e5f41334370befb6c841c7",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-15T02:26:31Z",
-      "commitMessage": "feat: add body for content",
-      "commitLink": "https://api.github.com/repos/EastWon0103/shinhan-web-practice/commits/a459d27baa9aea4d29e5f41334370befb6c841c7"
-    },
-    {
-      "commitId": "f11c6625b41519229b2143ac9c0437afd736c79a",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-15T02:17:49Z",
-      "commitMessage": "feat: add index.html",
-      "commitLink": "https://api.github.com/repos/EastWon0103/shinhan-web-practice/commits/f11c6625b41519229b2143ac9c0437afd736c79a"
     },
     {
       "commitId": "27ea5293743e9934c8058ccd3db0cccd7b8de72f",
@@ -533,13 +890,6 @@
       "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/4b2877a10bc7b3725e33c7b4fc5547d5a9a28985"
     },
     {
-      "commitId": "1c14a60365747740f7be561e74d0e9335a92af52",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-15T00:34:24Z",
-      "commitMessage": "Update README.md",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/yugwangyeol/commits/1c14a60365747740f7be561e74d0e9335a92af52"
-    },
-    {
       "commitId": "1fc8a9eeb2c658f9a92a602adc59923124484da8",
       "userName": "Hyeok-Gyu Lee",
       "commitTime": "2024-01-14T20:08:03Z",
@@ -559,13 +909,6 @@
       "commitTime": "2024-01-14T13:52:57Z",
       "commitMessage": "[Gold IV] Title: 플로이드, Time: 396 ms, Memory: 31120 KB -BaekjoonHub",
       "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/096fce8aef55c41015b0e41747b374fbc2bd79ed"
-    },
-    {
-      "commitId": "be8a4e6a7556cb237e4ed44d99f2c0baf2f0bb50",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-14T13:11:20Z",
-      "commitMessage": ":memo: doc: add swagger validate nickname",
-      "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-Server/commits/be8a4e6a7556cb237e4ed44d99f2c0baf2f0bb50"
     },
     {
       "commitId": "0e7146e0ce256cd8950ee9bc28ca03e0ebecd6d4",
@@ -594,13 +937,6 @@
       "commitTime": "2024-01-12T09:40:34Z",
       "commitMessage": "코테준비",
       "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/edfd214810d890fc279d5314ce1c934b091680b2"
-    },
-    {
-      "commitId": "af5b9650b8670932ece2cf8d3dbd5e03270d1773",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-12T09:00:04Z",
-      "commitMessage": ":bug: fix: update refresh info when reissue token",
-      "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-Server/commits/af5b9650b8670932ece2cf8d3dbd5e03270d1773"
     },
     {
       "commitId": "a115451d5934c53de3e2f997299fe65aa18368b7",
@@ -736,13 +1072,6 @@
       "commitLink": "https://api.github.com/repos/handsomem1n/Cpp/commits/1ee5ae918db324d675c44d0d1d558597f35098ce"
     },
     {
-      "commitId": "116d9d5ad5c9c8ae3fa3aba25b7ec9b36efe22ae",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-12T00:24:04Z",
-      "commitMessage": ":memo: doc: add swagger validate nickname",
-      "commitLink": "https://api.github.com/repos/Team-Fundy/Fundy-Server/commits/116d9d5ad5c9c8ae3fa3aba25b7ec9b36efe22ae"
-    },
-    {
       "commitId": "fd7a8d4c147ad3e70539a18a9367165985c78ce6",
       "userName": "sunho1999",
       "commitTime": "2024-01-11T07:55:52Z",
@@ -806,20 +1135,6 @@
       "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/29424a68c5918dc14fb3af00da057b334c092d4c"
     },
     {
-      "commitId": "08fd21a6652e1fee3437692891238617ee777e0e",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-10T07:25:09Z",
-      "commitMessage": "add: requirement.txt",
-      "commitLink": "https://api.github.com/repos/EastWon0103/redis-chat-demo/commits/08fd21a6652e1fee3437692891238617ee777e0e"
-    },
-    {
-      "commitId": "5515dd3bd5522a5a32e8e44621b37017e2d3aa8d",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-10T07:22:57Z",
-      "commitMessage": "add: lambda url",
-      "commitLink": "https://api.github.com/repos/EastWon0103/redis-chat-demo/commits/5515dd3bd5522a5a32e8e44621b37017e2d3aa8d"
-    },
-    {
       "commitId": "257c7b36fbd7c67a2702a15c3482b364b6077838",
       "userName": "sunho1999",
       "commitTime": "2024-01-09T14:32:16Z",
@@ -862,13 +1177,6 @@
       "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/bfc7d98cb906a914d2e0edbd8d80b9cfa87b3036"
     },
     {
-      "commitId": "c6c59a976c4933a0cbcea94f575299fd9ce44554",
-      "userName": "EastWon0103",
-      "commitTime": "2024-01-09T04:51:22Z",
-      "commitMessage": "fix: application.py",
-      "commitLink": "https://api.github.com/repos/EastWon0103/redis-chat-demo/commits/c6c59a976c4933a0cbcea94f575299fd9ce44554"
-    },
-    {
       "commitId": "5d26594fe3deffead60ee881431d6809e4f651ea",
       "userName": "Chaewon Shin",
       "commitTime": "2024-01-09T02:07:42Z",
@@ -897,20 +1205,6 @@
       "commitLink": "https://api.github.com/repos/sunho1999/programmers/commits/4c22a22ce4d5787f9ace379780c2f03f34f1ee8d"
     },
     {
-      "commitId": "fd27d66d779ebd0bd4e40b7c3725a948372ea8a4",
-      "userName": "유광열 (GwangYeol Yu)",
-      "commitTime": "2024-01-08T08:00:06Z",
-      "commitMessage": "Update README.md",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/yugwangyeol/commits/fd27d66d779ebd0bd4e40b7c3725a948372ea8a4"
-    },
-    {
-      "commitId": "7c4dcc256a96f6aa722aef51beb4513e7de0e622",
-      "userName": "유광열",
-      "commitTime": "2024-01-08T07:48:17Z",
-      "commitMessage": "Update README.md",
-      "commitLink": "https://api.github.com/repos/yugwangyeol/yugwangyeol/commits/7c4dcc256a96f6aa722aef51beb4513e7de0e622"
-    },
-    {
       "commitId": "c950ad9a912e36cb18c67c8badccf91b1c002828",
       "userName": "Hyeok-Gyu Lee",
       "commitTime": "2024-01-08T03:45:04Z",
@@ -918,60 +1212,11 @@
       "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/c950ad9a912e36cb18c67c8badccf91b1c002828"
     },
     {
-      "commitId": "00658fb8edf1d4d1d8953d49e96493933463991e",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-08T03:35:48Z",
-      "commitMessage": "Update memberDataUpdate.yml",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/00658fb8edf1d4d1d8953d49e96493933463991e"
-    },
-    {
-      "commitId": "e67bd9bb01c8d984cfb549480bc90befc00efc23",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-08T03:33:00Z",
-      "commitMessage": "Update memberDataUpdate.yml",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/e67bd9bb01c8d984cfb549480bc90befc00efc23"
-    },
-    {
-      "commitId": "631912976633b20299ab3f59d6fa00aa13ff5cb1",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-08T03:01:00Z",
-      "commitMessage": "Refactor: 필터링 함수 분리 및 수정",
-      "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/631912976633b20299ab3f59d6fa00aa13ff5cb1"
-    },
-    {
-      "commitId": "77db29eae7c874ccb59dfd544993d0c8970391c2",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-08T00:51:58Z",
-      "commitMessage": "[Gold V] Title: 숨바꼭질 3, Time: 120 ms, Memory: 41840 KB -BaekjoonHub",
-      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/77db29eae7c874ccb59dfd544993d0c8970391c2"
-    },
-    {
       "commitId": "7ded45a7c32385d400fee14c389d6d4c96203db6",
       "userName": "[Bot] GitHub Actions",
       "commitTime": "2024-01-07T04:35:12Z",
       "commitMessage": "Commit build result",
       "commitLink": "https://api.github.com/repos/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/commits/7ded45a7c32385d400fee14c389d6d4c96203db6"
-    },
-    {
-      "commitId": "273b826a9e7b1c9e883f9210a0b242678656b2e0",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-06T13:15:45Z",
-      "commitMessage": "[Unrated] Title: 타노스, Time: 40 ms, Memory: 31120 KB -BaekjoonHub",
-      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/273b826a9e7b1c9e883f9210a0b242678656b2e0"
-    },
-    {
-      "commitId": "3183f046e4fa15af42c99ce53a43d83a13020aeb",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-06T13:09:18Z",
-      "commitMessage": "[Silver II] Title: 약수의 합 2, Time: 128 ms, Memory: 33372 KB -BaekjoonHub",
-      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/3183f046e4fa15af42c99ce53a43d83a13020aeb"
-    },
-    {
-      "commitId": "a27a38533b7f731dec7f416d278414f6ef784e36",
-      "userName": "Hyeok-Gyu Lee",
-      "commitTime": "2024-01-05T06:53:52Z",
-      "commitMessage": "[Silver II] Title: N과 M (9), Time: 100 ms, Memory: 31120 KB -BaekjoonHub",
-      "commitLink": "https://api.github.com/repos/ehyeok9/Algorithm/commits/a27a38533b7f731dec7f416d278414f6ef784e36"
     },
     {
       "commitId": "11d744a63244f5a68bcd4ca21c1772db0f45850d",
@@ -1028,342 +1273,6 @@
       "commitTime": "2024-01-03T05:01:30Z",
       "commitMessage": "오늘 배운 내용",
       "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/6c4b4c8cfc67d5ef67a604864e956fd6efe1ca1d"
-    },
-    {
-      "commitId": "c498039da487aed1d96614f7494a0d2cad57c4c1",
-      "userName": "solhee-hwang",
-      "commitTime": "2023-12-31T05:32:45Z",
-      "commitMessage": "chore : update",
-      "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/c498039da487aed1d96614f7494a0d2cad57c4c1"
-    },
-    {
-      "commitId": "54aa6089b01ccde2cb7238ff4a9f6c67ff4f3826",
-      "userName": "solhee-hwang",
-      "commitTime": "2023-12-31T04:05:42Z",
-      "commitMessage": "chore : 주석",
-      "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/54aa6089b01ccde2cb7238ff4a9f6c67ff4f3826"
-    },
-    {
-      "commitId": "546f14dddd71bfc8028ac6ff0c50339428c5e603",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T10:01:00Z",
-      "commitMessage": "dosc : remove interest",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/546f14dddd71bfc8028ac6ff0c50339428c5e603"
-    },
-    {
-      "commitId": "d1b6853caffe807d605c8dea44ed13afcb967f76",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T09:59:56Z",
-      "commitMessage": "dosc : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/d1b6853caffe807d605c8dea44ed13afcb967f76"
-    },
-    {
-      "commitId": "f08a151482cef5c75fb0ba3eff5fbcec397a787c",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T09:58:03Z",
-      "commitMessage": "dosc : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/f08a151482cef5c75fb0ba3eff5fbcec397a787c"
-    },
-    {
-      "commitId": "f03c86329a337d5bcd6445af6369db0749db2a04",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T09:56:22Z",
-      "commitMessage": "dosc : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/f03c86329a337d5bcd6445af6369db0749db2a04"
-    },
-    {
-      "commitId": "9947fc41845b7cb7e62ecd95d01a576d70dffcec",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T09:51:31Z",
-      "commitMessage": "dosc : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/9947fc41845b7cb7e62ecd95d01a576d70dffcec"
-    },
-    {
-      "commitId": "d611608cafb40f8b833d928855541c3a8dcca6d0",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T09:33:23Z",
-      "commitMessage": "dosc : add md table",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/d611608cafb40f8b833d928855541c3a8dcca6d0"
-    },
-    {
-      "commitId": "e6593b526cc63f7e901c3707b81289b477f7e154",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-30T09:09:23Z",
-      "commitMessage": "blog : python name_main",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/e6593b526cc63f7e901c3707b81289b477f7e154"
-    },
-    {
-      "commitId": "9b9b9d2f23a48ef8df296bfc5ad11362d88b9094",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T09:24:39Z",
-      "commitMessage": "docs : add os badges",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/9b9b9d2f23a48ef8df296bfc5ad11362d88b9094"
-    },
-    {
-      "commitId": "8005f5124cb277f8c187d02db9a17875ffa99ef5",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T09:09:51Z",
-      "commitMessage": "docs : change notion badge color",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/8005f5124cb277f8c187d02db9a17875ffa99ef5"
-    },
-    {
-      "commitId": "124b4fef2e42834ddf99e9833ed8b969deaa7d2b",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T09:07:55Z",
-      "commitMessage": "docs : mysql badge",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/124b4fef2e42834ddf99e9833ed8b969deaa7d2b"
-    },
-    {
-      "commitId": "8a1641274e6b3b9dbf87a7d989649d4580a2cba9",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T09:02:38Z",
-      "commitMessage": "docs : add editor badge",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/8a1641274e6b3b9dbf87a7d989649d4580a2cba9"
-    },
-    {
-      "commitId": "b48b2e0ffd862276fe36d5ab2fcb87d6aa7cfec0",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T08:55:06Z",
-      "commitMessage": "docs : ch main page",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/b48b2e0ffd862276fe36d5ab2fcb87d6aa7cfec0"
-    },
-    {
-      "commitId": "7c7d60071f07cc99a8c2980422576df953802d6e",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T08:52:53Z",
-      "commitMessage": "docs : markdown fix",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/7c7d60071f07cc99a8c2980422576df953802d6e"
-    },
-    {
-      "commitId": "5e0794bf2eb76eb17a6626fbe3cf708a59481489",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T08:52:04Z",
-      "commitMessage": "docs : add github and notion badge",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/5e0794bf2eb76eb17a6626fbe3cf708a59481489"
-    },
-    {
-      "commitId": "403f914ca5ba36ffd70e78d1621643621a95986b",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T08:23:34Z",
-      "commitMessage": "blog : ubuntu terminator",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/403f914ca5ba36ffd70e78d1621643621a95986b"
-    },
-    {
-      "commitId": "24ca25c403bab49f475b531bd750fa931cfcbaad",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T08:10:19Z",
-      "commitMessage": "blog : ros remove",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/24ca25c403bab49f475b531bd750fa931cfcbaad"
-    },
-    {
-      "commitId": "2ed151bb2b36f1ccd17e02009c4708fc6af1dee2",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T07:50:43Z",
-      "commitMessage": "blog : google colab image input",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/2ed151bb2b36f1ccd17e02009c4708fc6af1dee2"
-    },
-    {
-      "commitId": "018a3e83159df3b8560dcd29252cc89d83c8db95",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T07:32:59Z",
-      "commitMessage": "blog : vi commands",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/018a3e83159df3b8560dcd29252cc89d83c8db95"
-    },
-    {
-      "commitId": "684782017bd63a2d1dceba5928cee5dc185c9b71",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-29T07:16:48Z",
-      "commitMessage": "데이터",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/684782017bd63a2d1dceba5928cee5dc185c9b71"
-    },
-    {
-      "commitId": "f047f332d1fe9b74535bdbacfb2321c219029409",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-29T07:16:30Z",
-      "commitMessage": "파일 수정",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/f047f332d1fe9b74535bdbacfb2321c219029409"
-    },
-    {
-      "commitId": "1e1864cf2573efacd6ad3ad7f119a478e3b67729",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-29T07:15:54Z",
-      "commitMessage": "딥러닝 기초",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/1e1864cf2573efacd6ad3ad7f119a478e3b67729"
-    },
-    {
-      "commitId": "ba59a8842a1353549b15e1e66ccde17a31a81bfb",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:38:37Z",
-      "commitMessage": "docs : update main page",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/ba59a8842a1353549b15e1e66ccde17a31a81bfb"
-    },
-    {
-      "commitId": "dcd9f3e8216fe1651905bad2219d939d66a104a5",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:31:03Z",
-      "commitMessage": "docs : letter size down",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/dcd9f3e8216fe1651905bad2219d939d66a104a5"
-    },
-    {
-      "commitId": "c61169f7790aa7c3db19ec9c2a233913d3fe28be",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:29:35Z",
-      "commitMessage": "docs : letter size up",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/c61169f7790aa7c3db19ec9c2a233913d3fe28be"
-    },
-    {
-      "commitId": "ae3ada5590b0fdc309e48be95886d028dfbb8723",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:27:19Z",
-      "commitMessage": "docs : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/ae3ada5590b0fdc309e48be95886d028dfbb8723"
-    },
-    {
-      "commitId": "0c72af6f1d7bced8197de28446befc64922058a7",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:25:02Z",
-      "commitMessage": "docs : ch readme",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon/commits/0c72af6f1d7bced8197de28446befc64922058a7"
-    },
-    {
-      "commitId": "d737724e3735294e177a45ecbeee7e9de2c3b683",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:11:47Z",
-      "commitMessage": "blog : ch custom.html",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/d737724e3735294e177a45ecbeee7e9de2c3b683"
-    },
-    {
-      "commitId": "758d0d25971b2ee4de6cbddb0ed31f5f2e5e16e4",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:09:04Z",
-      "commitMessage": "blog : ch favicon img",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/758d0d25971b2ee4de6cbddb0ed31f5f2e5e16e4"
-    },
-    {
-      "commitId": "c078f9f4040a92567084c745b76805f4e6421ce8",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T06:01:38Z",
-      "commitMessage": "blog : ch main img",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/c078f9f4040a92567084c745b76805f4e6421ce8"
-    },
-    {
-      "commitId": "d12db086a768908c8b4f56571e2ab96f7f962c4b",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T05:49:41Z",
-      "commitMessage": "blog : change batch",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/d12db086a768908c8b4f56571e2ab96f7f962c4b"
-    },
-    {
-      "commitId": "9da2c29e45f4b8a67a8fadb023903ad904413915",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T05:48:41Z",
-      "commitMessage": "fix : error date",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/9da2c29e45f4b8a67a8fadb023903ad904413915"
-    },
-    {
-      "commitId": "ac7268474d7d76681f68f0295a763b4003333320",
-      "userName": "Byeooon",
-      "commitTime": "2023-12-29T05:44:42Z",
-      "commitMessage": "blog : python input with sys.stdin.readline",
-      "commitLink": "https://api.github.com/repos/Byeooon/Byeooon.github.io/commits/ac7268474d7d76681f68f0295a763b4003333320"
-    },
-    {
-      "commitId": "617943d07b7581f70364819ec1a331d288f0ab38",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-29T03:07:26Z",
-      "commitMessage": "공부내용",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/617943d07b7581f70364819ec1a331d288f0ab38"
-    },
-    {
-      "commitId": "4e06e975d9b176450d574f4e75167ccc606364a7",
-      "userName": "solhee-hwang",
-      "commitTime": "2023-12-28T06:56:20Z",
-      "commitMessage": "[EUM-65] feat : community entity 작성",
-      "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/4e06e975d9b176450d574f4e75167ccc606364a7"
-    },
-    {
-      "commitId": "40355c85e4ff8df5fc27d35b38c3c671b8e0da1a",
-      "userName": "solhee-hwang",
-      "commitTime": "2023-12-28T06:45:23Z",
-      "commitMessage": "chore : 주석",
-      "commitLink": "https://api.github.com/repos/EUM-kmu/EUM-Server/commits/40355c85e4ff8df5fc27d35b38c3c671b8e0da1a"
-    },
-    {
-      "commitId": "cd61981c40ef0d5c6bbccc2f0d14d28e6d52f5d1",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-28T04:40:35Z",
-      "commitMessage": "8일차 공부내용",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/cd61981c40ef0d5c6bbccc2f0d14d28e6d52f5d1"
-    },
-    {
-      "commitId": "5a4eb6724b271ed0868b6d24eaa056994d123c61",
-      "userName": "Changhoon Sung",
-      "commitTime": "2023-12-27T18:29:44Z",
-      "commitMessage": "Fix server deployment with docker",
-      "commitLink": "https://api.github.com/repos/ChangHoon-Sung/raingame-rs/commits/5a4eb6724b271ed0868b6d24eaa056994d123c61"
-    },
-    {
-      "commitId": "6d4c1893a35a783986323a729f92b9f383235484",
-      "userName": "jin-jae",
-      "commitTime": "2023-12-27T13:37:05Z",
-      "commitMessage": "refactor: folder",
-      "commitLink": "https://api.github.com/repos/jin-jae/Baekjoon-Level-Solve/commits/6d4c1893a35a783986323a729f92b9f383235484"
-    },
-    {
-      "commitId": "2e633ac1dba115c50219d219e43e79af286a7ee4",
-      "userName": "EUNJEE CHOI",
-      "commitTime": "2023-12-27T08:55:09Z",
-      "commitMessage": "Update PGM_incomplete_runner.py",
-      "commitLink": "https://api.github.com/repos/jin-jae/Coding-Test-Study/commits/2e633ac1dba115c50219d219e43e79af286a7ee4"
-    },
-    {
-      "commitId": "2b6e32efa4019ebe26c42ccfa9d441426dbdb597",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-27T08:35:47Z",
-      "commitMessage": "svm 모델 실습",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/2b6e32efa4019ebe26c42ccfa9d441426dbdb597"
-    },
-    {
-      "commitId": "64102c773401cf8c4d47c062fa830145de857adc",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-27T07:48:49Z",
-      "commitMessage": "kaggle 펭귄 데이터 분석 프로젝트",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/64102c773401cf8c4d47c062fa830145de857adc"
-    },
-    {
-      "commitId": "cf77b9b3d8fc2eea85da1a2f2101d6df43eb7183",
-      "userName": "jin-jae",
-      "commitTime": "2023-12-27T07:17:30Z",
-      "commitMessage": "fix: study presenter",
-      "commitLink": "https://api.github.com/repos/jin-jae/Coding-Test-Study/commits/cf77b9b3d8fc2eea85da1a2f2101d6df43eb7183"
-    },
-    {
-      "commitId": "63483350f5f73d87000d55d02a180ea034fd0559",
-      "userName": "jin-jae",
-      "commitTime": "2023-12-27T07:05:10Z",
-      "commitMessage": "add: week02 template",
-      "commitLink": "https://api.github.com/repos/jin-jae/Coding-Test-Study/commits/63483350f5f73d87000d55d02a180ea034fd0559"
-    },
-    {
-      "commitId": "d62a975d605cfb955a1ea81c27c08ce83fb834e1",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-27T03:27:59Z",
-      "commitMessage": "사용 데이터",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/d62a975d605cfb955a1ea81c27c08ce83fb834e1"
-    },
-    {
-      "commitId": "0c321aae58d6235c1beb2e5edf30ecbc2d57a9de",
-      "userName": "sunho1999",
-      "commitTime": "2023-12-27T03:26:41Z",
-      "commitMessage": "SVM model 학습 및 최적화 진행",
-      "commitLink": "https://api.github.com/repos/sunho1999/SKT_FLY_AI_STUDY/commits/0c321aae58d6235c1beb2e5edf30ecbc2d57a9de"
-    },
-    {
-      "commitId": "3cf0d5ddd1003c3e45402e846b6387fe46a96beb",
-      "userName": "jin-jae",
-      "commitTime": "2023-12-25T14:25:01Z",
-      "commitMessage": "add: Solve week01 problem PGM_incomplete_runner",
-      "commitLink": "https://api.github.com/repos/jin-jae/Coding-Test-Study/commits/3cf0d5ddd1003c3e45402e846b6387fe46a96beb"
     }
   ]
 ]
