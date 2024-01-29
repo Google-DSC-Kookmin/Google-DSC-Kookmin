@@ -22,7 +22,7 @@
         ],
         "Introduction": "안녕하세요. GDSC member 한승민입니다.",
         "GithubLink": "https://github.com/handsomem1n",
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/c4c8bdaa-a8ee-4f11-b1cd-a71fd2999b91/dalat_in_Vietnam.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240122T004023Z&X-Amz-Expires=3600&X-Amz-Signature=8c76c6ffffbf94f3812e97e6daed48c6394a7467412ba83b63c9e05fcfe5490f&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/c4c8bdaa-a8ee-4f11-b1cd-a71fd2999b91/dalat_in_Vietnam.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240129T003548Z&X-Amz-Expires=3600&X-Amz-Signature=f11ce7e24ede5b8aba22351a89ea7a2148c26f5fa8863de561509341805ccdfa&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
@@ -156,7 +156,7 @@
         ],
         "Introduction": "안녕하세요!",
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/0708c7d3-3b74-4e56-a578-38ee3484260c/IMG_8057.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240122T004023Z&X-Amz-Expires=3600&X-Amz-Signature=3de2d4e6a059f5144840ed443d0450a0b8a783def5487a499faa5e435099e3a1&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/0708c7d3-3b74-4e56-a578-38ee3484260c/IMG_8057.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240129T003548Z&X-Amz-Expires=3600&X-Amz-Signature=fc16bad615321cc8e974a2bc4d39fb7aeaa3455bd6e752f59ee745120a83b6ab&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
@@ -257,7 +257,7 @@
     },
     {
         "Name": "김혜지",
-        "Email": null,
+        "Email": "0719hyejee@gmail.com",
         "Position": [
             "Organizer",
             "Core Member"
@@ -283,7 +283,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a60b798d-78e7-499a-9391-b16e479867c6/IMG_1582.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240122T004023Z&X-Amz-Expires=3600&X-Amz-Signature=3d9dcd656d055550f7f0e83ed7a4b7375c4f9d5ec87a00f7b933ab47cfd1585f&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a60b798d-78e7-499a-9391-b16e479867c6/IMG_1582.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240129T003548Z&X-Amz-Expires=3600&X-Amz-Signature=bb2b08c934bdb11ce2cfdc5ae1cfeadc08d55dbc9033ea60b5e29fc3949ea32c&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23",
             "23-24"
