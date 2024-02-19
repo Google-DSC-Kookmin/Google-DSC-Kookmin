@@ -41,7 +41,7 @@ jobs:
           
           for member in "${members[@]}"; do
             echo "Fetching commit history for $member..."
-            member_commits=$(curl -sSL -H "Authorization: Bearer ${{ secrets.GDSC_GH_TOKEN }}" "https://api.github.com/users/${member}/events")
+            member_commits=$(curl -sSL -H "Authorization: Bearer ${{ secrets.GDSC_WEBSITE }}" "https://api.github.com/users/${member}/events")
 
             if [[ $(echo "$member_commits" | jq length) -gt 0 ]]; then
               # Extracting commit-related data (commit ID, name, time, message, link)
