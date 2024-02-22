@@ -24,7 +24,7 @@ jobs:
         uses: repo-sync/pull-request@v2
         with:
           destination_branch: "master"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GDSC_WEBSITE }}
           pr_title: "Merge - ${{ env.BRANCH_NAME }}"
           pr_body: "${{ env.BRANCH_NAME }} will be merged."
           pr_label: "automerge, deploy"
