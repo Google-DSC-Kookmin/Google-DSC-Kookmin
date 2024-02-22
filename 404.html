@@ -4,17 +4,13 @@
     <meta charset="UTF-8">
     <title>리다이렉트 페이지</title>
     <script>
-        function redirectToMain() {
-            // 현재 페이지의 경로를 추출합니다.
+        function redirectWhenReload() {
             var currentPath = window.location.pathname;
-
-            // 메인 루트로 리다이렉트하면서, 현재 경로를 'redirect_from' 쿼리 문자열로 포함시킵니다.
-            // 여기서 'http://www.example.com'은 여러분의 메인 페이지 URL로 대체해야 합니다.
             window.location.href = 'https://google-dsc-kookmin.github.io/redirect=true?redirect_from=' + encodeURIComponent(currentPath);
         }
     </script>
 </head>
-<body onload="redirectToMain();">
-    <p>로딩 중입니다... 이동하지 않으면, <a href="https://google-dsc-kookmin.github.io/">여기를 클릭하세요.</a></p>
+<body onload="redirectWhenReload();">
+    <p>로딩 중입니다... 이동하지 않으면, <a href="#" onclick="redirectWhenReload()">여기를 클릭하세요.</a></p>
 </body>
 </html>
