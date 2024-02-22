@@ -23,7 +23,7 @@ https://jinjae.notion.site/8f37ae9627d649ed9c70547efc1f5c99?pvs=4
 
 **A : 프론트엔드 react 빌드 및 보존을 위한 레포지토리**
 
-- [https://github.com/Google-DSC-Kookmin/2023-02-WebPage-Project](https://github.com/Google-DSC-Kookmin/Project-Front)
+- [[https://github.com/Google-DSC-Kookmin/2023-02-WebPage-Project](https://github.com/Google-DSC-Kookmin/Project-Front)](https://github.com/Google-DSC-Kookmin/2023-02-WebPage-Project)
 - A 의 Github actions 은 빌드된 리액트 정적 파일을 B의 별도 브랜치로 저장합니다.
 
 **B : (현재 레포지토리) 웹사이트와 관련된 정적 파일 코드(html,css,js) 및 멤버 정보, 멤버 활동 정보가 담긴 레포.**
@@ -71,12 +71,13 @@ B 에는 Github actions work flow 가 두 가지 있습니다.
   **2) 웹사이트 내부 디자인의 일부(특정 수치 조정) 수정하고 싶은 경우**
 
     A 레포를 clone 하여 작업한 뒤, A레포에 branch로 푸쉬 및 Pull Request 생성
+    (단, 404페이지는 B레포에서 수정해야합니다.)
+    
 
   **3) 웹사이트 전체 구성 또는 디자인의 큰 변화가 필요할 시**
 
     A 레포를 clone 하여 작업한 뒤, A레포에 branch로 푸쉬 및 Pull Request 생성
-
-      → 어떠한 경우라도 B레포의 정적파일을 수정하는 경우, 다음 업데이트에서 해당내용은 누락됩니다.
+    (전체 구성이 변경되는 경우, SPA 이슈 문서를 읽어보는 것을 추천드립니다.)
 
 -----
 ## 🧑‍🤝‍🧑 참여자 
