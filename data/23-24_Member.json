@@ -8,7 +8,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/14478d1e-b97f-4a22-b630-7942f2c3cf5e/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131009Z&X-Amz-Expires=3600&X-Amz-Signature=3211c814554d63f7352e2735d4db23940e5d657e483462748f96bec7db637d07&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/14478d1e-b97f-4a22-b630-7942f2c3cf5e/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T132050Z&X-Amz-Expires=3600&X-Amz-Signature=01d68de61ea2d7463cca5dbd4d1f76ba2bb0fbab9726d656d9987653f3210686&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
@@ -240,7 +240,7 @@
         ],
         "Introduction": "안녕하세요. 개발자 이동국입니다.",
         "GithubLink": "https://github.com/donggook-me",
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/eea1e017-433d-4a83-92d9-f7548c551b58/ComfyUI_00031_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131009Z&X-Amz-Expires=3600&X-Amz-Signature=f0b6d56766c6d4eade27212bc56dc9d939d94fdfd06cc5936e49cd310320f0e0&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/eea1e017-433d-4a83-92d9-f7548c551b58/ComfyUI_00031_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T132050Z&X-Amz-Expires=3600&X-Amz-Signature=b5c147bb8482c7fb492d1696947400239994877bc48b12ee6f156326407330bf&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "23-24"
         ]
