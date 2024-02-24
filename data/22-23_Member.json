@@ -10,21 +10,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/d8188393-768c-4a2f-8890-b5eb2315a365/KakaoTalk_20220904_211911169.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=50d3e1a6260b9da57cf0f6ea97180d0ef54dfd2251f42a2cc74eadd490cacacf&X-Amz-SignedHeaders=host&x-id=GetObject",
-        "Year": [
-            "22-23"
-        ]
-    },
-    {
-        "Name": "이상현",
-        "Email": "tkdgusis4@kookmin.ac.kr",
-        "Position": [
-            "Member"
-        ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/0e6a4bc5-456e-4f14-b421-c220ad1ec058/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=3953116fec7336af227540370dc7f91cfd6a1b86fa779ef311854c8e8ade3386&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/d8188393-768c-4a2f-8890-b5eb2315a365/KakaoTalk_20220904_211911169.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=97a303e781b149274f69e82c0ade41b5814b021249822d5d1af7f51e0df11c5e&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -40,7 +26,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/8a5a867b-1a54-4cbc-a4e3-6c2d334fbed4/%EB%AF%BC%EC%A0%95_%ED%94%84%EC%82%AC_%EC%B5%9C%EC%A2%85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=1384011f833a58618d7020579ab9ef4aa4d268492c3270fe0917e5681e988865&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/8a5a867b-1a54-4cbc-a4e3-6c2d334fbed4/%EB%AF%BC%EC%A0%95_%ED%94%84%EC%82%AC_%EC%B5%9C%EC%A2%85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=205851439a6b851b76bfea4d67a43c95582e18e7bb900835697d1fef9dee7ac6&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -54,7 +40,21 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/3001d443-c78b-48fb-ab41-6e95b75d65f4/%EC%97%BC%EC%83%891.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=11199c9a9902ac94f64806cc7983c2d95a2821d4db0614a60599bf4fe5b25bed&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/3001d443-c78b-48fb-ab41-6e95b75d65f4/%EC%97%BC%EC%83%891.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=c5056ed4e4eca4f0c976f9106762dfba83191162073d2762ee6219f7cac65aa7&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Year": [
+            "22-23"
+        ]
+    },
+    {
+        "Name": "이상현",
+        "Email": "tkdgusis4@kookmin.ac.kr",
+        "Position": [
+            "Member"
+        ],
+        "Responsibility": [],
+        "Introduction": null,
+        "GithubLink": null,
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/0e6a4bc5-456e-4f14-b421-c220ad1ec058/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=3531b98cec61bcd6eab3e388adec1c3c2c8edad02c3d0efe27fc328068848063&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -69,7 +69,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/5c64ca73-805b-4dea-b3ef-47162229247c/%EC%9D%B4%EC%A0%9C%EC%A4%80_%EC%97%AC%ED%96%89_%EC%82%AC%EC%A7%84.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=7c84596aed35f4fb230f3cd9be38dd6bcb3442507e213e1d7a090d841e2eac86&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/5c64ca73-805b-4dea-b3ef-47162229247c/%EC%9D%B4%EC%A0%9C%EC%A4%80_%EC%97%AC%ED%96%89_%EC%82%AC%EC%A7%84.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=4251846ebb56b9ec0aac8f4d15adcc27b19457ce3e2e6d0e10d7d2c80c654d71&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -83,7 +83,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/43ed9a62-1243-4aa5-90f0-78598a5137a4/FECFF6F0-9C46-49C3-B3E6-A21EE82C50CF.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=1c8588318f84614af875cac42da7f299264295570334797be356f89e4bcb8c65&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/43ed9a62-1243-4aa5-90f0-78598a5137a4/FECFF6F0-9C46-49C3-B3E6-A21EE82C50CF.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=404fb0badf6934fd08f87f7b01155a1771786018f2feefee523e924829ca8570&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -97,7 +97,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/fc76bf7d-241b-4001-916c-3a85f0fdb9a9/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=fc30daf13386952402cef97d9ee01fc45fe871bb51430cf4d23ebf7dd9332abd&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/fc76bf7d-241b-4001-916c-3a85f0fdb9a9/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=a1b146d28bf4881b75885dd533bad072f95c77698a7c70847034a0c6c19c2e72&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -111,7 +111,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/66968736-43fe-4737-8750-c539f70635db/profile.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=3767163f11541409a6dbd1e1d56de38255d1b0831d8cd18c39d3edce64adc48a&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/66968736-43fe-4737-8750-c539f70635db/profile.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=08ec580c4b57efb5b22e69b119b446fcddf450c67637c1e2964e2e83999b29b9&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -125,7 +125,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/f2a465a6-dc64-45fc-b128-a65583441628/IMG_3073.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=03e6e0e098080187ce48235555df27ab99f847001a0441ac0850585f744f58cd&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/f2a465a6-dc64-45fc-b128-a65583441628/IMG_3073.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=809e60c1101b8085c03c24846e3bf70a39cb0335e8d92ab1960ea3176f7c57b2&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -139,7 +139,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/ab7bf83a-f6ad-4ed1-a4b5-8f0c3893e011/zzzz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=85ab92a72d0f4f264d1b64afacc5c6b7c7999145295a9b573a5a2a5c03da7a25&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/ab7bf83a-f6ad-4ed1-a4b5-8f0c3893e011/zzzz.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=ead0dc6a8be8538517aac4a06bd819cbb80e5ab583b10f391f22ee5b8981b6d5&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -153,7 +153,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/afbe87b2-0a83-4607-aad6-bd1b9219f64d/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=49aa75edf2848aab7309d53cb9b40b08110764b3c656fc0e8024031605803c5e&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/afbe87b2-0a83-4607-aad6-bd1b9219f64d/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=0ac31847ab93d020c4427914a81d41e16562d6d66b23f4981c8ccef202c1ae4c&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -186,7 +186,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/6592d1cb-2e5b-47c3-a4d7-0663751be2bd/KakaoTalk_20220529_125707098.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=577104c2fa9cda04cbb260852999ee1455afb2dad98ee6d8db355ae0403f6553&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/6592d1cb-2e5b-47c3-a4d7-0663751be2bd/KakaoTalk_20220529_125707098.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=3df77efe65503cd197353770e6d5f97a400b8be8cab17211c6aae4eddb35e620&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -201,7 +201,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a82db2b2-4803-43ab-861f-ff51fa1d276f/IMG_4156.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=b6e976be48de4e3950512b301f2ff6f6c6883090212205e5a327a2c626cd11ce&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/a82db2b2-4803-43ab-861f-ff51fa1d276f/IMG_4156.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=a5a7d89b5585c4c01a31e82e5bfc282a5a4703e97ab7b363d64f13035dc0bd86&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -215,7 +215,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/afc35778-8881-4cd4-9bc8-216fa93db1c1/KakaoTalk_Photo_2022-11-25-00-55-04.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=02338e8c04727d400077ce20559d5fa2c6548f8e829cf3e4b89846c2b6200e4f&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/afc35778-8881-4cd4-9bc8-216fa93db1c1/KakaoTalk_Photo_2022-11-25-00-55-04.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=ad0c9a013451c30dfb10e97692c3ff37c94667752edfa0d55e6b1fbdd4c65a31&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -229,7 +229,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/4e8e9884-2af7-4e05-b9a2-7085ab4ba529/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=f1555de76be01e3decd25e42b3868f87d3f8dae7099e7c42ac407886d197b62c&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/4e8e9884-2af7-4e05-b9a2-7085ab4ba529/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=f6a0fb6dad60ceba5934ccc045873dcf0225d298c78f236718b3b048fa31a9dd&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -244,7 +244,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/46276e29-c386-44f1-8ca2-30a154f983b0/%EC%82%AC%EC%A7%84.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=e7a93eb418f51bdc139f04835e530469c4b60482d6246bd282aeb4693bd38deb&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/46276e29-c386-44f1-8ca2-30a154f983b0/%EC%82%AC%EC%A7%84.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=8dbb18e04ea1a7f17b023b920527a44e0c574ab1a8a17097b7200ba24fdb953a&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
@@ -259,7 +259,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/78843f6b-e695-4290-a53c-55063be79814/IMG_3780_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240205T074143Z&X-Amz-Expires=3600&X-Amz-Signature=98bbb4cd388bcc7c03a5bf2a23a0ceb6ea83237f2ad4127600454170c7800282&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/78843f6b-e695-4290-a53c-55063be79814/IMG_3780_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T131008Z&X-Amz-Expires=3600&X-Amz-Signature=18b3abc078e498ba67fcd7d947b802ea26ef30547e3116a5ca48829df4416d5c&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23"
         ]
