@@ -1,19 +1,5 @@
 [
     {
-        "Name": "[이름]",
-        "Email": null,
-        "Position": [
-            "Member"
-        ],
-        "Responsibility": [],
-        "Introduction": null,
-        "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/14478d1e-b97f-4a22-b630-7942f2c3cf5e/Koomin_GDSC_Title.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T132734Z&X-Amz-Expires=3600&X-Amz-Signature=a972fca043834c0739cdf48d4d47a84e0442632a5f98e738ce0a4f1a9ca2ef65&X-Amz-SignedHeaders=host&x-id=GetObject",
-        "Year": [
-            "23-24"
-        ]
-    },
-    {
         "Name": "한승민",
         "Email": "handsomemin.kmu@gmail.com",
         "Position": [
@@ -240,7 +226,7 @@
         ],
         "Introduction": "안녕하세요. 개발자 이동국입니다.",
         "GithubLink": "https://github.com/donggook-me",
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/eea1e017-433d-4a83-92d9-f7548c551b58/ComfyUI_00031_.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T132734Z&X-Amz-Expires=3600&X-Amz-Signature=13967d1365f02d1e3da92632b56a5f4983dab121cafb744be90ade739420c4cb&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://www.notion.so/images/page-cover/nasa_ibm_type_704.jpg",
         "Year": [
             "23-24"
         ]
@@ -288,7 +274,7 @@
         "Responsibility": [],
         "Introduction": null,
         "GithubLink": null,
-        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/31114db8-cd89-4c47-b204-02e8c9bc1b9c/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240224T132734Z&X-Amz-Expires=3600&X-Amz-Signature=8768337b63a163a9d78674e5b76aed3e42a0cc57b6373d12e86ac379c847990c&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "Image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5dec6805-3a18-4a48-bf92-2a90b112134d/31114db8-cd89-4c47-b204-02e8c9bc1b9c/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240225%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240225T015955Z&X-Amz-Expires=3600&X-Amz-Signature=a87b276cfc63e010da6903ea1307f0d4b70bf1b454f8eb97a7e602af2502a854&X-Amz-SignedHeaders=host&x-id=GetObject",
         "Year": [
             "22-23",
             "23-24"
