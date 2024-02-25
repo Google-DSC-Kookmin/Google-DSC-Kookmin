@@ -35,7 +35,9 @@ B 에는 Github actions work flow 가 두 가지 있습니다.
 - B - **[main.yml](https://github.com/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/blob/master/.github/workflows/main.yml)** :  Github Pages 는 해당 레포지토리를 호스팅해줍니다.
 - B - **[memberDataUpdate.yml](https://github.com/Google-DSC-Kookmin/Google-DSC-Kookmin.github.io/blob/master/.github/workflows/memberDataUpdate.yml) :내부 노션 멤버 데이터베이스에 접근하고,
 - Notion API 를 통해 등록된 모든 멤버들의 속성값(이름, 깃허브 주소..)을 불러와 data/Members.json 에 저장합니다.**
-
+- 현재 노션에서 "사용자가 업로드한" aws s3 url 이미지의 경우 만료되어 사용이 불가한 이슈가 존재합니다.
+- 따라서 주기적인 해당 job 실행에 문제가 존재하고, 노션을 긁어오는 액션 로직에 추가 리뷰가 필요하도록 제한을 걸어 두었습니다(1 reviewer required) 
+- 이슈 관련 노션 링크 : https://jinjae.notion.site/b5ff3724369a4babaf3cb4f9b5b5df34?pvs=4
 
 -----
 
