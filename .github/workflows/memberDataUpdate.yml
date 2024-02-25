@@ -1,15 +1,16 @@
 name: Run Notion API Script
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+   # branches:
+    #  - main
   workflow_dispatch:
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
-
+    environment: Notion-access
+  
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -21,8 +22,9 @@ jobs:
 
     - name: Run script
       run: python .github/Scripts/StoreNotionDB.py
-
+    
     - name: Commit and push changes
+      
       run: |
         cd $GITHUB_WORKSPACE
         git config user.email "actions@github.com"
